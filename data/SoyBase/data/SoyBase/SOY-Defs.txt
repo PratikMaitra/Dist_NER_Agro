@@ -1,0 +1,875 @@
+		
+SOY:0001302	Shattering	The propensity of a soybean pod to shatter during drying.
+SOY:0001303	Reaction to Xanthomonas campestris pv phaseoli infection	Reaction of the plant or plant part to infection by Xanthomonas campestris pv phaseoli.
+SOY:0001304	Abnormal seedling	Number of decayed seeds and seedlings, plus number of stunted seedlings (less than 2-cm growth).
+SOY:0001305	Adventitious roots	Indication of the amount of adventitious roots present. Adventitious root defined as post-embryonic root developed from shoot tissue.
+SOY:0001306	Adventitious Shoots	Regeneration of shoots from hypocotyls, cotyledonary nodes, or other abnormal location.
+SOY:0001307	Reaction to Alfalfa Mosaic Virus Infection (AMV)	Reaction of the plant or plant part to infection by Alfalfa mosaic Virus.
+SOY:0001308	Reaction to Alternaria alternata infection	Reaction of the plant or plant part to Alternaria alternata infection.
+SOY:0001309	Aluminum Tolerance	Ability of seedlings to grow in the presence of aluminum. Determined by measuring elongation of the primary root and the two longest lateral roots. Tolerance expressed as a percent of controls in solution without Al.
+SOY:0001310	Antibiosis	Resistance in which an insect's normal relationship with a host plant causes physiological or developmental detriment to the insect.
+SOY:0001311	Antixenosis	Resistance in which an insect is either repelled from or not attracted to its normal host plant.
+SOY:0001312	Reaction to Pseudomonas syringae infection	Reaction of the plant or plant part to infection by Pseudomonas syringae.
+SOY:0001313	Water Use Efficiency	Water use of the soybean plant measured as total dry weight of plant material per liter of water used.
+SOY:0001314	Reaction to Bean Yellow Mosaic Virus Infection (BYMV)	Reaction of the plant or plant part to infection by bean yellow mosaic virus.
+SOY:0001315	Reaction to Colaspis brunnea	Reaction of the plant or plant part to Colaspis brunnea adult and larval feeding.
+SOY:0001316	R5 Beginning Seed	Number of days after planting when a 3 mm pod was found at one of the four uppermost nodes that had a fully developed leaf.
+SOY:0001317	Brachytic Stem	Plant reduced in height but retaining the normal number of internodes; internode length reduced.
+SOY:0001318	Branching	Tendency of plant to form primary branches, measured at maturity.
+SOY:0001319	Reaction to Phytophthora nicotianae infection	Reaction of the plant or plant part to Phytophthora nicotianae infection.
+SOY:0001320	Reaction to Phialophora gregata infection	Reaction of the plant or plant part to infection by Phialophora gergata.
+SOY:0001321	Reaction to Tobacco Ringspot Virus Infection (TRSV)	Reaction of the plant or plant part to infection by Tobacco ringspot Virus.
+SOY:0001322	Reaction to Phyllophaga congrua	Reaction to feeding by P. congrua larvae.
+SOY:0001323	Reaction to Diabrotica undecimpunctata howardi	Reaction of the plant or plant part to Diabrotica undecimpunctata howardi adult and larval feeding.
+SOY:0001324	Canopy Height	The height of the leaf canopy above ground.
+SOY:0001325	Canopy Width	Canopy width was measured at the widest point of the leaf canopy.
+SOY:0001326	Carbon Isotope Discrimination	Ratio of 13C/12C. Measured in juvenile trifoliolate leaf and used as a measure of transpiration efficiency.
+SOY:0001327	Chasmogamy	A reproductive system involving potential outcrossing in open (chasmogamous) flowers.
+SOY:0001328	Chlorimuron Ethyl Sensitivity	Sensitivity to damage by chlorimuron ethyl.
+SOY:0001329	Chlorosis Score	A system to score the reduction in chlorophyll in leaves or leaflets by observation.
+SOY:0001330	Cleistogamy	A reproductive system involving selfing in closed (cleistogamous) flowers.
+SOY:0001331	Reaction to Helicoverpa zea	Reaction of the plant or plant part to feeding by Helicoverpa zea larvae.
+SOY:0001332	Cotyledon color	The color of the cotyledon.
+SOY:0001333	Reaction to Cowpea Chlorotic Mottle Virus Infection (CCMV)	Reaction of the plant or plant part to infection by Cowpea Chlorotic Mottle Virus.
+SOY:0001334	Reaction to Cowpea Mild Mottle Virus Infection (CMMV)	Reaction of the plant or plant part to infection by Cowpea mild mottle Virus.
+SOY:0001335	Reaction to Heterodera glycines	Reaction of the plant or plant part to Heterodera glycines of unknown race feeding.
+SOY:0001336	Reaction to Diaporthe phaseolorum infection	Reaction of the plant or plant part to D. phaseolorum infection.
+SOY:0001337	Reaction to Xanthomonas phaseoli infection	Reaction of the plant or plant part to infection by X. phaseoli.
+SOY:0001338	Reaction to Xanthomonas axonopodis infection	Reaction of the plant or plant part to infection by X. axonopodis.
+SOY:0001339	Reaction to Pseudomonas adropogonis infection	Reaction of the plant or plant part to infection by P. adropogonis.
+SOY:0001340	Reaction to Pseudomonas savastanoi infection	Reaction of the plant or plant part to infection by Pseudomonas savastanoi.
+SOY:0001341	Suspensor abscission	Separation of the suspensor from the hilum.
+SOY:0001342	Leaf Abscission	Separation of the petiole from the stem at maturity.
+SOY:0001343	Chlorosis	Reduction in chlorophyll in a plant or plant part.
+SOY:0001344	Seed cysteine content	The amount of total seed protein that is composed of cysteine.
+SOY:0001345	Seed daidzein content	Daidzein content of a seed.
+SOY:0001347	Reaction to Peronospora manshurica infection	Reaction of the plant or plant part to Peronospora manshurica infection.
+SOY:0001348	Early Shattering Score	Estimated percent of pods open at harvest.
+SOY:0001349	Reaction to Achrya rantalis	Reaction of the plant or plant part to Achrya rantalis larval feeding.
+SOY:0001350	Fasciated Stem	Stem broadened and flattened, with most of pods at stem tip.
+SOY:0001351	Flooding Tolerance	Response of plant to inundation by water of all or part of the plant.
+SOY:0001352	Flower Color	Color of the flower petals.
+SOY:0001353	Flowering Date	Date that 50% of the plants have begun to flower.
+SOY:0001354	Leaflet Chlorosis	Reduction in the chlorophyll content of a leaflet.
+SOY:0001355	Stem Chlorosis	Reduction in the chlorophyll content of the stem.
+SOY:0001356	Seed basic glycinin subunit content	The amount of basic protein subunits of the glycinin proteins in seeds.
+SOY:0001357	Seed acidic glycinin subunit content	The amount of acidic subunits of the glycinins in seed protein.
+SOY:0001358	Asynapsis	Failure to form synapsis at pachytema.
+SOY:0001359	Desynapsis	Initial formation of loose synapsis during the first synapsis, but fails to maintain synapsis during subsequent stages of meiosis.
+SOY:0001360	S1.11 Dry Seed Stage	Seed has obtained a 12% moisture content and is quiescent.
+SOY:0001361	Reaction to Fusarium oxysporum f sp tracheiphilum infection	Reaction of the plant or plant part to Fusarium oxysporum f sp tracheiphilum infection.
+SOY:0001362	Seed genistein content	Genistein content of a seed.
+SOY:0001363	Seed glycitein content	Glycitein content of a seed.
+SOY:0001364	Reaction to Cerotoma trifurcata	Reaction of the plant or plant part to Plathypena scabra adult and larval feeding.
+SOY:0001365	Plant Height	Plant height from ground to stem tip in centimeters measured at maturity (R8).
+SOY:0001366	Height/Lodging	Height in centimeters divided by lodging score.
+SOY:0001367	Hilum Color	Color of the soybean seed hilum.
+SOY:0001368	Hypocotyl Color	The color of the hypocotyl.
+SOY:0001369	Hypocotyl Length	Average length from point of initiation of first secondary root to point of attachment of cotyledons.
+SOY:0001370	Index of Parasitism	Mean number of females in given subfamily divided by number of females on susceptible germplasm times 100.
+SOY:0001372	Iodine Number	Iodine number. Calculated from fatty acid composition on a crude basis.
+SOY:0001373	Iron Efficiency	Iron (Fe) deficiency may occur when certain genotypes are planted on calcareous soil. Symptoms include chlorosis of the interveinal tissues of young leaves, with the veins remaining green.
+SOY:0001374	Reaction to Meloidogyne species	Reaction of the plant or plant part to Meloidogyne species feeding.
+SOY:0001375	Reaction to Meloidogyne javanica	Reaction of the plant or plant part to Meloidogyne javanica feeding.
+SOY:0001376	Reaction to Hoplolaimus columbus	Resistance to disease caused by Hoplolaimus columbus feeding.
+SOY:0001377	Late Shattering Score	Estimated percent of pods open 2 weeks after harvest.
+SOY:0001378	Leaf  Necrosis	Leaf margin necrosis appearing about 3 months after planting.
+SOY:0001379	Leaflet Length	Average length in mm of three terminal leaflets from the upper third of plant. The average length of six fully expanded leaflets (Randomly chosen).
+SOY:0001380	Leaflet ash content	The ash content of a leaflet.
+SOY:0001381	Reaction to Phyllophaga implicita	Reaction of the plant or plant part to feeding by P. implicita larvae.
+SOY:0001382	Leaf Scorch	Browning of leaves associated with various stresses, including Cl toxicity, herbicides, and infection with fungus Fusarium solani causing Sudden Death Syndrome.
+SOY:0001383	Reaction to Phyllophaga rugosa	Reaction of the plant or plant part to P. rugosa larval feeding.
+SOY:0001384	Seed tocopherol content	The total tocopherol content of a seed.
+SOY:0001385	Leaflet area	Area in square mm of single leaflet from central leaflets of fully expanded leaves.
+SOY:0001386	Leaflet Arrangement	The arrangement of the leaflets on the petiole.
+SOY:0001387	Leaflet Color	Color of the leaflet.
+SOY:0001388	Leaflet number	The number of leaflets on a mature leaf, usually 3-7.
+SOY:0001389	Leaflet shape	The shape of the leaflet.
+SOY:0001390	Reaction to Melanagromyza sojae	Reaction of the plant or plant part to feeding by Melanagromyza sojae larvae.
+SOY:0001391	Seed linoleic acid content	Linoleic acid as a percent of total oil in a seed.
+SOY:0001392	Seed linolenic acid content	Linolenic acid as a percent of oil extracted from a seed.
+SOY:0001393	Lodging	Tendency of plant to lodge, measured at maturity.
+SOY:0001394	Long Juvenile	Delayed flowering under short-day lighting conditions.
+SOY:0001395	Seed alpha-tocopherol content	The alpha-tocopherol content of a seed.
+SOY:0001396	Seed gamma-tocopherol content	The gamma-tocopherol content of a seed.
+SOY:0001397	cpDNA Diversity	PCR-RFLP analysis of chloroplast DNA used to study diversity and maternal lineage in wild and cultivated soybean.
+SOY:0001412	Soybean Fertility or Sterility Traits	Traits affecting soybean plant fertility or sterility.
+SOY:0001413	Reaction to Ophiomyia phaseoli	Reaction of the plant or plant part to feeding by O. phaseoli larvae.
+SOY:0001414	Seed coat color	Color of the soybean seed coat.
+SOY:0001415	Seed Coat Hardness	Seed coat hardness (permiability) is measured by the percent seed germination in the absence of scarification. (Scarified seed is used as a control).
+SOY:0001416	Seed Coat Luster	Luster of the soybean seed coat.
+SOY:0001417	Seed Shape	General shape of seed.
+SOY:0001418	Seed Quality	Visual quality evaluation considering wrinkling, defective seed coat, greenish or diseased seeds. Scored on a scale from 1 - 5, with 1= Good and 5= Poor.
+SOY:0001419	Seed Set	The number of fertilized ovules in a pod that mature into viable seeds.
+SOY:0001420	Reaction to Ascochyta sajaecola infection	Reaction of the plant or plant part to Ascochyta sojaecola infection.
+SOY:0001421	Reaction to Colletotrichum dematium infection	Reaction of the plant or plant part to infection by C. dematium.
+SOY:0001422	Reaction to Curvularia lunata infection	Reaction of the plant or plant part to Curvularia lunata infection.
+SOY:0001423	Reaction to Diaporthe sojae Infection	Reaction of the plant or plant part to Diaporthe sojae.
+SOY:0001424	Reaction to Diaporthe phaseolorum var sojae Infection	Reaction of the plant or plant part to Diaporthe phaseolorum var sojae.
+SOY:0001425	Reaction to Pseudomonas savastanoi pv glycinea infection	Reaction of the plant or plant part to infection by Pseudomonas savastanoi pv glycinea.
+SOY:0001426	Reaction to Xanthomonas axonopodis pv glycines infection	Reaction of the plant or plant part to infection by Xanthomonas axonopodis pv glycines.
+SOY:0001427	Reaction to Pseudomonas syringae pv glycinea infection	Reaction of the plant or plant part to infection by Pseudomonas syringae pv glycinea.
+SOY:0001428	Reaction to Xanthomonas campestris pv glycines infection	Reaction of the plant or plant part to infection by Xanthomonas campestris pv glycines.
+SOY:0001429	Reaction to Xanthomonas phaseoli var sojensis infection	Reaction of the plant or plant part to infection by Xanthomonas phaseoli var sojensis.
+SOY:0001430	Reaction to Curtobacterium flaccumfaciens pv flaccumfaciens infection	Reaction of the plant or plant part to infection by Curtobacterium flaccumfaciens pv flaccumfaciens.
+SOY:0001431	Reaction to Pseudomonas syringae pv tobaci infection	Reaction of the plant or plant part to infection by Pseudomonas syringae pv tobaci.
+SOY:0001432	Reaction to Pseudomonas solanacearum infection	Reaction of the plant or plant part to Infection by Pseudomonas solanacearum.
+SOY:0001433	Reaction to Ralstonia solanacearum infection	Reaction of the plant or plant part to infection by Ralstonia solanacearum.
+SOY:0001434	Reaction to Corynebacterium floccumfaciens infection	Reaction of the plant to Corynebacterium floccumfaciens infection.
+SOY:0001435	Reaction to Bacillus subtilis infection	Reaction of the plant or plant part to Bacillus subtilis infection.
+SOY:0001436	Reaction to Alternaria tenussima infection	Reaction of the plant or plant part to infection by Alternaria tenussima.
+SOY:0001437	Reaction to Colletotrichum truncatum infection	Reaction of the plant or plant part to infection by Colletotrichum truncatum .
+SOY:0001438	Reaction to Colletotrichum coccodes infection	Reaction of the plant or plant part to infection by Colletotrichum coccodes.
+SOY:0001439	Reaction to Glomerella glycines infection	Reaction of the plant or plant part to Glomerella glycines infection.
+SOY:0001440	Reaction to Spodoptera exigua	Reaction of the plant or plant part to Spodoptera exiqua larval feeding.
+SOY:0001441	Reaction to Glomerella cingulata infection	Reaction of the plant or plant part to infection by Glomerella cingulata.
+SOY:0001442	Reaction to Aristastoma comarographioides infection	Resistance to disease caused by Aristastoma camarographioides.
+SOY:0001443	Reaction to Aristastoma guttulosom infection	Reistance to disease caused by Aristastoma guttulosom infection.
+SOY:0001444	Reaction to Arkoola nigra infection	Reaction of the plant or plant part to infection by Arkoola nigra.
+SOY:0001445	Reaction to Mycosphaerella uspenskajae infection	Reaction of the plant or plant part to Mycosphaerella uspenkajae infection.
+SOY:0001446	Reaction to Mycosphaerella phaseolorum infection	Reaction of the plant or plant part to Mycosphaerella phaseolorum infection.
+SOY:0001447	Reaction to Botrytis cinerae infection	Reaction of the plant or plant part to infection by Botrytis cinerae.
+SOY:0001448	Reaction to Cercospora kikuchii infection	Reaction of the plant or plant part to Cercospora kikuchii infection.
+SOY:0001449	Reaction to Ascochyta sojae infection	Reaction of the plant or plant part to Ascochyta sojae infection.
+SOY:0001450	Reaction to Ascochyta phaseolorum infection	Reaction of the plant or plant part to Ascochyta phaseolorum infection.
+SOY:0001451	Reaction to Curvularia lunata var aeria infection	Reaction of the plant or plant part to Curvularia lunata var aeria infection.
+SOY:0001452	Reaction to Peronospora sojae infection	Reaction of the plant or plant part to Peronopora sojae infection.
+SOY:0001453	Reaction to Drechslera glycines infection	Reaction of the plant or plant part to infection by Drechslera glycines.
+SOY:0001454	Reaction to Fusarium oxysporum f sp vasinfectum infection	Reaction of the plant or plant part to Fusarium oxysporum f sp vasinfectum infection.
+SOY:0001455	Reaction to Fusarium pallidoroseum infection	Resistance to disease caused by Fusarium pallidoroseum infection.
+SOY:0001456	Reaction to Fusarium solani infection	Reaction of the plant or plant part to infection by Fusarium solani.
+SOY:0001457	Reaction to Diaporthe longicolla Infection	Reaction of the plant or plant part to Diaporthe longicolla infection.
+SOY:0001458	Reaction to Diaporthe phaseolorum var caulivora Infection	Reaction of the plant or plant part to Diaporthe phaseolorum var caulivora infection.
+SOY:0001459	Reaction to Diaporthe phaseolorum var meridionalis Infection	Reaction of the plant or plant part to Diaporthe phaseolorum var meridionalis infection.
+SOY:0001460	Reaction to Fusarium solani f sp glycines infection	Reaction of the plant or plant part to Fusarium solani f. sp. glycines infection.
+SOY:0001461	Reaction to Phytophthora megasperma f sp glycinea infection	Reaction of the plant or plant part to Phytophthora megasperma f sp glycinea infection.
+SOY:0001462	Reaction to Pythium aphanidermatum infection	Reaction of the plant or plant part to Pythium aphanidermatum infection.
+SOY:0001463	Reaction to Pythium debaryanum infection	Reaction of the plant or plant part to Pythium debaryanum infection.
+SOY:0001464	Reaction to Pythium irregulare infection	Reaction of the plant or plant part to Pythium irregulare infection.
+SOY:0001465	Reaction to Pythium ultimum infection	Reaction of the plant or plant part to Pythium ultimum infection.
+SOY:0001466	Reaction to Choanephora infundibulifera infection	Reaction of the plant or plant part to infection by Choanephora infundibulifera.
+SOY:0001467	Reaction to Leptosphaerulina trifolii infection	Reaction of the plant or plant part to Leptophaerulina trifolii infection.
+SOY:0001468	Reaction to Pleosphaerulina sojicola infection	Reaction of the plant or plant part to Pleosphaerulina sojicola infection.
+SOY:0001469	Reaction to Dactuliochaeta glycines infection	Reaction of the plant or plant part to infection by Dactuliochaeta glycines.
+SOY:0001470	Reaction to Thanatephorus cucumeris infection	Reaction of the plant or plant part by Thanatephorus cucumeris infection.
+SOY:0001471	Reaction to Phakopsora meibomiae infection	Reaction of the plant or plant part to Phakopsora meibomiae infection.
+SOY:0001472	Reaction to Phakopsora pachyrhizi infection	Reaction of the plant or plant part to Phakopsora pachyrhizi infection.
+SOY:0001473	Reaction to Sphaceloma glycines infection	Reaction of the plant or plant part to Sphaceloma glycines infection.
+SOY:0001474	Reaction to Pleospora tarda infection	Reaction of the plant or plant part to Pleospora tarda infection.
+SOY:0001475	Reaction to Pleospora herbarum infection	Reaction of the plant or plant part by Pleospora herbarum infection.
+SOY:0001476	Reaction to Pleospora allii infection	Reaction of the plant or plant part by Pleospora allii infection.
+SOY:0001477	Reaction to Corynespora cassiicola infection	Reaction of the plant or plant part to infection by Corynepora cassicola.
+SOY:0001478	Reaction to Macrophomina phaseolina infection	Reaction of the plant or plant part to Macrophomina phaseolina infection.
+SOY:0001479	Reaction to Sclerotinia sclerotiorum infection	Reaction of the plant or plant part to Sclerotinia sclerotiorum infection.
+SOY:0001480	Reaction to Athelia rolfsii infection	Reaction of the plant or plant part to infection by Athelia rolfsii.
+SOY:0001481	Reaction to Thielaviopsis basicola infection	Reaction of the plant or plant part to Thielaviopsis basicola infection.
+SOY:0001482	Reaction to Gliochadium roseum infection	Reaction of the plant or plant part to infection by Gliocladium roseum.
+SOY:0001483	Reaction to Mycoleptodiscus terrestris infection	Reaction of the plant or plant part to Mycoleptodiscus terrestris infection.
+SOY:0001484	Reaction to Neocosmospora vasinfecta infection	Reaction of the plant or plant part to Neocosmospora vasinfecta infection.
+SOY:0001485	Reaction to Myrothecium roridum infection	Reaction of the plant or plant part to Myrothecium roridum infection.
+SOY:0001486	Reaction to Myrothecium verrucaria infection	Reaction of the plant or plant part to Myrothecium verrucaria infection.
+SOY:0001487	Reaction to Microsphaera diffusa infection	Reaction of the plant or plant part to Microsphaera diffusa infection.
+SOY:0001488	Reaction to Pseudomonas adropogonis pv sojae infection	Reaction of the plant or plant part to infection by Pseudomonas andropogonis pv sojae.
+SOY:0001489	Reaction to Black Gram Mottle Virus Infection (BMoV)	Reaction of the plant or plant part to infection by Black gram mottle Virus.
+SOY:0001490	Reaction to Bean Pod Mottle Virus Infection (BPMV)	Reaction of the plant or plant part to infection by Bean pod mottle Virus.
+SOY:0001491	Reaction to Cowpea severe mosaic Virus Infection (CPSMV)	Reaction of the plant or plant part to infection by Cowpea severe mosaic Virus.
+SOY:0001492	Reaction to Soybean Stunt Virus Infection (SSV)	Reaction of the plant or plant part to infection by Soybean Stunt Virus.
+SOY:0001493	Reaction to Peanut Stunt Virus Infection (PSV)	Reaction of the plant or plant part to infection by Peanut Stunt Virus.
+SOY:0001494	Reaction to Soybean Yellow Vein Virus Infection (SbYVV)	Reaction of the plant or plant part to infection by Soybean Yellow Vein Virus.
+SOY:0001495	Reaction to Tobacco Streak Virus Infection (TSV)	Reaction of the plant or plant part to infection by Tobacco Streak Virus.
+SOY:0001496	Reaction to Indonesian Soybean Dwarf Virus Infection (ISDV)	Reaction of the plant or plant part to infection by Indonesian Soybean Dwarf Virus.
+SOY:0001497	Reaction to Soybean Dwarf Virus Infection (SbDV)	Reaction of the plant or plant part to infection by Soybean Dwarf Virus.
+SOY:0001498	Reaction to Soybean Severe Stunt Virus Infection (SSSV)	Reaction of the plant or plant part to infection by Soybean Severe Stunt Virus.
+SOY:0001499	Reaction to Peanut Mottle Virus Infection (PeMoV)	Reaction of the plant or plant part to infection by Peanut Mottle Virus.
+SOY:0001500	Reaction to Peanut Stripe Virus Infection (PStV)	Reaction of the plant or plant part to infection by Peanut Stripe Virus.
+SOY:0001501	Reaction to Soybean Mosaic Virus Infection (SMV)	Reaction of the plant or plant part to infection by Soybean Mosaic Virus.
+SOY:0001502	Reaction to Tobacco Mosaic Virus Infection (TMV)	Reaction of the plant or plant part to infection by Tobacco Mosaic Virus.
+SOY:0001503	Reaction to African Soybean Dwarf Virus Infection (SbDV)	Reaction of the plant or plant part to infection by African Soybean Dwarf Virus.
+SOY:0001504	Reaction to Mung Bean Yellow Mosaic Virus Infection (MYMV)	Resistance to disease caused by Mung Bean Yellow Mosaic Virus infection.
+SOY:0001505	Reaction to Soybean Crinkle Leaf Virus Infection (SCLV)	Reaction of the plant or plant part to infection by Soybean Crinkle Leaf Virus.
+SOY:0001506	Reaction to Soybean Chlorotic Mottle Virus Infection  (SbCmV)	Reaction of the plant or plant part to infection by Soybean Chlorotic Mottle Virus.
+SOY:0001507	Reaction to Soybean Mild Mosaic Virus Infection (SMMV)	Reaction of the plant or plant part to infection by Soybean Mild Mosaic Virus.
+SOY:0001508	Reaction to Cucumber Mosaic Virus Infection (CuMV)	Reaction of the plant or plant part to infection by Cucumber Mosaic Virus.
+SOY:0001509	Reaction to Azuki Mosaic Virus Infection (AzMV)	Reaction of the plant or plant part to infection by Azuki Mosaic virus.
+SOY:0001510	Reaction to Abutilon Mosaic Virus Infection (AbMV)	Reaction of a plant or plant part to infection by Abutilon Mosaic Virus.
+SOY:0001511	Reaction to Bean Chlorotic Ringspot virus Infection (BCRV)	Reaction of the plant or plant part to infection by Bean Chlorotic Ringspot virus.
+SOY:0001512	Reaction to Bean Common Mosaic Virus Infection (BCMV)	Reaction of the plant or plant part to infection by Bean Common Mosaic Virus.
+SOY:0001513	Reaction to Blackeye Cowpea Mosaic Virus Infection (BICMV)	Reaction of the plant or plant part to infection by Blackeye Cowpea Mosaic Virus.
+SOY:0001514	Phytoplasma disease resistance traits	Resistance to disease caused by phytoplasma or mycobacterial like organism.
+SOY:0001515	Bud proliferation	Resistance to the development of Bud proliferation.
+SOY:0001516	Machismo	Resistance to disease caused by the Machismo organism.
+SOY:0001517	Witches broom	Resistance to disease caused by the Witches broom organism.
+SOY:0001518	Reaction to Phoma exigua infection	Reaction of the plant or plant part to Phoma exigua infection.
+SOY:0001519	Reaction to Colias eurytheme	Reaction of the plant or plant part to Colias eurytheme larval feeding.
+SOY:0001520	Reaction to Rhopalosiphum maidis	Reaction of the plant or plant part to feeding by Rhopalosiphum maidis.
+SOY:0001521	Reaction to Aphis spraecola	Reaction of the plant or plant part to feeding by Aphis spraecola.
+SOY:0001522	Reaction to Myzus persicae	Reaction of the plant or plant part to feeding by Myzus persicae.
+SOY:0001523	Reaction to Rhapalosiphum padi	Reaction of the plant or plant part to feeding by Rhapalosiphum padi.
+SOY:0001524	Reaction to Aphis craccivora	Reaction of the plant or plant part to feeding by the aphid Aphis craccivora.
+SOY:0001525	Reaction to Aphis gossypii	Reaction of the plant or plant part to Aphis gossypii feeding.
+SOY:0001526	Reaction to Spodoptera frugiperda	Reaction of the plant or plant part to feeding by Spodoptera frugiperda.
+SOY:0001527	Reaction to Spodoptera ornithogalli	Reaction of the plant or plant part to feeding by Spodoptera ornithogalli.
+SOY:0001528	Reaction to Diabrotica balteata	Reaction of the plant or plant part to Diabrotica balteata feeding.
+SOY:0001529	Reaction to Epicauta funebris	Reaction of the plant or plant part to feeding by Epicauta funebris adults.
+SOY:0001530	Reaction to Hypera punctata	Reaction of the plant or plant part to Hypera punctata adult feeding.
+SOY:0001531	Reaction to Agotis ipsilon	Reaction of the plant or plant part to Agotis ipsilon larval feeding.
+SOY:0001532	Reaction to Feltia ducens	Reaction of the plant or plant part to Felta ducens larval feeding.
+SOY:0001533	Reaction to Peridroma saucia	Reaction of the plant or plant part to Peridroma saucia larval feeding.
+SOY:0001534	Reaction to Dectes texanus ssp. texanus	Reaction of the plant or plant part to Dectes texanus ssp texanus larval feeding.
+SOY:0001535	Reaction to Halticus bractatus	Reaction of the plant or plant part to Halticus bractatus adult and larval feeding.
+SOY:0001536	Reaction to Ophiomyia centrosematis	Reaction of the plant or plant part to O. centrosematis larval feeding.
+SOY:0001537	Reaction to Melanoplus femurrubrum	Reaction of the plant or plant part to Melanoplus femurrubrum adult and larval feeding.
+SOY:0001538	Reaction to Melanoplus differentialis	Reaction of the plant or plant part to Melanoplus differentialis adult and larval feeding.
+SOY:0001539	Reaction to Plathypena scabra	Reaction of the plant or plant part to Plathypen scabra larval feeding.
+SOY:0001540	Reaction to Calomycterus setarius	Reaction of the plant or plant part to Calomycterus setarius adult feeding.
+SOY:0001541	Reaction to Popilliae japnoica	Reaction of the plant or plant part to Popilliae japonica adult feeding.
+SOY:0001542	Reaction to Elasmopalpus lignosellus	Reaction of the plant or plant part to Elasmopalpus lignosellus larval feeding.
+SOY:0001543	Reaction to Pseudoplusia includens	Reaction of the plant or plant part to Pseudoplusia includens larval feeding.
+SOY:0001544	Reaction to Trichoplusia ni	Reaction of the plant or plant part to Trichoplusia ni larval feeding.
+SOY:0001545	Reaction to Epilachna varivestis	Reaction of the plant or plant part to Epilachna varivestis adult and larval feeding.
+SOY:0001546	Reaction to Vanessa cardui	Reaction of the plant or plant part to Vanessa cardui larval feeding.
+SOY:0001547	Reaction to Lygus lineolaris	Reaction of the plant or plant part to Lygus lineolaris adult feeding.
+SOY:0001548	Reaction to Empoasca fabae	Reaction of the plant or plant part to Empoasca fabae adult and nymphal feeding.
+SOY:0001549	Reaction to Delia platura	Reaction of the plant or plant part to Delia platura larval feeding.
+SOY:0001550	Reaction to Odontota horni	Reaction of the plant or plant part to Odontota horni adult and larval feeding.
+SOY:0001551	Reaction to Odontota dorsalis	Reaction of the plant or plant part to Odontota dorsalis adult and larval feeding.
+SOY:0001552	Reaction to Sumitosis rosea	Reaction of the plant or plant part to Sumitrosis rosea adult and larval feeding.
+SOY:0001553	Reaction to Rivellia quadrifasciata	Reaction of the plant or plant part to Rivellia quadriasciata larval feeding.
+SOY:0001554	Reaction to Sericothrips variabilis	Reaction of the plant or plant part to Sericothrips variabilis adult and larval feeding.
+SOY:0001555	Reaction to Frankliniella tritici	Reaction of the plant or plant part to Frankliniella tritici adult and larval feeding.
+SOY:0001556	Reaction to Colaspis louisianae	Reaction of the plant or plant part to Colaspis louisianae adult and larval feeding.
+SOY:0001557	Reaction to Colaspis floridana	Reaction of the plant or plant part to Colaspis floridana adult and larval feeding.
+SOY:0001558	Reaction to Papaipema nebris	Reaction of the plant or plant part to Papaipema nebris larval feeding.
+SOY:0001559	Reaction to Nezara viridula	Reaction of the plant or plant part to Nezara viridula adult and nymphal feeding.
+SOY:0001560	Reaction to Acrosternum hilare	Reaction of the plant or plant part to Acrosternum hilare adult and nymphal feeding.
+SOY:0001561	Reaction to Euschistus servus	Reaction of the plant or plant part to Euschistus servus adult and nymphal feeding.
+SOY:0001562	Reaction to Spissistilus festinus	Reaction of the plant or plant part to Spissistilus festinus feeding.
+SOY:0001563	Reaction to Tetranychus urticae	Reaction of the plant or plant part to Tetranychus urticae feeding.
+SOY:0001564	Reaction to Tetranychus pacificus	Reaction of the plant or plant part to Tetranychus pacificus feeding.
+SOY:0001565	Reaction to Anticarsia gemmatalis	Reaction of the plant or plant part to Anticarsia gemmatalis larval feeding.
+SOY:0001566	Reaction to Bemisia tabaci	Reaction of the plant or plant part to Bremisia tobaci adult and larval feeding.
+SOY:0001567	Reaction to Phyllophaga species	Reaction of the plant or plant part to larval feeding by Phyllophaga species.
+SOY:0001568	Reaction to Melanotus	Reaction of the plant or plant part to larval feeding by Melanotus species.
+SOY:0001569	Reaction to Spilosma virginica	Reaction of the plant or plant part to Spilosma virginica larval feeding.
+SOY:0001570	Reaction to Alternaria infection	Reaction of the plant or plant part to infection by Alternaria species.
+SOY:0001571	Reaction to Aristastoma infection	Reaction of the plant or plant part to infection by Aristastoma species.
+SOY:0001574	Reaction to Colletotrichum infection	Reaction of the plant or plant part to infection by Colletotrichum species.
+SOY:0001586	Reaction to Hoplolaimus galeatus	Reaction of the plant or plant part to Hoplolaimus galeatus feeding.
+SOY:0001587	Reaction to Hoplolaimus magnistylus	Reaction of the plant or plant part to Hoplolaimus magnistylus feeding.
+SOY:0001588	Reaction to Meloidogyne arenaria	Reaction of the plant or plant part to Meloidogyne arenaria feeding.
+SOY:0001589	Reaction to Meloidogyne hapla	Reaction of the plant or plant part to Meloidogyne hapla feeding.
+SOY:0001590	Reaction to Meloidogyne incognita	Reaction of the plant or plant part to Meloidogyne incognita feeding.
+SOY:0001591	Chromosome Number	2n number of Chromosomes.
+SOY:0001592	Reaction to Spodoptera litura	Reaction of the plant or plant part to Spodoptera litura larval feeding.
+SOY:0001593	Reaction to Pseudomonas syringae pv phaseolicola infectiion	Reaction of the plant or plant part to infection by Pseudomonas syringae pv phaseolicola.
+SOY:0001594	Seed filling 1	Number of days between R1 and R8.
+SOY:0001595	Seed filling 2	Based on the number of days after planting when 50% of the plants on the plot had reached that particular stage.
+SOY:0001596	Seed filling period	Period in days when the seed is growing in size and weight. Commonly referred to as the number of days between the beginning of R4 (full pod) and the end of R6 (full seed).
+SOY:0001597	Seed width	The width of the seed measured from side to side with the hilum on the top.
+SOY:0001598	Seed height	The height of the seed measured from the hylum to the bottom of the seed.
+SOY:0001599	Seed length	Length of a seed in its longest dimension with the hilum face up.
+SOY:0001600	Seed size	The physical size or volume of a seed.
+SOY:0001601	Manganese ion sensitivity	Resistance of a plant or plant part to manganese ion toxicity.
+SOY:0001602	Shoot phosphorus content	The amount of phosphorus in shoots.
+SOY:0001603	Seed arabinose content	Arabinose content of a plant or plant part.
+SOY:0001604	Seed	A reproductive structure, derived from the ovule and enclosing an embryo.
+SOY:0001605	Reaction to Aphis species	Reaction of the plant or plant part to feeding by members of the genus Aphis.
+SOY:0001606	Reaction to Colaspis species	Reaction of the plant or plant part to Colaspis species feeding.
+SOY:0001607	Reaction to Diabrotica species	Reaction of the plant or plant part to feeding by members of the genus Diabrotica.
+SOY:0001608	Pod Maturity Date	Number of days past planting when pods are mature.\n\nUse SOY:0001646 R8 Full maturity
+SOY:0001609	Sodium ion sensitivity	Resistance to damage by elevated sodium content of the medium.
+SOY:0001610	Seed delta-tocopherol content	The delta-tocopherol content of a seed.
+SOY:0001611	Female sterile	Inability to produce functional female gametophytes.
+SOY:0001612	Male sterile	Inability to produce functional male gametophytes.
+SOY:0001613	Supernodulation	Nodulation up to 40 times more than wild type, produce nodules in presence of otherwise inhibitory levels of nitrate, increased nitrogen fixation ability in presence of nitrate, partially tolerant to soil acidity.
+SOY:0001614	Leaflet Width	The width of a fully expanded leaflet.
+SOY:0001615	Pod weight	The fresh weight of a soybean pod.
+SOY:0001616	Seeds per plant	The number of seeds collected from a single plant.
+SOY:0001617	Seed soluble oligosaccharides	Amount of a seed that is composed of soluble oligosaccharides.
+SOY:0001618	Twining date	Date when 50% of the plants have begun to twine, expressed as month (1 or 2 digits) and day (2 digits).
+SOY:0001619	Upper pubescence type	Type of pubescence present on the upper side of the leaf, used to discern if there is appressed pubescence.
+SOY:0001620	Reaction to Heliothis virescens	Reaction of the plant or plant part to damage caused by H. virescens larval feeding.
+SOY:0001621	Seed yield/Plant height	Yield per unit height as kg/ha/cm.
+SOY:0001622	Seed yield	Yield of a soybean field in terms of seed weight per unit area at a specified moisture content.
+SOY:0001623	Seed sucrose content	The amount of total seed soluble carbohydrates that is sucrose.
+SOY:0001624	Main Stem Diameter	The average measurement with calipers midway between the unifoliate and the first trifoliate nodes for three mature plants per plot.
+SOY:0001625	Main Stem Length	The distance from the soil surface to the uppermost node with a pod on the main stem.
+SOY:0001626	Seed stearic acid content	Stearic acid as a percent of total oil extracted from seeds.
+SOY:0001627	Sprout yield	Total fresh weight of soybean sprouts produced from a 50-seed sample divided by dry weight of the 50-seed sample.
+SOY:0001628	Specific leaflet weight	Leaf dry weight/leaf area, measured as mg/sq cm.
+SOY:0001629	Seed weight	The weight of a soybean seed.
+SOY:0001630	Seed Number	Number of seeds per unit area.
+SOY:0001631	Seed nitrogen content	Nitrogen content of a seed.
+SOY:0001633	Hilum	Scar on the ovule produced by the abscision of the funiculus.
+SOY:0001634	Micropyle	Pore in the seed coat derived from the ovular micropyle.
+SOY:0001635	Seed Coat	The outer coat of the seed derived from the inner integument.
+SOY:0001636	Seed stachyose content	The amount of total seed soluble carbohydrates that is stachyose.
+SOY:0001637	Leaflet Morphology	Gross morphology of the leaflets.
+SOY:0001638	Reproductive stage, field	Based on the number of days after planting when 50% of the plants on the plot had reached reproductive stage (R1).
+SOY:0001639	Flower development traits	Traits associated with the development of the flower and its parts.
+SOY:0001640	First flower	Days from planting when there is an open flower on any node on the main stem (R1).
+SOY:0001641	Seed raffinose content	Raffinose content of a plant or plant part.
+SOY:0001642	Seed Raphe	Ridge on the seed derived from the funiculus.
+SOY:0001643	Reaction to Fusarium oxysporum infection	Reaction of the plant or plant part to Fusarium oxysporum infection.
+SOY:0001644	R3 Beginning pod	Number of days after planting when 50% of plants had presented the first 5 mm pod at one of the top four nodes with a fully expanded leaf.
+SOY:0001645	R7 Beginning Maturity	Number of days after planting when 50% of pods had mature pod color.
+SOY:0001646	R8 Full Maturity	Number of days past planting when 95% of pods have reached their mature color.
+SOY:0001647	Brittle bean syndrome	Susceptibility to damage by pendimethalin herbicide (N-(l-ethylpropyl)-3,4-dimethyl-2,6-dinitro-benzenamine).
+SOY:0001648	Hilar Groove	Narrow cleft in the hilar region of a seed.
+SOY:0001649	Seed arabinose-galactose content	The amount of seed monosaccharides consisting of arabinose and glucose.
+SOY:0001650	Soybean Development Stages	Developmental stages of soybean plant and structure development.
+SOY:0001651	Seed beta-conglycinin beta-subunit protein content	Amount of beta-conglycinin beta-subunit in seed protein.
+SOY:0001652	Seed beta-conglycinin alpha-prime subunit protein content	Amount of alpha-prime subunit of beta-conglycinin in seed protein.
+SOY:0001653	Cell wall polysaccharide composition	Composition of the polysaccharides composing the cell wall.
+SOY:0001654	Seed beta-conglycinin protein content	Amount of total protein of a seed that is composed of beta-conglycinin.
+SOY:0001655	Reaction to Cercospora sojina infection	Reaction of the plant or plant part to infection by Cercospora sojia.
+SOY:0001656	Seed fucose content	Fucose content of a seed.
+SOY:0001658	Seed galactose content	Galactose content of seed.
+SOY:0001659	Pod Morphology	Gross physical appearance of the pod.
+SOY:0001660	Seed glucose content	Glucose content of a seed.
+SOY:0001662	Seed glycinin content	The amount of total seed protein that is composed of glycinin .
+SOY:0001663	Main Stem Number	The number of stems forming the central axis of the plant.
+SOY:0001664	Seed meal content	Amount of the total weight of a seed remaining after extraction of oils from the tissue.
+SOY:0001665	Main Stem Architecture	The architecture of the main stem.
+SOY:0001666	Lateral Branch Morphology	Gross physical appearance of the lateral branches originating from the main stem or stems.
+SOY:0001667	Isoflavone content	Isoflavone content of a plant or plant part.
+SOY:0001668	Seed oil content	Oil content of a seed.
+SOY:0001669	Lateral Branch Diameter	The diameter of a lateral branch taken at maturity.
+SOY:0001670	Lateral Branch Length	The length of a lateral branch from the originating axilla to the tip of the stem.
+SOY:0001671	Seed oleic acid content	Oleic acid content of a seed.
+SOY:0001672	Lateral Branch Architecture	The gross physical appearance of a lateral shoot.
+SOY:0001673	Seed palmitic acid content	Palmitic acid content of a seed.
+SOY:0001674	Saccharide:mono content	Monosaccharide content of a plant or plant part.
+SOY:0001676	Seed protein content	Protein content of a seed.
+SOY:0001677	Hypocotyl Architecture	The gross morphology of the hypocotyl.
+SOY:0001678	Secondary Branching	The tendency of a primary lateral branch to form secondary branches.
+SOY:0001679	Internode length	The distance between nodes on a stem.
+SOY:0001680	Reaction to Bacillus infection	Reaction of the plant or plant part to infection by Bacteria of the Bacillus genus.
+SOY:0001681	Reaction to Corynebacterium infection	Reaction of the plant or plant part to infection by Corynebacterium.
+SOY:0001682	Reaction to Curtobacterium infection	Reaction of the plant or plant part to infection by Curtobacterium.
+SOY:0001683	Reaction to Pseudomonas infection	Reaction of the plant or plant part to infection by Pseudomonas species.
+SOY:0001684	Reaction to Ralstonia infection	Reaction of the plant or plant part to Ralstonia species infection.
+SOY:0001685	Reaction to Xanthomonas infection	Reaction of the plant or plant part to infection by Xanthomonas species.
+SOY:0001686	Reaction to Xanthomonas campestris infection	Reaction of the plant or plant part to infection by Xanthomonas campestris.
+SOY:0001687	Reaction to Sclerotinia  infection	Reaction of a plant or plant part to infection by Sclerotinia species.
+SOY:0001688	Stem Termination Type	Termination type of the axial growth of a soybean plant.
+SOY:0001689	Seed oil/protein ratio	Ratio of Oil to protein by weight in a seed.
+SOY:0001690	3,4-dichloropropionanilide sensitivity	The resistance to toxicity from 3,4-dichloroprionanilide herbicide.
+SOY:0001691	Pectin content	Pectin content of a plant or plant part.
+SOY:0001692	Seed phytate content	The amount of Phytic acid in a seed.
+SOY:0001693	Leaflet trigonelline content	The trigonelline content of a leaflet.
+SOY:0001694	Photoperiod sensitivity	Reaction of the plant to photoperiod changes.
+SOY:0001699	Reaction to Rotylenchulus reniformis	Reaction of the plant or plant part to feeding by Rotylenchulus reniformis feeding.
+SOY:0001700	Reaction to Cowpea Mosaic Virus Infection (CPMV)	Reaction of the plant or plant part to infection by Cowpea Mosaic Virus.
+SOY:0001701	Drought Tolerance	Resistance to damage by water restriction.
+SOY:0001702	Pods per plant	The number of pods harvested from a plant.
+SOY:0001703	Reaction to Cercospora daizu infection	Reaction of the plant or plant part to infection by Cercospora diazu.
+SOY:0001704	Reaction to Cercospora melonis infection	Reaction of the plant or plant part to infection by Cercospora melonis.
+SOY:0001705	Reaction to Cercospora vignicola infection	Reaction of the plant or plant part to infection by Cercospora vignicola.
+SOY:0001707	Reaction to Fusarium tricinctum infection	Reaction of the plant or plant part to infection by Fusarium tricinctum.
+SOY:0001708	Maturity group	Maturity group designation of a germplasm.
+SOY:0001709	Seed methionine content	The amount of total seed protein that is composed of methionine.
+SOY:0001710	Metribuzin Sensitivity	Sensitivity to damage by the herbicide Metribuzin.
+SOY:0001711	Bentazone Sensitivity	Sensitivity to damage by the herbicide bentazone.
+SOY:0001712	Pendimethalin Sensitivity	Sensitivity to damage by the herbicide Pendimethalin.
+SOY:0001713	Seed Coat Mottling	Amount of seed coat discolored by mottling.
+SOY:0001714	Peroxidase activity	The amount of peroxidase activity present in the plant or plant part.
+SOY:0001715	Pod color	Color of the mature pod.
+SOY:0001716	Reaction to Phytophthora sojae infection	Reaction of the plant or plant part to Phytophthora sojae infection.
+SOY:0001717	Pod length	Length of the pod from the caylx to the pod tip.
+SOY:0001719	Pubescence Color	The color of soybean pubescence.
+SOY:0001720	Pubescence Form	Physical form of a soybean pubescence shaft.
+SOY:0001721	Pubescence Density	The density of pubescence growth on a soybean plant part.
+SOY:0001722	Pubescence tip type	The form of the tip of a soybean pubescence.
+SOY:0001723	Adventitious Leaves	Generation of leaves or leaflets from abnormal locations.
+SOY:0001724	Specific leaflet area	Specific leaflet area is the area of the leaflet divided by the leaflet dry weight.
+SOY:0001725	Floral Abscission	The tendency of flowers to prematurely abscise.
+SOY:0001726	Ovule Abortion	An ovule that does not produce an embryo.
+SOY:0001727	Embryo Abortion	An embryo fails to complete development from a fertilized ovule.
+SOY:0001728	Germination Time	Time from planting until the hypocotyl emerges from the substrate.
+SOY:0001729	Podless	Flowers form but produce no pods.
+SOY:0001730	Specific leaflet nitrogen content	Specific leaflet nitrogen content is the nitrogen content of a leaflet divided by the area of the leaflet.
+SOY:0001731	Net photosynthetic rate	The difference between the gross photosynthesis rate and the respiration rate.
+SOY:0001736	Lateral root length	The length of a lateral root. Measured from the tip to the root axila.
+SOY:0001737	Lateral root size	The diameter of a lateral root measured at the proximal end of the root.
+SOY:0001738	Lateral root shape	The shape of the lateral root.
+SOY:0001739	Lateral root number	The number of lateral roots originating from the primary root.
+SOY:0001740	Flower Number	The total number of flowers produced by the plant.
+SOY:0001741	Pod Number	The total number of pods produced by a plant.
+SOY:0001742	Lateral roots absent	Absence of formation of lateral roots.
+SOY:0001743	Root Weight	Dry weight of the entire root system of a plant.
+SOY:0001744	Plant weight	Dry weight of the plants shoots and roots.
+SOY:0001745	Root Surface Area	The total surface area of the plant root system.
+SOY:0001746	Shoot weight	The dry weight of the plant shoots.
+SOY:0001747	Primary Root Size	The diameter of the main root.
+SOY:0001748	Primary Root Shape	The shape of the primary root.
+SOY:0001749	Primary Root Length	The length of the primary root.
+SOY:0001750	Root dry weight to shoot dry weight ratio	Dry weight of the roots divided by the dry weight of the shoots of a plant.
+SOY:0001751	Drought Susceptibility Index	Defined as 1 - (Yds/Yns)/DII.
+SOY:0001752	Node Number	The number of nodes on the main stem.
+SOY:0001753	Pods Per Node	The average number of pods per node of a plant.
+SOY:0001754	pH Sensitivity	Reaction of the plant to extremes in pH.
+SOY:0001755	Reaction to Acidity	The reaction of the plant to low pH growth conditions.
+SOY:0001756	Reaction to Alkalinity	Reaction of the plant to alkaline growth conditions.
+SOY:0001758	Seed alanine content	The amount of total seed protein that is composed of alanine.
+SOY:0001759	Seed valine content	The amount of total seed protein that is composed of valine.
+SOY:0001760	Seed lysine content	The amount of total seed protein that is composed of lysine.
+SOY:0001761	Seed proline content	The amount of total seed protein that is composed of proline.
+SOY:0001762	Seed histidine content	The amount of total seed protein that is composed of histidine.
+SOY:0001763	Seed glutamine content	The amount of total seed protein that is composed of glutamine.
+SOY:0001764	Seed arginine content	The amount of total seed protein that is composed of arginine.
+SOY:0001765	Seed glycine content	The amount of total seed protein that is composed of glycine.
+SOY:0001766	Seed asparagine content	The amount of total seed protein that is composed of asparagine.
+SOY:0001767	Seed threonine content	The amount of total seed protein that is composed of threonine.
+SOY:0001768	Calcium content	Calcium content of a plant or plant part.
+SOY:0001769	Seed tryptophan content	The amount of total seed protein that is composed of tryptophan.
+SOY:0001770	Seed serine content	The amount of total seed protein that is composed of serine.
+SOY:0001771	Seed phenylalanine content	The amount of total seed protein that is composed of phenylalanine.
+SOY:0001772	Seed tyrosine content	The amount of total seed protein that is composed of tyrosine.
+SOY:0001774	Petiole length	The length of the petiole.
+SOY:0001775	Petiole Shape	The shape of the petiole.
+SOY:0001776	Petiole Size	Diameter of the petiole measured at the mid point of the petiole.
+SOY:0001778	Petiolule Length	The length of the petiolule.
+SOY:0001779	Petiolule Shape	The shape of the petiolule.
+SOY:0001780	Petiolule Size	Diameter of the petiolule measured at its mid-point.
+SOY:0001781	Determinant stem	Synchronous conversion of stem apices and axillary nodes to floral meristems. Determinant stems have a distinct terminal raceme.
+SOY:0001782	Indeterminant stem	Asynchronous conversion of stem apices and axillary nodes to floral meristems. Indeterminant stems can have terminal racemes that are associated with very short internode distances superficially resembling a determinant terminal raceme.
+SOY:0001783	Seed leucine content	The amount of total seed protein that is composed of leucine.
+SOY:0001784	Seed isoleucine content	The amount of total seed protein that is composed of isoleucine.
+SOY:0001785	Seed aspartic acid content	The amount of total seed protein that is composed of aspartic acid.
+SOY:0001786	Seed glutamic acid content	The amount of total seed protein that is composed of glutamic acid.
+SOY:0001787	Seed calcium content	The calcium content of a seed.
+SOY:0001788	Reaction to Maruca vitrata	Reaction of the plant or plant part to feeding by Maruca vitrata larvae.
+SOY:0001789	Stem strength	Measured as the force needed to push the main stem 45 degrees off vertical.
+SOY:0001790	Seed oil plus protein content	The amount of total seed weight of a seed that is composed of oils and protein.
+SOY:0001791	Seed weight per plant	The weight of all the seeds harvested from a single plant.
+SOY:0001792	Seed hardness	The ability of cooked seeds to resist penetration.
+SOY:0001793	Root Nodulation	Root nodule formation due to interaction with microorganisms.
+SOY:0001794	Leaflet margin	Appearance of the margin of a leaflet.
+SOY:0001795	Seed cadmium concentration	The cadmium concentration in seeds.
+SOY:0001797	Root Nodule Color	The color of a root nodule.
+SOY:0001798	Root Nodule Size	The volume of a root nodule.
+SOY:0001799	Root Nodule Growth	Growth characteristics of a root nodule.
+SOY:0001800	Determinate Root Nodule Growth Habit	Nodule degenerates 50 - 60 days after infection.
+SOY:0001801	Indeterminate Root Nodule Growth Habit	Nodule growth for longer than 60 days post infection.
+SOY:0001802	Pod wall width	The width of the wall of a pod.
+SOY:0001803	Canopy wilt	The extent to which a plants leaf canopy has wilted due to dessication.
+SOY:0001804	Pubescence Length	The length of the trichome from the base to the tip.
+SOY:0001805	Flower form	Final developmental form of a flower.
+SOY:0001806	Somatic embryogenesis	The frequency of somatic embryogenesis (FSE) defined as the number of regenerated explants divided by the total inoculated explants.
+SOY:0001807	Phototropism	Directional growth of a plant or plant part in relation to a light source.
+SOY:0001808	Gravitropism	The ability of a plant or plant part to respond to gravity.
+SOY:0001810	Root Gravitropism	The ability of the root to respond to gravity.
+SOY:0001811	Stem Gravitropism	The ability of a stem to respond to gravity.
+SOY:0001813	Chloride ion sensitivity	Reaction of the plant or plant part to chloride ion concentration.
+SOY:0001815	Rhizobium response	Reaction of roots or root hairs to the presence of Rhizobium species.
+SOY:0001816	Response to Bradyrhizobium species.	Response of the root or root hair to the presence of Bradyrhizobium species.
+SOY:0001817	Response to Sinorhizobium species.	Response of the root or root hair to the presence of Sinorhizobium species.
+SOY:0001819	Response to Bradyrhizobium japonicum.	Response of the root or root hair to the presence of B. japonicum.
+SOY:0001820	Response to Bradyrhizobium elkanii.	Response of the root or root hair to the presence of B elkanii.
+SOY:0001821	Response to Bradyrhizobium liaoningense.	Response of the root or root hair to the presence of B. lianoingense.
+SOY:0001822	Response to Sinorhizobium fredii.	Response of the root or root hair to the presence of S. fredii.
+SOY:0001823	Response to Mesorhizobium tianshanense.	Response of the root or root hair to the presence of M. tianshanense.
+SOY:0001824	Reproductive stage length	The number of days between growth stage R1 and R8 or R8 - R1 in days past planting.
+SOY:0001825	Somatic embryos per explant	Somatic embryos per explant (EPE) defined as the number of somatic explants with embryos/total explants.
+SOY:0001826	Reaction to Nematospora coryli infection	Reaction of the plant or plant part to N. coryli infection.
+SOY:0001827	Somatic embryogenesis efficiency	Somatic embryo efficiency defined as the product of somatic embryogenesis (FSE) and somatic embryos per explant (EPE).
+SOY:0001828	Reaction to Nematospora infection	Reaction of the plant or plant part to infection by Nematospora species.
+SOY:0001829	Reaction to Nematospora lycopersici infection	Reaction of the plant or plant part to infection by N. lycopersici.
+SOY:0001830	Seed nitrogen content at growth stage R5	The amount of nitrogen contained in a seed on a plant at growth stage R5.
+SOY:0001831	Seed nitrogen content at growth stage R6	The nitrogen content of seeds at growth stage R6.
+SOY:0001832	Seed nitrogen content at growth stage R7	The nitrogen content of seeds at growth stage R7.
+SOY:0001833	Phosphorus content	The phosphate content of a plant or plant part.
+SOY:0001834	Leaf phosphorus content	The phosphorus content of a leaf.
+SOY:0001835	Seed phosphorus content	The phosphorus content of a seed.
+SOY:0001836	Root phosphorus content	The phosphorus content of the root system.
+SOY:0001837	Seed methionine and cysteine content	The amount of methionine and cysteine in seeds.
+SOY:0001838	Manganese induced leaflet necrosis	Leaflet necrosis induced by elevated manganese ion concentration.
+SOY:0001839	Manganese induced root necrosis	Root necrosis induced by elevated concentration of manganese ions.
+SOY:0001840	Chilling induced seed coat color	A change in the normal seed coat color induced by low temperatures.
+SOY:0001841	Leaflet alkaloid content	The alkaloid content of a leaflet.
+SOY:0001843	Saccharide:Di content	The amount of disaccharides contained in a plant or plant part.
+SOY:0001844	Saccharide:oligo content	The oligosaccharide content of a plant or plant part.
+SOY:0001847	Seed coat peroxidase activity	Peroxidase activity contained in the seed coat.
+SOY:0001849	Seed isoflavone content	The total isoflavone content of a seed.
+SOY:0001850	Leaflet weight	The weight of a leaflet.
+SOY:0001851	Reaction to Aphis glycines	The reaction of the plant or plant part to damage caused by Aphis glycines feeding.
+SOY:0001852	Seed coat cracking	The extent to which seeds have cracked seed coats at harvest.
+SOY:0001853	Pod wall weight	The weight of a pod with seeds removed.
+SOY:0001854	Reaction to Gibberella zeae infection	The reaction of the plant or plant part to infection by Gibberella zeae.
+SOY:0001855	Submergence survival rate	The percentage of plants that survive a specified period of submergence.
+SOY:0001856	Flooding yield index	The percent reduction in yield caused by exposure of the plant to a period of flooding.
+SOY:0001857	Row spacing response	The response of the plant or plant part to changes in row spacing.
+SOY:0001859	Leaflet chlorophyll content	The amount of chlorophyll normally found in a leaflet.
+SOY:0001860	Pod weight ratio	Pod wall weight (empty pod) divided by pod weight (intact pod).
+SOY:0001861	Seed 2AP content	The amount of 2-acetyl-1-pyrroline (2AP) in a seed.
+SOY:0001866	Reaction to Lamprosema indicata	The reaction of the plant or plant part to contact or damage from L. indicata larval feeding.
+SOY:0001867	Seed palmitic+stearic acid content	The content of palmitic and stearic acid in a plant or plant part.
+SOY:0001868	Shoot weight ratio	The ratio of the dry weight of the shoots divided by the fresh weight of the shoots.
+SOY:0001869	Root weight, dry	The dry weight of a root or root system.
+SOY:0001870	Root weight, fresh	The fresh weight of a root or root system.
+SOY:0001871	shoot weight, dry	The dry weight of a shoot or shoot system.
+SOY:0001872	shoot weight, fresh	The fresh weight of a shoot or shoot system.
+SOY:0001873	Waterlogging response	Response of the plant to inundation of the root system only.
+SOY:0001875	Chlorophyll transient fluorescence	The transient fluorescence traits of a plant or plant part.
+SOY:0001876	Maximum quantum yield of PSII primary photochemistry (Fv/Fm), dark-adapted	The maximum quantum yield of photosystem II primary photochemistry in the dark adapted state.  Calculated as Fv/Fm.  Estimated from Fm - Fo/Fm where Fo is the dark-adapted fluorescence and Fm is the maximum fluorescence under saturating light or a photosynthesis inhibitor.
+SOY:0001877	Light energy absorbed per reaction center (ABS/RC)	Commonly referred to as ABS/RC. It is the average energy absorption by chlorophyll molecules per active reaction center. Can be calculated as (TRo/RC)/(TRo/ABS) where TRo is the the maximal rate by which an excitation is trapped by the RC resulting in the reduction of Qa.
+SOY:0001878	Quantum yield of electron transport (ETo/ABS)	The quantum yield of the electron transport flux from Qa to Qb, defined as electron transport from Qa to Qb divided by the light absorption (ABS) of the photo-centers.
+SOY:0001879	Probability a trapped excitation moves an electron beyond Qa- (ETo/TRo)	The probability that a trapped excitation moves an electron into the electron transport chain beyond QA-. Expressed as ETo/TRo, where TR is the photon flux partially captured by the PSII reaction centers and ET is the transfer of electrons from water past Qa reduction.
+SOY:0001880	Performance index on absorption basis (PIabs)	Performance index for energy conservation from absorbed photons to the reduction of Qb in the PSII antenna system.
+SOY:0001881	Temperature stress resistance	The effect of temperature stress on a plant or plant part.
+SOY:0001882	Heat stress resistance	Resistance of a plant or plant part to damage by higher than normal temperatures.
+SOY:0001883	Cold stress resistance	Resistance of a plant or plant part to damage by lower than normal temperatures.
+SOY:0001884	Root nodule number	The amount of nodules produced in the root system.
+SOY:0001885	Seed verbascose content	The amount of the oligosaccharide verbascose in seeds.
+SOY:0001886	Leaflet surface form	The physical state of the leaflet surface or lamina.
+SOY:0001887	Primary root number	The number of roots originating from the embryo radical.
+SOY:0001888	Floral meristem development	Development of the floral meristem that gives rise to the floral organs.
+SOY:0001889	Root color	Color of the root system.
+SOY:0001890	Root nodulation absent	Absence of root nodule formation in the presence of competent microorganisms.
+SOY:0001891	Root number	The total number of root projections.
+SOY:0001892	Apical dominance	Inhibition of lateral meristematic tissue growth by the apical meristematic tissue of a plant axis.
+SOY:0001893	Petiole color	The color of the petiole.
+SOY:0001894	Hypocotyl diameter	Diameter of the emerged hypocotyl.
+SOY:0001895	Petiole pulvinus morphology	The physical appearance of the leaf petiole pulvinus.
+SOY:0001896	Petiole pulvinus color	The color of the leaf petiole pulvinus.
+SOY:0001897	Fused leaflets	Two or more leaflets are conjoined at any location.
+SOY:0001898	Root nodule weight, dry	The dry weight of all root nodules from a plant.
+SOY:0001899	Aconitate activity	Aconitate hydratase activity of a plant or plant part.
+SOY:0001900	Cotyledon aconitate activity	The aconitate hydratase activity in cotyledon tissue.
+SOY:0001901	4-Coumarate:CoA ligase activity	The 4-coumarate:CoA ligase activity of a plant or plant part.
+SOY:0001902	Aminoalcoholphosphotransferase activity	The Aminoalcoholphosphotransferase activity of a plant or plant part.
+SOY:0001903	Alcohol dehydrogenase activity	The alcohol dehydrogenase activity in a plant or plant part.
+SOY:0001904	Acetolactate synthase activity	The acetolactate synthase activity of a plant or plant part.
+SOY:0001905	Porphobilinogen synthase activity	The delta-aminolevulinic acid dehydratase activity of a plant or plant part.
+SOY:0001906	Alpha-amylase activity	The alpha-amylase activity of a plant or plant part.
+SOY:0001907	Lignin biosynthesis activity	The lignin biosynthetic activity of a plant or plant part.
+SOY:0001908	Acid phosphatase activity	The acid phosphatase activity of a plant or plant part.
+SOY:0001909	Xyloglucan endotransglycosylase activity	The xyloglucan endotransglycosylase activity of a plant or plant part.
+SOY:0001910	Nitrate reductase activity	The nitrate reductase activity of a plant or plant part.
+SOY:0001911	Chalcone isomerase activity	The chalcone isomerase activity of a plant or plant part.
+SOY:0001912	Chalcone synthase activity	The chalcone synthase activity of a plant or plant part.
+SOY:0001913	Cytochrome C oxidase activity	The cytochrome C oxidase activity of a plant or plant part.
+SOY:0001914	Leghemoglobin content	The leghemoglobin content of a plant or plant part.
+SOY:0001915	Seed chlorophyll content	The chlorophyll content of a a seed.
+SOY:0001916	Dihydrodipicolinate synthase activity	The dihydrodipicolinate synthase activity of a plant or plant part.
+SOY:0001917	Dihydroflavonol 4-reductase activity	The dihydroflavonol 4-reductase activity of a plant or plant part.
+SOY:0001918	NADH dehydrogenase activity	The NADH dehydrogenase activity of a plant or plant part.
+SOY:0001920	Endopeptidase activity	The endopeptidase activity of a plant or plant part.
+SOY:0001921	Esterase activity	The total esterase activity of a plant or plant part.
+SOY:0001922	Urease activity	The urease activity of a plant or plant part.
+SOY:0001923	Flavonoid 3'-hydroxylase activity	Flavonoid 3'-hydroxylase activity of a plant or plant part.
+SOY:0001924	Malonyl-CoA-acyl carrier protein  transacylase activity	The malonyl-CoA-acyl carrier protein transacylase activity of a plant or plant part.
+SOY:0001925	Delta-twelve fatty acid desaturase activity	The delta-twelve fatty acid desaturase activity of a plant or plant part.
+SOY:0001926	Omega-3 fatty acid desaturase activity	The omega-3 fatty acid desaturase activity of a plant or plant part.
+SOY:0001928	Seed flavanone content	The flavanone content of a seed.
+SOY:0001929	Seed liquiritgenin content	The amount of liquiritgenin in a seed.
+SOY:0001930	Seed naringenin content	The amount of naringenin in a seed.
+SOY:0001932	Seed flavonol content	The amount of flavonols in a seed.
+SOY:0001933	Leaflet flavonol content	The amount of flavonols in a leaflet.
+SOY:0001934	Flower flavonol content	The flavonol content of a flower or flowers.
+SOY:0001935	Trichome flavonol content	The flavonol content of trichomes.
+SOY:0001936	Proanthocyanidin content	The amount of proanthocyanidins, in a plant or plant part.
+SOY:0001937	Anthocyanidin content	The amount of anthocyanidins in a plant or plant part.
+SOY:0001938	Root fluorescence	Fluorescence of the root under UV illumination.
+SOY:0001939	Apyrase activity	The nucleotide phosphohydrolase activity of a plant or plant part.
+SOY:0001940	Expressed during nodulation	A protein product that is expressed specifically in nodules after the initial formation of the nodule.
+SOY:0001941	Nitrate assemilation	The processes involved in absorbing and assemilating nitrate by a plant or plant part.
+SOY:0001942	phosphoenolpyruvate carboxylase activity	The phosphoenolpyruvate activity of a plant or plant part.
+SOY:0001943	Carbon fixation	The process of fixing carbon dioxide into glyceraldehyde-3-phosphate.
+SOY:0001944	Peribacteroid zinc ion transporter activity	Causes the transfer of zinc ions across the peribacteroid membrane.
+SOY:0001945	RNA polymerase II activity	The RNA polymerase II activity of a plant or plant part.
+SOY:0001946	Glutamate oxaloacetate transaminase activity	The glutamate oxaloacetate activity of a plant or plant part.
+SOY:0001947	Glucose-6-phosphate dehydrogenase activity	The glucose-6-phosphpate dehydrogenase activity of a plant or plant part.
+SOY:0001948	Glutamine synthetase activity	The glutamine synthetase activity of a plant or plant part.
+SOY:0001949	Glutamyl-tRNA reductase activity	The glutamyl-tRNA reductase activity of a plant or plant part.
+SOY:0001950	Glutamate-1-semialdehyde aminotransferase activity	The glutamate-1-semialdehyde aminotransferase activity of a plant or plant part.
+SOY:0001951	Sulfonylurea herbicide sensitivity	Sensitivity of a plant or plant part to exposure to sulfonylurea herbicides.
+SOY:0001952	Triazinone herbicide sensitivity	The sensitivity of a plant or plant part to exposure to triazinone herbicides.
+SOY:0001953	Dinitroaniline herbicide sensitivity	The sensitivity of a plant or plant part to exposure to dinitroaniline herbicides.
+SOY:0001954	Anilide herbicide sensitivity	Sensitivity of a plant or plant part to exposure to anilide herbicides.
+SOY:0001955	Isocitrate dehydrogenase activity	The isocitrate dehydrogenase activity of a plant or plant part.
+SOY:0001956	Seed coat saddle	The presence of a distinct saddle around the hilum in the seed coat.
+SOY:0001957	Seed Kunitz trypsin inhibitor activity	The kunitz trypsin inhibitor activity of a seed.
+SOY:0001958	linoleate 9S-lipoxygenase activity	The linoleate 9S-lipoxygenase activity of a plant or plant part.
+SOY:0001959	linoleate 13S-lipoxygenase activity	The linoleate 13S-lipoxygenase activity of a plant or plant part.
+SOY:0001960	Leucyl aminopeptidase activity	The leucyl aminopeptidase activity of a plant or plant part.
+SOY:0001961	Seed lectin content	The amount of lectin in a seed.
+SOY:0001962	Lipoxygenase activity	The lipoxygenase activity of a plant or plant part.
+SOY:0001963	Malate dehydrogenase activity	The malate dehydrogenase activity of a plant or plant part.
+SOY:0001964	Mannose-6-phosphate isomerase activity	The mannose-6-phosphate isomerase activity of a plant or plant part.
+SOY:0001965	Nitrate repression of nodulation	The nodule formation repression due to elevated concentration of nitrate in the growth medium.
+SOY:0001966	phytoene desaturase activity	The phytoene desaturase activity of a plant or plant part.
+SOY:0001967	6-phosphogluconate dehydratase activity	The 6-phosphogluconate dehydratase activity of a plant or plant part.
+SOY:0001968	Glucose-6-phosphate isomerase activity	The glucose-6-phosphate isomerase activity of a plant or plant part.
+SOY:0001969	Phosphoglucomutase activity	The phosphoglucomutase activity of a plant or plant part.
+SOY:0001970	Protein tyrosine phosphatase activity	The protein tyrosine phosphatase activity of a plant or plant part.
+SOY:0001971	Seed surface form	The surface morphology of a seed.
+SOY:0001972	Seed coat subtilisin activity	Subtilisin activity in seed coat tissue.
+SOY:0001973	Superoxide dismutase activity	The superoxide dismutase activity of a plant or plant part.
+SOY:0001974	flavonoid 3'5'-hydroxylase activity	The flavonoid 3'5'-hydroxylase activity of a plant or plant part.
+SOY:0001975	Flavonone 3-hydroxylase activity	The naringenin 3-dioxygenase activity of a plant or plant part.
+SOY:0001976	Flavonol synthase activity	The flavonol synthase activity in a plant or plant part.
+SOY:0001977	Pubescence stature	The stature of the pubescence on a plant or plant part.
+SOY:0001978	Seed length to height ratio	The ratio of the seed length divided by the seed height.
+SOY:0001979	Seed length to width ratio	The ratio of the seed length divided by the seed width.
+SOY:0001980	Seed width to height ratio	The ratio of the seed width divided by the seed height.
+SOY:0001981	Leaflet thickness	The distance from the adaxial to the abaxial surface of a leaflet measured at the thickest part of the leaflet lamina.
+SOY:0001982	Flavonoid hydrolase activity	The flavonoid hydrolase activity of a plant or plant part.
+SOY:0001983	Leaflet growth and development traits	Growth and developmental traits of leaflets.
+SOY:0001984	Root growth and development traits	Growth and developmental traits of roots.
+SOY:0001985	Flower morphology and anatomy traits	The morphology and anatomical traits of a flower.
+SOY:0001986	Somatic embryo growth and development	The development traits of a somatic embryo.
+SOY:0001987	Pod growth and development traits	Traits associated with the growth and development of a pod.
+SOY:0001988	Cysteine protease activity	The  cysteine protease activity of a plant or plant part.
+SOY:0001989	Seed cystatin content	The cystatin content of seeds or seed parts.
+SOY:0001991	Reaction to Ophiomyia species	Reaction of the plant or plant part to feeding by members of the Ophiomyia speces.
+SOY:0001992	Reaction to Tetranychus species	Reaction of a plant or plant part to feeding by Tetranychus species.
+SOY:0001993	Seed viability	The viability of a seed after storage or treatment.
+SOY:0002049	Seed oleosin content	The oleosin content of a seed.
+SOY:0002050	Seed storage protein content	The storage protein content of a seed.
+SOY:0002051	Seed glycinin and beta-conglycinin content	The glycinin and beta-conglycinin content of a seed.
+SOY:0002052	Aluminum and magnesium sensitivity	Reaction of the plant or plant part to aluminum and magnesium ions.
+SOY:0002053	Calcium-dependent protein kinase activity	Catalysis of the reaction involving a protein and ATP in the presence of calcium ion.
+SOY:0002054	Acyl-[acyl-carrier-protein] desaturase activity	The Acyl-ACP desaturase activity of a plant or plant part.
+SOY:0002056	Water transmembrane transporter activity	Enables the directed movement of water (H2O) from one side of a membrane to the other.
+SOY:0002057	Urea transmembrane transporter activity	The process in which urea, the water-soluble compound H2N-CO-NH2, is transported from one side of a membrane to the other by means of some agent such as a transporter or pore.
+SOY:0002058	Glycerol transmembrane transporter activity	Enables the transfer of glycerol from one side of the membrane to the other.
+SOY:0002060	Seed saponin content	The amount of saponins in a seed.
+SOY:0002061	Gibberellin biosynthesis activity	The gibberellin biosynthetic activity of a plant or plant part.
+SOY:0002062	gibberellin 20-oxidase activity	Catalysis of the oxidation of C-20 gibberellins to form the corresponding C-19 lactones.
+SOY:0002063	gibberellin 2-beta-dioxygenase activity	Catalysis of the reaction: a gibberellin + 2-oxoglutarate + O2 = a 2-beta-hydroxygibberellin + succinate + CO2.
+SOY:0002064	gibberellin 3-beta-dioxygenase activity	Catalysis of the reaction: a gibberellin + 2-oxoglutarate + O2 = a 3-beta-hydroxy-gibberellin + succinate + CO2.
+SOY:0002065	phosphatidylethanolamine binding	Interacting selectively and non-covalently with phosphatidylethanolamine, any of a class of glycerophospholipids in which a phosphatidyl group is esterified to the hydroxyl group of ethanolamine.
+SOY:0002066	Seed dormancy	Seed state in which most physiological activity and growth in a seed and embryo are suspended.
+SOY:0002067	Phytohormone transmembrane transporter activity	Enables the directed movement of phytohormones into, out of or within a cell, or between cells.
+SOY:0002068	RNA polymerase II transcription factor activity	Transcription factor that acts at promoters of genes transcribed by RNA polymerase II.
+SOY:0002069	Omega-6 fatty acid desaturase activity	The omega-6 fatty acid desaturase activity of a plant or plant part.
+SOY:0002070	2-hydroxyisoflavanone dehydratase activity	The 2-hydroxyisoflavanone dehydratase activity of a plant or plant part.
+SOY:0002071	2-hydroxyisoflavanone synthase activity	The 2-hydroxyisoflavanone synthase activity of a plant or plant part.
+SOY:0002072	trans-cinnamate 4-monooxygenase activity	The trans-cinnamate 4-monooxygenase activity of a plant or plant part.
+SOY:0002073	isoflavone 4'-O-methyltransferase activity	The isoflavone 4'-O-methyltransferase activity of a plant or plant part.
+SOY:0002074	Seed glycinin to beta-conglycinin ratio	The ratio of the glycinin content to the beta-conglycinin content of a seed.
+SOY:0002075	Ozone sensitivity	The sensitivity of a plant or plant part to exposure to ozone.
+SOY:0002076	Ozone sensitivity, leaflet	The sensitivity to ozone damage of leaflets.
+SOY:0002078	Response to jasmonic acid	The response of a plant or plant part to jasmonic acid.
+SOY:0002079	Response to salicylic acid	The response of a plant or plant part to salicylic acid.
+SOY:0002080	Response to ethylene gas	The reaction of a plant or plant part to ethylene gas.
+SOY:0002081	Seed cold stress resistance	The resistance of a seed to exposure to low temperatures.
+SOY:0002082	Radiation sensitivity	Sensitivity of a plant or plant part to electromagnetic radiation.
+SOY:0002083	Light sensitivity	Sensitivity of a plant or plant part to electromagnetic radiation of infrared, visible or ultraviolet frequencies.
+SOY:0002084	Response to UV light	Response of a plant or plant part to exposure to UV light.
+SOY:0002085	UV-B induced leaflet chlorosis	Leaflet chlorosis cased by UV-B exposure.
+SOY:0002086	UV-B induced leaflet shape response	Any change in leaflet shape as a result of UV-B exposure.
+SOY:0002087	UV-B induced plant damage	Whole plant damage due to UV-B exposure.
+SOY:0002088	Lactoylglutathione lyase activity	The lactoylglutahthione lyase activity of a plant or plant part.
+SOY:0002089	Hydroxyacylglutathione hydrolase activity	The hydroxyacylglutathione hydrolase activity of a plant or plant part.
+SOY:0002090	Maximum quantum yield of PSII primary photochemistry (Fv'/Fm'), Light-adapted	The maximum quantum yield of photosystem II primary photochemistry in the light adapted state.  Calculated as Fv'/Fm'.  Estimated from Fm - Fo'/Fm where Fo' is the light-adapted fluorescence and Fm is the maximum fluorescence under saturating light or a photosynthesis inhibitor.
+SOY:0002091	Probability an electron reduces an end acceptor at PSI electron acceptor side	The probability that an electron beyond QA- reduces an end acceptor at the PSI electron acceptor side (REo/ETo).
+SOY:0002092	Flux ratio of trapping per absorption (TRo/ABS)	The flux ratio of electron trapping per light absorption. Expressed as TRo/ABS.
+SOY:0002093	Sulfate transmembrane transporter activity	Enables the transfer of sulfate ions, SO4(2-) across a biological membrane.
+SOY:0002094	Ion transmembrane transporter activity	Enables the transfer of an ion from one side of a membrane to the other.
+SOY:0002095	DNA helicase activity	Catalyzes the reaction: NTP + H2O = NDP + phosphate, to drive the unwinding of a DNA helix.
+SOY:0002096	6'-deoxychalcone synthase activity	The chalcone synthase activity of a plant or plant part.
+SOY:0002097	2'-hydroxyisoflavone reductase activity	The 2'-hydroxyisoflavone reductase activity of a plant or plant part.
+SOY:0002098	Phenylalanine ammonia-lyase activity	The phenylalanine ammonia-lyase activity of a plant or plant part.
+SOY:0002099	isoflavone 2'-hydroxylase activity	The isoflavone 2'-hydroxylase activity of a plant or plant part.
+SOY:0002100	Root volume	The volume of the root system of a plant.
+SOY:0002101	Hypocotyl weight	The weight of the seedling hypocotyl.
+SOY:0002102	Reaction to Aulacorthum solani	Reaction of the plant or plant part to feeding by Aulacorthum solani.
+SOY:0002103	Reaction to Aulacorthum solani, choice	The reaction of the plant or plant part to predation by Aulacorthum solani with a choice of  cultivars.
+SOY:0002104	Reaction to Aulacorthum solani, no choice	The reaction of the plant or plant part to predation by Aulacorthum solani given no choice of cultivars.
+SOY:0002105	Transcription factor activity	Interacting selectively and non-covalently with a specific DNA sequence in order to modulate transcription.
+SOY:0002106	MYB transcription factor activity	A protein defined by MYB DNA-binding domain at the N-terminus that binds DNA to modify transcription.
+SOY:0002107	GRAS transcription factor activity	Proteins with a conserved carboxy terminus containing LHRI, VHIID, LHRII, PFYRE, and SAW domains that effect transcription.
+SOY:0002108	Vegetative period	The duration from emergence to R1.
+SOY:0002109	Reproductive period	The duration from beginning of flowering (R1) to physiological maturity (R8).
+SOY:0002110	Total growth duration	The number of days from emergence to physiological maturity (R8).
+SOY:0002111	Reproductive to vegetative period ratio	The ratio of the reproductive (R) to the vegetative (V) period (R/V).
+SOY:0002112	R/V photothermal sensitivity	The effect on the reproductive (R) to vegetative (V) period ratio (R/V) by temperature and day length.
+SOY:0002113	Reproductive period photothermal sensitivity	The effect of day length and temperature on the reproductive period (R) duration.
+SOY:0002114	Seed weight per plant	The weight of seeds harvested from a plant.
+SOY:0002115	Cyclophilin activity	The cyclophylin activity of a protein.
+SOY:0002116	Basic leucine zipper transcription factor activity	A protein with a basic DNA binding domain and a basic leucine zipper dimerization domain that affects transcription.
+SOY:0002117	CCAAT-box binding transcription factor activity	A heteromeric transcription factor complex with CCAAT-box binding activity.
+SOY:0002118	WRKY transcription factor activity	A protein with a WRKY DNA binding domain that effects transcription.
+SOY:0002119	TFIIIA type zinc finger transcription factor activity	A protein with a TFIIIA-type zinc finger motif that effects transcription.
+SOY:0002120	GATA1 like zinc finger transcription factor activity	A protein containing a CX(2)CX(17)CX(2)C DNA binding domain and effects transcription.
+SOY:0002121	Dof zinc finger transcription factor activity	A protein containing a CX(2)CX(21)CX(2)C zinc finger DNA binding domain that effects transcription.
+SOY:0002122	MADS-box  transcription factor activity	A protein that binds CArG DNA motifs and effect transcription.
+SOY:0002123	ARID type transcription factor activity	A protein containing an ARID DNA binding domain that affects transcription.
+SOY:0002124	Transcription regulatory activity	Proteins that interact with other transcriptional proteins to affect transcription.
+SOY:0002125	AUX/IAA type  transcription factor activity	A nuclear protein containing a beta-alpha-alpha DNA binding domain that effects transcription.
+SOY:0002127	NFX1 like transcription factor activity	A protein containing NFX1-like zinc finger domain and interacts with X-box domain in a promoter to effect transcription.
+SOY:0002128	AP2 like transcription factor activity	A protein containing one or more AP2 domains that effect transcription.
+SOY:0002129	NF-YA like transcription factor monomer activity	A protein that binds to NF-YB and NF-YC monomers.  The resulting trimer binds to CCAAT-box motifs effecting transcription.
+SOY:0002130	NF-YB like transcription factor monomer activity	A protein that binds to NF-YA and NF-YC monomers.  The resulting trimer binds to CCAAT-box motifs effecting transcription.
+SOY:0002131	NF-YC like transcription factor monomer activity	A protein that binds to NF-YA and NF-YB monomers.  The resulting trimer binds to CCAAT-box motifs effecting transcription.
+SOY:0002132	NAC like transcription factor activity	A protein containing a NAC domain that binds DNA to effect transcription.
+SOY:0002133	ALFIN like transcription factor activity	A protein that contains a ALFIN domain that binds H3 tails trimethylated on Lys-4 of histones and effects transcription.
+SOY:0002134	B3 like transcription factor activity	A protein containing a B3 domain and effecting transcription.
+SOY:0002135	BBR-BPC like transcription factor activity	A protein containing a BBR-BPC domain that effects transcription.
+SOY:0002136	BES1 like transcription factor activity	A protein that contains a BES1 domain that effects transcription.
+SOY:0002137	Basic helix-loop-helix like transcription factor activity	A protein containing one or more basic helix-loop-helix domains that effects transcription.
+SOY:0002138	C2C2 zinc finger like transcription factor activity	A protein containing a number of C2 zinc finger domains that effect transcription.
+SOY:0002139	C2H2 like transcription factor activity	A protein containing a C2H2 zinc finger domain that effects transcription.
+SOY:0002140	C3H like transcription factor activity	A protein containing a C-x8-C-x5-C-x3-H (C3H) zinc finger domain that effects transcription.
+SOY:0002141	CAMTA like transcription factor activity	A protein containing a CG-1 and IQ calmodulin-binding domain that effects transcription.
+SOY:0002142	CPP like transcription factor activity	A protein containing one or more CXC DNA binding domains and effects transcription.
+SOY:0002143	DBB like transcription factor activity	A protein containing 2 or more double B-box zinc finger domains (DBB, Double B-BOX) that effects transcription.
+SOY:0002144	E2F-DP like transcription factor activity	A protein that contains as E2F_TDP domain and binds DNA effecting transcription.
+SOY:0002145	EIL like transcription factor activity	A protein with a EIL/EIN3 domain that effects transcription.
+SOY:0002146	FAR1 like transcription factor activity	A protein with a FAR1 domain that effects transcription.
+SOY:0002147	GARP-ARR-B like transcription factor activity	A protein with one or more type-B or GARP motifs that bind to DNA and effects transcription.
+SOY:0002148	GARP-G2-like transcription factor activity	A protein with TEA and B motif that effects transcription.
+SOY:0002149	GeBP like transcription factor activity	A protein with a DUF573 domain that effects transcription.
+SOY:0002150	GRF like transcription factor activity	A protein with a QLQ (PF08880) and a WRC (PF08879) that effects transcription.
+SOY:0002151	HB like transcription factor activity	A protein containing a HB domain and effecting transcription.
+SOY:0002152	HB-HD-ZIP like transcription factor activity	A homeobox protein with a HD-ZIP domain that effects transcription.
+SOY:0002153	HB-Knox like transcription factor activity	A protein containing a homeobox, KNOX1 and KNOX2 domain that effects transcription.
+SOY:0002154	HB-BEL like transcription factor activity	A protein with a homeobox, POX/BEL, and KNOX domains that effects transcription.
+SOY:0002155	HB-WOX like transcription factor activity	A protein with a homeobox and WUS domain that affects transcription.
+SOY:0002156	HB-PHD like transcription factor activity	A protein with a homeobox and PHD domain that effects transcription.
+SOY:0002157	HRT like transcription factor activity	A protein with HRT domains that effect transcription.
+SOY:0002158	HSF like transcription factor activity	A protein with a HSF binding domain that effects transcription.
+SOY:0002159	LBD like transcription factor activity	A protein with a LOB domain that effects transcription.
+SOY:0002160	LFY like transcription factor activity	A protein with a LFY domain that effects transcription.
+SOY:0002161	LIM like transcription activation activity	LIM like proteins contain one or more LIM domains composed of dual zinc finger regions that promote protein-protein interactions leading to transcriptional activation.
+SOY:0002162	Transcriptional repressor activity	Transcriptional repressor activity
+SOY:0002163	LUG like transcriptional repressor activity	A protein with a LUFS domain that leads to repression transcription.
+SOY:0002164	NOZZLE like transcription factor activity	A protein with a NOZZLE domain that effects transcription.
+SOY:0002165	OFP like transcription factor activity	A protein that contains an OVATE domain and effects transcription.
+SOY:0002166	PLATZ like transcription factor activity	A protein containing a PLATZ domain that effects transcription.
+SOY:0002167	RWP-RK like transcription factor activity	A protein that contains a RWP-RK domain and effects transcription.
+SOY:0002168	S1FA like transcription factor activity	A protein with a S1FA domain that effects transcription.
+SOY:0002169	SBP like transcription factor activity	A protein with a SBP box domain that effects transcription.
+SOY:0002170	SRS like transcription factor activity	A protein with a SRS domain that effects transcription.
+SOY:0002171	STAT like transcription factor activity	A protein with STAT DNA binding and SH2 domains that effects transcription.
+SOY:0002172	TCP like transcription factor activity	A protein with a TCP domain that effects transcription.
+SOY:0002173	TIFY like transcription factor activity	A protein with a TIFY domain that effects transcription.
+SOY:0002174	Trihelix like transcription factor activity	A protein with a trihelix  and a long alpha-helical domain that effects transcription.
+SOY:0002175	TUB like transcription factor activity	A protein with a TUBBY  and F-box domain that effects transcription.
+SOY:0002176	ULT like transcription factor activity	A ULTRAPETALA- like protein with a SAND DNA binding domain that effects transcription.
+SOY:0002177	Amylase activity	Endohydrolysis of polysaccharides.
+SOY:0002178	Beta-amylase activity	The beta-amylase activity of a plant or plant part.
+SOY:0002179	Seed beta-conglycinin alpha-subunit protein content	The amount of beta-conglycinin alpha-subunit protein in a plant or plant part.
+SOY:0002180	Metalloendopeptidase activity	The metalloendopeptidase activity of a plant or plant part.
+SOY:0002181	Flavonoid glycoside glycosyltransferase activity	The flavonoid glycoside glycosyltransferase activity of a plant or plant part.
+SOY:0002182	Flavonol 3-O-glucoside/galactoside (1->6) glucosyltransferase activity	The flavonol 3-O-glucoside/galactoside (1-6) glucosyltransferase activity of a plant or plant part.
+SOY:0002183	Flavonol 3-O-glucoside (1->6) rhamnosyltransferase activity	The flavonol 3-O-glucoside (1->6) rhamnosyltransferase activity of a plant or plant part.
+SOY:0002184	Flavonol 3-O-glucoside/galactoside (1->2) glucosyltransferase activity	The flavonol 3-O-glucoside/galactoside (1->2) glucosyltransferase activity of a plant or plant part.
+SOY:0002185	Anthocyanidin reductase activity	The anthocyanidin reductase activity of a plant or plant part.
+SOY:0002186	Lysine specific demethylase activity	The lysine specific demethylase activity of a plant or plant part.
+SOY:0002187	Histone H3 activity	Histone H3 activity of a protein.
+SOY:0002188	Isocitrate dehydrogenase NAD dependent activity	The NAD dependent isocitrate dehydrogenase activity of a plant or plant part.
+SOY:0002189	Isocitrate dehydrogenase NADP dependent activity	The NADP dependent isocitrate dehydrogenase activity of a plant or plant part.
+SOY:0002190	Seed development trait	The process whose specific outcome is the progression of the seed over time, from its formation to the mature structure. A seed is a propagating organ formed in the sexual reproductive cycle of gymnosperms and angiosperms, consisting of a protective coat enclosing an embryo and food reserves.
+SOY:0002191	Seed maturation and dessication trait	Traits that lead to final seed maturation and dessication prior to seed dormancy.
+SOY:0002192	Ferric leghemoglobin reductase activity	The ferric leghemoglobin reductase activity of a plant or plant part.
+SOY:0002193	Fatty acid desaturase activity	The fatty acid desaturase activity of a plant or plant part.
+SOY:0002194	Sphingolipid delta-8 desaturase activity	The sphingolipid delta-8 desaturase activity of a plant or plant part.
+SOY:0002195	Delta-8 sphingolipid desaturase activity	The delta-8 sphingolipid desaturase activity of a plant or plant part.
+SOY:0002196	Magnesium chelatase activity	The magnesium chelatase activity of a plant or plant part.
+SOY:0002197	Ferredoxin nitrite reductase activity	The Fe-nitrite reductase activity of a plant or plant part.
+SOY:0002198	Acyl-ACP thioesterase activity	The acyl-ACP thioesterase activity of a plant or plant part.
+SOY:0002199	Beta-ketoacyl-[acyl-carrier-protein] synthase I activity	The beta-ketoacyl-[acyl-carrier-protein] synthase I activity of a plant or plant part.
+SOY:0002200	Beta-phosphoglucomutase activity	Beta-phosphoglucomutase activity
+SOY:0002201	Intramolecular phosphotransferase activity	Intramolecular phosphotransferase activity of a plant or plant part.
+SOY:0002202	Phosphomannomutase-phosphoglucomutase activity	The phosphomannomutase and phosphoglucomutase activity of a plant or plant part.
+SOY:0002203	Response to red light	The reaction of the plant or plant part to red light.
+SOY:0002204	Fungal protein interaction activity	Soybean products that directly interact with proteins of fungal origin.
+SOY:0002205	Polygalacturonase inhibitor activity	Stops, prevents or reduces the activity of a polygalacturonase.
+SOY:0002206	Potassium channel activity	Enables the facilitated diffusion of a potassium ion (by an energy-independent process) involving passage through a transmembrane aqueous pore or channel without evidence for a carrier-mediated mechanism.
+SOY:0002207	Pyrroline-5-carboxylate reductase activity	The pyrroline-5-carboxylate reductase activity of a plant or plant part.
+SOY:0002208	metal ion transmembrane transporter activity	Enables the transfer of metal ions from one side of a membrane to the other.
+SOY:0002209	Methyltransferase activity	Methyltransferase activity
+SOY:0002210	Caffeate O-methyltransferase activity	The caffeate O-methyltransferase activity of a plant or plant part.
+SOY:0002211	Fatty acid binding protein activity	The fatty acid binding activity of a plant or plant part.
+SOY:0002212	Sodium ion transmembrane transporter activity	The sodium ion transmembrane transporter activity of a plant or plant part.
+SOY:0002213	Neutral detergent fiber content	The neutral detergent fiber content of a plant or plant part.
+SOY:0002214	Acid detergent fiber content	The acid detergent fiber content of a plant or plant part.
+SOY:0002215	Crude fat content	The lipid content of  non-seed parts of a soybean plant.
+SOY:0002217	Crude protein content	The crude protein content of non-seed tissues.
+SOY:0002218	Bowman-Birk proteinase inhibitor activity	Bowman-Birk proteinase inhibitor activity
+SOY:0002219	Proteinase inhibitor activity	Proteinase inhibitor activity
+SOY:0002220	Plant weight, fresh	The fresh or un-dried weight of a plant.
+SOY:0002221	Plant weight, dry	The dry weight of a plant.
+SOY:0002222	Phosphorus use efficiency	The amount of phosphorus content of a plant divided by the biomass of the plant.
+SOY:0002223	Carotenoid content	The total carotenoid content of a plant or plant part.
+SOY:0002224	Cotyledon	A vascular leaf formed at the first shoot node of a plant embryo.
+SOY:0002225	Cotyledon development stages	The developmental stages of cotyledon after germination.
+SOY:0002226	Emergent	The stage at which a cotyledon has emerged from the soil but the hypocotyl is still bent and the leaves are not in their upright position.
+SOY:0002227	Erect cotyledon	The stage in cotyledon development when the cotyledons are fully upright and the hypocotyl is erect.
+SOY:0002228	Mature cotyledon	The stage in cotyledon development with the cotyledons have obtained there maximum size.
+SOY:0002229	Cotyledon senescence	The stage in cotyledon development when the cotyledons begin to droop and yellow.
+SOY:0002230	Canopy coverage	The amount of a field or plot covered by leaves on a given date after planting.
+SOY:0002231	Uriede content	The ureide content of a plant or plant part.
+SOY:0002232	Seed alpha-linolenic acid content	The alpha-linolenic acid content of a seed.
+SOY:0002233	Seed long-chain fatty acid content	The long chain fatty acid content of a seed.
+SOY:0002234	Main stem shape	The shape of the main stem.
+SOY:0002235	Inter-branch length	The distance between branches on a stem.
+SOY:0002236	Pubescence width	The width of the trichome.
+SOY:0002237	Pubescence size	The overal size of a trichome.
+SOY:0002238	Starch content	The amount of starch present in the tissues of a plant or plant part.
+SOY:0002239	Root nodule weight	The weight of all root nodules from a plant.
+SOY:0002240	Root nodule weight, fresh	The fresh weight of all root nodules from a plant.
+SOY:0002241	Root length	The total length of the root system.
+SOY:0002242	Root length, fine	The total root length of roots less than 1mm in diameter.
+SOY:0002243	Root length, medium	The total root length of roots greater than 1 mm and less than 2 mm in diameter.
+SOY:0002244	Root length, coarse	The total length of roots  greater than 2 mm in diameter.
+SOY:0002245	Root surface area, coarse	The total surface area of roots that are greater than 2 mm in diameter.
+SOY:0002246	Root surface area, medium	The total surface area of roots greater than 1 mm and less than 2 mm in diameter.
+SOY:0002247	Root surface area, fine	The total surface area of roots less than 2 mm in diameter.
+SOY:0002248	Root volume, coarse	The total volume of roots greater than 2 mm in diameter.
+SOY:0002249	Root volume, medium	The total volume of roots 1 mm to 2 mm in diameter.
+SOY:0002250	Root volume, fine	The total volume of roots less than 1 mm in diameter.
+SOY:0002251	Seed nickel content	The nickel content of a seed.
+SOY:0002253	Trailing growth	The propensity of the main stem to grow prostrate on a surface.
+SOY:0002254	Antioxidant content	The amount of antioxidant compounds in a plant or plant part.
+SOY:0002255	Pod phosphorus content	The amount of phosphorus in a pod.
+SOY:0002256	Soluble amino acid content	The amount of soluble amino acids in a plant or plant part.
+SOY:0002257	Phosphorus acquisition efficiency	The efficiency of phosphorus uptake by a plant.
+SOY:0002258	Shoot calcium content	The calcium content of a shoot or the shoot system.
+SOY:0002259	Magnesium content	The amount of magnesium in a plant or plant part.
+SOY:0002260	Shoot magnesium content	The amount of magnesium in a shoot or shoot system part.
+SOY:0002261	Potassium content	The amount of potassium in a plant or plant part.
+SOY:0002262	Shoot potassium content	The potassium content of a shoot or shoot system.
+SOY:0002264	Shoot sulfur content	The amount of sulfur contained in a shoot or shoot system.
+SOY:0002265	Boron content	The  amount of boron in a plant or plant part.
+SOY:0002266	Shoot boron content	The amount of boron in a plant or plant part.
+SOY:0002268	Shoot copper content	The amount of copper in a shoot or shoot system.
+SOY:0002269	Iron content	The iron content of a plant or plant part.
+SOY:0002270	Shoot iron content	The amount of iron in a shoot or shoot system.
+SOY:0002271	Manganese content	The manganese content of a plant or plant part.
+SOY:0002272	Shoot manganese content	The amount of manganese in a shoot or shoot system.
+SOY:0002273	Zinc content	The amount of zinc in a plant or plant part.
+SOY:0002274	Shoot zinc content	The amount of zinc in a shoot or shoot system.
+SOY:0002275	Canopy temperature	The temperature of the canopy of a plant or plants.
+SOY:0002276	Nonphotochemical quenching	The release of heat from the photosynthesis machinery that occurs when the photosynthesis apparatus is saturated by light.
+SOY:0002277	Malonyltransferase activity	The malonyltransferase of a plant or plant part.
+SOY:0002278	Isoflavone-7-O-beta-glucoside 6''-O-malonyltransferase activity	The isoflavone-7-O-beta-glucoside 6''-O-malonyltransferase activity of a plant or plant part.
+SOY:0002280	G-protein coupled receptor signaling pathway	A series of molecular signals that proceeds with an activated receptor promoting the exchange of GDP for GTP on the alpha-subunit of an associated heterotrimeric G-protein complex. The GTP-bound activated alpha-G-protein then dissociates from the beta- and gamma-subunits to further transmit the signal within the cell. The pathway begins with receptor-ligand interaction, or for basal GPCR signaling the pathway begins with the receptor activating its G protein in the absence of an agonist, and ends with regulation of a downstream cellular process, e.g. transcription. The pathway can start from the plasma membrane, Golgi or nuclear membrane.
+SOY:0002281	NBS-LRR receptor signaling pathway	Participates in the signal transduction of and extracellular stimulus through a NBS-LRR receptor.
+SOY:0002283	Isoflavone synthase activity	The isoflavone synthase activity of a plant part or tissue.
+SOY:0002284	Arogenate dehydratase activity	The arogenate dehydratase activity of a plant part or tissue.
+SOY:0002285	Coumarate 4-hydroxylase activity	The coumarate 4-hydroxylase activity of a plant part or tissue.
+SOY:0002286	Pectate lyase activity	The pectate lyase activity of a plant or plant part.
+SOY:0002287	Anaphase-promoting complex activity	Proteins that participate in the formation of the anaphase-promoting complex (cyclosome).
+SOY:0002288	Gibberellin signalling pathway activity	Factors involved in the transduction of gibberellic acid hormone signal.
+SOY:0002289	Pectin lyase activity	The pectin lyase activity of a plant or plant part.
+SOY:0002290	Vesicle-mediated transport	A cellular transport process in which transported substances are moved in membrane-bounded vesicles; transported substances are enclosed in the vesicle lumen or located in the vesicle membrane. The process begins with a step that directs a substance to the forming vesicle, and includes vesicle budding and coating. Vesicles are then targeted to, and fuse with, an acceptor membrane.
+SOY:0002291	Elongation factor activity	Proteins that function in chain elongation during polypeptide synthesis at the ribosome.
+SOY:0002292	Protein kinase activity	A protein that phosphorylates another protein.
+SOY:0002293	MAP kinase activity	Mitogen-activated protein kinase; a family of protein kinases that perform a crucial step in relaying signals from the plasma membrane to the nucleus.
+SOY:0002294	Positive regulation of MAP kinase activity	Any protein or compound that positively regulates MAP Kinase activity.
+SOY:0002295	MAP kinase kinase activity	Catalysis of the concomitant phosphorylation of threonine (T) and tyrosine (Y) residues in a Thr-Glu-Tyr (TEY) thiolester sequence in a MAP kinase (MAPK) substrate.
+SOY:0002296	B-box zinc finger transcription factor activity	A protein of the class of zinc-finger transcription factors possessing one or two B-BOX domains and in some cases an additional CCT.
+SOY:0002298	Reaction to weeds	The effect of weed pressure on a soybean plant.
+SOY:0002299	Reaction to Fusarium graminearum	The reaction of a plant or plant part to infection with Fusarium graminearum.
+SOY:0002300	Leaflet length to width ratio	The ratio of the leaflet length divided by the leaflet width.
+SOY:0002302	Soymilk weight	The weight of the soymilk produced from a given amount of soybean seeds.
+SOY:0002303	Tofu weight	The weight of tofu curd recovered from processing a given amount of soybean seeds.
+SOY:0002304	Tofu yield	Tofu yield is the tofu to soybean mass ratio corrected for the proportion of soymilk used.
+SOY:0002305	Tofu value	A measure of the value of processed tofu.
+SOY:0002306	Tofu hardness	The hardness of a processed block of tofu.
+SOY:0002307	Leaflet dry weight ratio	The ratio of leaflet dry weight (LDW)to the sum of the LDW + stem petiole dry weight.

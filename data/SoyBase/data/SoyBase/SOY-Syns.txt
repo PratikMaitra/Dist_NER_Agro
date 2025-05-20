@@ -1,0 +1,807 @@
+SOY:0001302	grain shattering
+SOY:0001302	Pod Dehiscence
+SOY:0001302	Shattering
+SOY:0001303	bacterial pustule
+SOY:0001303	Common bacterial blight
+SOY:0001307	Alfalfa mosaic
+SOY:0001307	Alfalfa Mosaic Alfamovirus
+SOY:0001307	Alfalfa mosaic virus
+SOY:0001308	Alternaria leaf spot
+SOY:0001308	Alternaria pod decay
+SOY:0001308	Alternaria pod spot
+SOY:0001308	Alternaria seed decay
+SOY:0001308	pod spot
+SOY:0001312	Bacterial Blight
+SOY:0001312	Bacterial brown spot
+SOY:0001312	Bacterial crinkle leaf spot
+SOY:0001312	Brown spot
+SOY:0001312	Halo blight (P. syringae pv phaseolicola)
+SOY:0001313	WUE (QTL symbol)
+SOY:0001314	Bean Yellow Mosaic Potyvirus
+SOY:0001314	BYMV
+SOY:0001315	Grape Colaspis
+SOY:0001316	Developing seed stage PO:0004506
+SOY:0001316	Growth stage R5
+SOY:0001316	Reproductive growth stage 5
+SOY:0001319	Downy mildew
+SOY:0001319	Phloeophthora nicotianae
+SOY:0001319	Phytophthora lycopersici
+SOY:0001319	Phytophthora nicotinae
+SOY:0001319	Phytophthora tobaci
+SOY:0001320	Brown stem rot
+SOY:0001320	BSR
+SOY:0001320	Cadophora gregata
+SOY:0001320	Cephalosporium gregatum
+SOY:0001320	Phialophora stem rot
+SOY:0001321	anemone necrosis virus
+SOY:0001321	blueberry necrotic ringspot virus
+SOY:0001321	Bud blight
+SOY:0001321	Tobacco ring spot virus
+SOY:0001321	Tobacco Ringspot Nepovirus
+SOY:0001321	TRSV
+SOY:0001322	true white grub
+SOY:0001322	white grub
+SOY:0001323	Southern corn rootworm
+SOY:0001323	Spotted cucumber beetle
+SOY:0001326	CID
+SOY:0001327	open flower
+SOY:0001328	CES
+SOY:0001329	yellowing score
+SOY:0001330	closed flower
+SOY:0001331	CEW (QTL symbol)
+SOY:0001331	Corn earworm
+SOY:0001333	CCMV
+SOY:0001333	Cowpea Chlorotic Mottle Bromovirus
+SOY:0001333	Cowpea chlorotic mottle virus
+SOY:0001334	CMMV
+SOY:0001334	Cowpea Mild Mottle Carlavirus
+SOY:0001334	Cowpea mild Mottle Carlavirus
+SOY:0001335	SCN
+SOY:0001335	Soybean cyst nematode
+SOY:0001336	Phomopsis phaseolorum
+SOY:0001336	Phomopsis pod and stem blight
+SOY:0001337	Bacterial pustule
+SOY:0001338	Bacterial pustule
+SOY:0001339	Pseudomonas adropogonis leaf spot
+SOY:0001340	Bacterial blight
+SOY:0001342	leaf drop
+SOY:0001343	pale yellow
+SOY:0001343	yellowing
+SOY:0001344	<new synonym>
+SOY:0001344	TO:0002673 amino acid content
+SOY:0001347	Downy mildew
+SOY:0001347	leaf spot
+SOY:0001347	Peronospora sojae
+SOY:0001349	Garden webworm
+SOY:0001351	submergence tolerance
+SOY:0001353	TO:0000366 Reproductive growth time
+SOY:0001354	leaf paling
+SOY:0001354	leaf yellowing
+SOY:0001354	leaflet yellowing
+SOY:0001355	stem yellowing
+SOY:0001355	yellow stem
+SOY:0001360	Dry seed stage PO:0001040
+SOY:0001361	Fusarium blight
+SOY:0001361	Fusarium wilt
+SOY:0001364	Bean leaf beetle
+SOY:0001366	Height/Lodging (QTL symbol)
+SOY:0001369	Hypocotyl length (QTL symbol)
+SOY:0001373	Fe effic (QTL symbol)
+SOY:0001373	IDC
+SOY:0001373	Iron deficiency chlorosis
+SOY:0001374	Root-Knot Nematode
+SOY:0001375	Javanese Root-Knot Nematode
+SOY:0001375	Javanese rootknot nematode
+SOY:0001376	Columbia lance nematode
+SOY:0001376	Lance nematode
+SOY:0001378	leaflet necrosis
+SOY:0001379	leaf length
+SOY:0001381	true white grub
+SOY:0001381	white grub
+SOY:0001383	white grub
+SOY:0001384	vitamin E
+SOY:0001385	Leaf area
+SOY:0001387	leaf color
+SOY:0001388	leaf number
+SOY:0001389	leaf shape
+SOY:0001390	Beanfly
+SOY:0001391	C18:2
+SOY:0001391	LA
+SOY:0001391	octadecadienoic acid
+SOY:0001392	ALA
+SOY:0001392	alpha-linolenic acid
+SOY:0001392	C18:3
+SOY:0001393	Lodging (QTL symbol)
+SOY:0001395	Vitamin E
+SOY:0001396	Vitamin E
+SOY:0001413	beanfly
+SOY:0001419	seeds per pod
+SOY:0001420	Ascochyta leaf spot
+SOY:0001420	Phoma leaf spot
+SOY:0001421	Anthracnose
+SOY:0001421	Soybean anthracnose
+SOY:0001422	Cotyledon Spot
+SOY:0001422	Curvularia cotyledon spot
+SOY:0001423	Phomopsis seed decay
+SOY:0001423	Phomopsis sojae
+SOY:0001423	Pod and stem blight
+SOY:0001424	Diaporthe pod blight
+SOY:0001424	Phomopsis phaseoli var sojae
+SOY:0001424	Phomopsis seed decay
+SOY:0001424	Pod and stem blight
+SOY:0001425	Bacterial blight
+SOY:0001426	Bacterial pustule
+SOY:0001427	Bacterial Blight
+SOY:0001428	Bacterial pustule
+SOY:0001429	Bacterial pustule
+SOY:0001430	Bacterial tan spot
+SOY:0001430	Bacterial wilt
+SOY:0001431	Wildfire
+SOY:0001432	Bacterial wilt
+SOY:0001433	Bacterial wilt
+SOY:0001434	Corynebacterium wilt
+SOY:0001435	Bacillus seed decay
+SOY:0001436	Alternaria leaf spot
+SOY:0001436	Pod necrosis
+SOY:0001437	Anthracnose
+SOY:0001437	Pod Blight
+SOY:0001437	Vermicularia truncata
+SOY:0001438	Anthracnose
+SOY:0001439	Anthracnose
+SOY:0001439	Colletotrichum destructivum
+SOY:0001440	Beet armyworm
+SOY:0001440	Laphygma exigua
+SOY:0001441	Anthracnose
+SOY:0001441	Colletotrichum gloeosporiodes
+SOY:0001442	Aristastoma leaf spot
+SOY:0001442	Aristastoma yellowing
+SOY:0001443	Aristastoma leaf spot
+SOY:0001443	Aristastoma yellowing
+SOY:0001444	Black leaf blight
+SOY:0001445	 Septoria glycine
+SOY:0001445	Brown spot
+SOY:0001445	Septoria leaf spot
+SOY:0001446	Brown spot
+SOY:0001447	Botryotinia fuckeliana
+SOY:0001447	Botrytis stem rot
+SOY:0001448	Cercospora blight
+SOY:0001448	Cercospora leaf spot
+SOY:0001448	Lavender spot
+SOY:0001448	Purple blotch
+SOY:0001448	Purple seed stain
+SOY:0001448	Purple spot
+SOY:0001448	Purple stain
+SOY:0001449	Aschochyta leaf spot
+SOY:0001450	Ascochyta leaf spot
+SOY:0001450	Phoma exigua
+SOY:0001451	Cotyledon Spot
+SOY:0001451	Curvularia cotyledon spot
+SOY:0001452	Downy mildew
+SOY:0001452	leaf spot
+SOY:0001452	Peronospora manshurica
+SOY:0001453	Drechslera blight
+SOY:0001454	Fusarium blight
+SOY:0001454	Fusarium wilt
+SOY:0001455	Pod and collor rot
+SOY:0001456	Fusarium root rot
+SOY:0001456	Preemergence damping-off
+SOY:0001456	Root rot
+SOY:0001457	Phomopsis longicolla
+SOY:0001457	Phomopsis seed decay
+SOY:0001457	Seed decay
+SOY:0001458	Northern stem canker
+SOY:0001458	Phomopsis phaseoli
+SOY:0001458	Phomopsis phaseolorum var caulivora
+SOY:0001458	Stem canker
+SOY:0001459	Phomopsis paseolorum var meridionalis
+SOY:0001459	Southern stem canker
+SOY:0001459	Stem canker
+SOY:0001460	SDS
+SOY:0001460	Sudden Death Syndrome
+SOY:0001461	Phytophthora root and stem rot
+SOY:0001461	Phytophthora rot
+SOY:0001461	Phytophthora stem rot
+SOY:0001462	Pythium damping-off
+SOY:0001462	Pythium root rot
+SOY:0001462	Root rot
+SOY:0001463	Globisporangium debaryanum
+SOY:0001463	Pythium damping-off
+SOY:0001463	Pythium root rot
+SOY:0001463	Root rot
+SOY:0001464	Globioporangium irregulare
+SOY:0001464	Pythium damping-off
+SOY:0001464	Pythium root rot
+SOY:0001464	Root rot
+SOY:0001465	Globiosporangium ultimum
+SOY:0001465	Pythium damping-off
+SOY:0001465	Pythium root rot
+SOY:0001465	Root rot
+SOY:0001466	Blakeslea leaf blight
+SOY:0001466	Choanephora leaf blight
+SOY:0001466	Choanephora wet rot
+SOY:0001467	Leptoshaerulina leaf spot
+SOY:0001468	Phyllosticta leaf spot
+SOY:0001468	Phyllosticta sojicola
+SOY:0001468	Phylosticta glycinea
+SOY:0001468	Phylosticta glycineum
+SOY:0001468	Phylosticta leaf blight
+SOY:0001468	Phylosticta sojaecola
+SOY:0001469	Dactuliophora glycines
+SOY:0001469	Pyrenochaeta glycines
+SOY:0001469	Red leaf blotch
+SOY:0001470	Rhizoctonia aerial blight
+SOY:0001470	Rhizoctonia damping-off
+SOY:0001470	Rhizoctonia foliage blight
+SOY:0001470	Rhizoctonia foliar blight
+SOY:0001470	Rhizoctonia hypotcoyl rot
+SOY:0001470	Rhizoctonia leaf blight
+SOY:0001470	Rhizoctonia preemergence blight
+SOY:0001470	Rhizoctonia root decay
+SOY:0001470	Rhizoctonia root rot
+SOY:0001470	Rhizoctonia solani.
+SOY:0001470	Rhizoctonia web blight
+SOY:0001471	Malupa vignae
+SOY:0001471	Soybean rust
+SOY:0001472	Asian Soybean Rust
+SOY:0001472	Malupa sojae
+SOY:0001472	Soybean Rust
+SOY:0001473	KoKuto-byo
+SOY:0001473	Scab
+SOY:0001473	Sphaceloma scab
+SOY:0001474	Stemphylium botryosum
+SOY:0001474	Stemphylium leaf blight
+SOY:0001475	Stemphylium herbarum
+SOY:0001475	Stemphylium leaf blight
+SOY:0001476	Stemphylium leaf blight
+SOY:0001476	Stemphylium vesicaium
+SOY:0001477	Target spot
+SOY:0001478	Charcoal rot
+SOY:0001478	Dry-weather wilt
+SOY:0001478	Summer wilt
+SOY:0001479	Sclerotinia stem rot
+SOY:0001479	Soybean white mold
+SOY:0001480	Sclerotium blight
+SOY:0001480	Southern Blight
+SOY:0001481	Black hull (peanut)
+SOY:0001481	Black root rot (beans)
+SOY:0001481	Chalaria elegans
+SOY:0001481	Thielaviopsis root rot
+SOY:0001481	Torula basicola
+SOY:0001481	Trichocladium basicola
+SOY:0001482	Nectria ochroleuca
+SOY:0001482	Verticillium stem rot
+SOY:0001483	Crown and root rot
+SOY:0001484	Acremonium
+SOY:0001484	Neocosmospora Stem Rot
+SOY:0001485	Myrothecium leaf spot
+SOY:0001485	Myrothecium leaf spot and pod blight
+SOY:0001486	Gliocladium fimbriatum
+SOY:0001486	Metarhizium glutinosum
+SOY:0001486	Myrothecium leaf spot
+SOY:0001486	Myrothecium leaf spot and pod blight
+SOY:0001487	Powdery mildew
+SOY:0001488	Pseudomonas adropogonis leaf spot
+SOY:0001489	Black gram mottle carmovirus
+SOY:0001489	BMoV
+SOY:0001490	Bean pod mottle comovirus
+SOY:0001490	BPMV
+SOY:0001491	Cowpea Severe Mosaic Comovirus
+SOY:0001491	CPSMV
+SOY:0001492	banana infectious chlorosis virus
+SOY:0001492	Coleus mosaic virus
+SOY:0001492	Cowpea banding mosaic virus
+SOY:0001492	Cowpea ringspot virus
+SOY:0001492	lily ringspot virus
+SOY:0001492	pea top necrosis virus
+SOY:0001492	Pea western ringspot virus
+SOY:0001492	Peanut yellow mosaic virus
+SOY:0001492	Southern celery mosaic virus
+SOY:0001492	Soybean stunt cucumovirus
+SOY:0001492	spinach blight virus
+SOY:0001492	SSV
+SOY:0001492	Tomato fern leaf virus
+SOY:0001493	black locust true mosaic virus
+SOY:0001493	clover blotch virus
+SOY:0001493	Peanut Stunt Cucumovirus
+SOY:0001493	Peanut stunt cucumovirus
+SOY:0001493	Peanutstunt virus
+SOY:0001493	PSV
+SOY:0001493	Robinia mosaic virus
+SOY:0001494	SbYVV
+SOY:0001494	Soybean Yellow Vein Furovirus
+SOY:0001495	Asparagus stunt virus
+SOY:0001495	Brazilian bud blight
+SOY:0001495	Strawberry necrotic shock virus
+SOY:0001495	Tobacco Streak Ilarvirus
+SOY:0001495	TSV
+SOY:0001496	Indonesian Soybean Dwarf Luetovirus
+SOY:0001496	ISDV
+SOY:0001496	Soybean indonesian dwarf virus
+SOY:0001497	SbDV
+SOY:0001497	Soybean Dwarf luteovirus
+SOY:0001498	Soybean Severe Stunt Nepovirus
+SOY:0001498	SSSV
+SOY:0001499	Groundnut mottle virus
+SOY:0001499	Mottle
+SOY:0001499	Peanut mild mosaic virus
+SOY:0001499	Peanut Mottle Potyvirus
+SOY:0001499	Peanut severe mosaic virus
+SOY:0001499	PeMoV
+SOY:0001500	Peanut Stripe Potyvirus
+SOY:0001500	PStV
+SOY:0001501	SMV
+SOY:0001501	Soybean crinkle
+SOY:0001501	Soybean Mosaic Potyvirus
+SOY:0001502	TMV
+SOY:0001502	TMV-S
+SOY:0001502	Tobacco Mosaic Tobamovirus
+SOY:0001503	African Soybean Dwarf Alfamovirus
+SOY:0001503	African Soybean Dwarf virus
+SOY:0001504	Mung Bean Yellow Mosaic Bigeminivirus
+SOY:0001504	Mungbean Yellow Mosaic Begomovirus
+SOY:0001504	Mungbean Yellow Mosaic Virus
+SOY:0001504	MYMV
+SOY:0001505	SCLV
+SOY:0001505	Soybean crinkle leaf begomovirus
+SOY:0001505	Soybean Crinkle Leaf Virus
+SOY:0001506	SbCmV
+SOY:0001506	Soybean Chlorotic Mottle Luteovirus
+SOY:0001506	Soybean chlorotic mottle soymovirus
+SOY:0001506	Subterranean clover red leaf virus
+SOY:0001506	subterranean red leaf luteovirus
+SOY:0001507	SMMV
+SOY:0001507	Soybean Mild Mosaic
+SOY:0001508	Cucumber Mosaic Cucumoirus
+SOY:0001508	CuMV
+SOY:0001508	Soybean stunt
+SOY:0001509	AzMV
+SOY:0001509	Azuki mosaic
+SOY:0001509	Bean Common Mosaic Virus
+SOY:0001510	AbMV
+SOY:0001510	Abutilon mosaic
+SOY:0001510	Abutilon Mosaic Bigeminivirus
+SOY:0001511	Bean chlorotic ringspot
+SOY:0001512	BCMV
+SOY:0001512	Bean Common Mosaic
+SOY:0001512	Bean Common mosaic potyvirus
+SOY:0001512	Blackeye Cowpea Mosaic Virus
+SOY:0001513	Bean Common Mosaic potyvirus
+SOY:0001513	Bean Common MosaicVirus
+SOY:0001513	Blackeye Cowpea Mosaic Potyvirus
+SOY:0001513	BlCMV
+SOY:0001515	Q disease
+SOY:0001515	Soybean bud proliferation
+SOY:0001516	Amachamiento
+SOY:0001516	Shoot proliferation
+SOY:0001517	Phyllody
+SOY:0001518	Ascochyta leaf spot
+SOY:0001518	Ascochyta phaseolorum
+SOY:0001518	Phoma exigua var. solanicola
+SOY:0001518	Phoma solanicola
+SOY:0001519	Alfalfa caterpillar
+SOY:0001520	Corn leaf aphid
+SOY:0001521	Spirea aphid
+SOY:0001522	Green peach aphid
+SOY:0001523	Bird-cherry oat aphid
+SOY:0001524	Bird-cherry oat aphid
+SOY:0001525	cotton aphid
+SOY:0001525	melon aphid
+SOY:0001526	Fall army worm
+SOY:0001526	Fall armyworm
+SOY:0001526	Laphygma frugipera
+SOY:0001527	Prodenia ornithogalli
+SOY:0001527	yellowstriped armyworm
+SOY:0001528	Banded cucumber beetle
+SOY:0001529	Epicauta pestifera
+SOY:0001529	Margined blister beetle
+SOY:0001530	Clover leaf weevil
+SOY:0001531	Black cutworm
+SOY:0001532	Dingy cutworm
+SOY:0001533	Variegated cutworm
+SOY:0001534	Dectes brevis
+SOY:0001534	Dectes latitarsus
+SOY:0001534	Dectes spinosus
+SOY:0001534	Dectes stem borer
+SOY:0001535	Garden fleahopper
+SOY:0001536	Beanfly
+SOY:0001537	Red legged grasshopper
+SOY:0001537	Redlegged grasshopper
+SOY:0001538	Differential grasshopper
+SOY:0001539	Green cloverworm
+SOY:0001540	Imported longhorned weevil
+SOY:0001541	Japanese beetle
+SOY:0001542	Lesser cornstalk borer
+SOY:0001543	Soybean looper
+SOY:0001544	Cabbage looper
+SOY:0001545	MBB
+SOY:0001545	Mexican bean beetle
+SOY:0001546	Cynthia cardui
+SOY:0001546	Painted lady
+SOY:0001546	Thistle caterpillars
+SOY:0001547	Tarnished plant bug
+SOY:0001548	Potato leafhopper
+SOY:0001549	Hylemia cilcrura
+SOY:0001549	Hylemia platura
+SOY:0001549	Seedcorn maggot
+SOY:0001550	Soybean leafminer
+SOY:0001551	Locust leafminer
+SOY:0001552	Leafminer
+SOY:0001553	Soybean nodule fly
+SOY:0001554	Soybean thrips
+SOY:0001555	Flower thrips
+SOY:0001558	Stalk borer
+SOY:0001559	Southern green stink bug
+SOY:0001559	Southern green stinkbug
+SOY:0001560	Green stink bug
+SOY:0001561	Brown stink bug
+SOY:0001562	Membracis festin
+SOY:0001562	Stictocephala festina
+SOY:0001562	three cornered alfalfa hopper
+SOY:0001562	Threecornered alfalfa hopper
+SOY:0001563	Tetranychus atlanticus
+SOY:0001563	Tetranychus bimaculatus
+SOY:0001563	Tetranychus telarius
+SOY:0001563	Tetranychus turkestani
+SOY:0001563	two spotted spider mite
+SOY:0001563	Twospotted spider mite
+SOY:0001564	Pacific spider mite
+SOY:0001565	Anticarsia gemmatilis
+SOY:0001565	Velvetbean caterpillar
+SOY:0001566	Sweetpotato whitefly
+SOY:0001566	Whitefly
+SOY:0001567	White grub
+SOY:0001568	Click beetles
+SOY:0001568	Wireworms
+SOY:0001569	Yellow woollybear
+SOY:0001574	anthracnose
+SOY:0001586	Lance nematode
+SOY:0001587	crown-headed lance nematode
+SOY:0001587	Lance nematode
+SOY:0001588	Peanut Root-Knot Nematode
+SOY:0001588	Root-Knot Nematode
+SOY:0001589	Northern Root-Knot Nematode
+SOY:0001589	Root-Knot Nematode
+SOY:0001590	Root-Knot Nematode
+SOY:0001590	rootknot nematode
+SOY:0001590	Southern Root-Knot Nematode
+SOY:0001590	Southern rootknot nematode
+SOY:0001592	CCW
+SOY:0001592	Common Cutworm
+SOY:0001593	Halo Blight
+SOY:0001594	Sd fill
+SOY:0001595	Sd fill
+SOY:0001596	seed development stage
+SOY:0001596	seed fill
+SOY:0001596	seed maturation
+SOY:0001597	seed thickness
+SOY:0001601	Necrosis, root Mn induced (QTL symbol)
+SOY:0001601	Root Necrosis Resistance (Trait Name)
+SOY:0001603	Ara (symbol)
+SOY:0001603	Arabino-pentose
+SOY:0001604	seed PO:0009010
+SOY:0001608	Maturity date
+SOY:0001608	Pod maturity (QTL symbol)
+SOY:0001608	Reproductive stage R8
+SOY:0001608	Seed pod maturity
+SOY:0001609	Salt reaction
+SOY:0001610	Vitamin E
+SOY:0001611	Female sterility
+SOY:0001612	ms
+SOY:0001620	Tobacco budworm
+SOY:0001622	Seed yield
+SOY:0001623	1-alpha-D-glucopyranosyl-2-beta-D-fructofuranoside
+SOY:0001623	cane sugar
+SOY:0001623	CAS 57-50-1
+SOY:0001623	saccharose
+SOY:0001623	Sucrose (trait)
+SOY:0001623	sucrose content
+SOY:0001625	Stem length, main (QTL symbol)
+SOY:0001626	C18:0
+SOY:0001626	CAS 57-11-4
+SOY:0001626	octadecanoic acid
+SOY:0001626	octadecoic acid
+SOY:0001627	germination ratio
+SOY:0001627	Sprout yield (QTL symbol)
+SOY:0001629	Sd wt (QTL symbol)
+SOY:0001630	Sd no (QTL symbol)
+SOY:0001634	Seed micropyle PO:0006334
+SOY:0001635	Covering of the seed PO:0009088
+SOY:0001636	beta-D-fructofuranosyl alpha-D-galactopyranosyl-(1-6)-alpha-D-galactopyranosyl-(1-6)-alpha-D-glucopyranoside 
+SOY:0001636	O-alpha-D-galactopyranosyl-(1->6)o-alpha-D-galactopyranosyl-(1-6)O-alpha-D-galactopyranosyl-beta-D-fructofuranoside 
+SOY:0001637	leaf morphology
+SOY:0001637	leaves
+SOY:0001638	First flower
+SOY:0001640	Fflr (QTL symbol)
+SOY:0001641	6G-alpha-D-galactosylsucrose
+SOY:0001641	beta-D-Fructofuranosyl-(1-6)-alpha-D-glucopyranoside
+SOY:0001642	Seed raphe PO:0006331
+SOY:0001643	Fusarium blight
+SOY:0001643	Fusarium root rot
+SOY:0001643	Fusarium wilt
+SOY:0001644	R3
+SOY:0001644	Reproductive stage 3
+SOY:0001645	R7
+SOY:0001645	Reproductive stage 7
+SOY:0001646	dry seed stage
+SOY:0001646	R8
+SOY:0001646	Reproductive stage 8
+SOY:0001651	beta conglycinin fraction
+SOY:0001652	alpha-prime conglycinin
+SOY:0001653	CWP
+SOY:0001654	conglycinin fraction
+SOY:0001654	globulin
+SOY:0001655	Cercospora leaf spot
+SOY:0001655	Frogeye leaf spot
+SOY:0001656	6-deoxygalactose
+SOY:0001656	Fuc
+SOY:0001658	galacto-hexose
+SOY:0001660	Glc (symbol)
+SOY:0001660	gluco-hexose
+SOY:0001662	globulin
+SOY:0001671	18:1 n-9
+SOY:0001671	C18:1 n-9
+SOY:0001671	Octadec-9-enoic acid
+SOY:0001671	Octadecenoic acid
+SOY:0001673	16:0
+SOY:0001673	C16:0
+SOY:0001673	CAS 57-10-3
+SOY:0001673	cetylic acid
+SOY:0001673	hexadecanoic acid
+SOY:0001673	hexadecylic acid
+SOY:0001673	palmitate
+SOY:0001688	Determinacy
+SOY:0001690	CHLORO (QTL symbol)
+SOY:0001691	Pectin (QTL symbol)
+SOY:0001692	myo-inositol 1,2,3,4,5,6-hexakisphosphate
+SOY:0001692	myo-inositol hexakisphosphate
+SOY:0001692	Phytate (QTL symbol)
+SOY:0001693	betain nicotinate
+SOY:0001693	betaine nicotinate
+SOY:0001693	caffearine
+SOY:0001693	TRG(DW) (QTL symbol)
+SOY:0001693	TRG(FW) (QTL symbol)
+SOY:0001699	Reniform nematode
+SOY:0001700	Cowpea Mosaic Virus
+SOY:0001700	Cowpea Yellow Mosaic Virus
+SOY:0001700	CPMV
+SOY:0001700	CPYMV
+SOY:0001703	Cercospora leaf spot
+SOY:0001703	Frogeye leaf spot
+SOY:0001704	Target spot
+SOY:0001705	Target spot
+SOY:0001707	Fusarium root rot
+SOY:0001710	4-amino-[tert-butyl-3(methyithio)-as-trazine-5)4H)one]
+SOY:0001710	Hm (gene symbol)
+SOY:0001711	Basagran
+SOY:0001711	Hb (gene symbol)
+SOY:0001711	Laddock
+SOY:0001712	CAS 40487-42-1
+SOY:0001712	Penoxalin
+SOY:0001712	Prowl
+SOY:0001712	Sipaxol
+SOY:0001712	Stomp
+SOY:0001713	Mottling
+SOY:0001713	Mottling score
+SOY:0001715	L1 (gene symbol)
+SOY:0001716	phytophthora megasperma var. sojae
+SOY:0001716	Phytophthora root rot
+SOY:0001716	Phytophthora stem rot
+SOY:0001716	PRR
+SOY:0001726	Female sterile
+SOY:0001726	female sterility
+SOY:0001727	female sterile
+SOY:0001727	female sterility
+SOY:0001727	seed abortion
+SOY:0001730	specific leaflet nitrogen content
+SOY:0001731	photosynthesis
+SOY:0001788	Soybean pod borer
+SOY:0001794	Leaf margin
+SOY:0001799	nodule morphogenesis
+SOY:0001800	determinate nodule
+SOY:0001803	leaf rolling
+SOY:0001803	wilting
+SOY:0001806	somatic plant embryo
+SOY:0001824	flowering period
+SOY:0001826	Eremothecium coryli
+SOY:0001826	Nematospora lycopersici
+SOY:0001826	Yeast spot
+SOY:0001827	somatic plant embryogenesis
+SOY:0001829	Nematospora coryli
+SOY:0001829	Yeast spot
+SOY:0001843	disaccharides
+SOY:0001844	oligosaccharide content
+SOY:0001850	dry leaflet weight
+SOY:0001850	fresh leaflet weight
+SOY:0001850	leaflet dry weight
+SOY:0001850	leaflet fresh weight
+SOY:0001851	Soybean aphid
+SOY:0001854	damping-off
+SOY:0001854	Fusarium graminearum
+SOY:0001854	pod blight
+SOY:0001854	post-emergence damping-off
+SOY:0001854	pre-emergence damping-off
+SOY:0001854	seed and root rot
+SOY:0001854	seed decay
+SOY:0001855	submergence tolerance
+SOY:0001855	survival percentage under submergence
+SOY:0001856	submergence yield index
+SOY:0001859	Increased leaflet chlorphyll content
+SOY:0001859	Reduced leaflet chlorophyll content
+SOY:0001861	2-acetyl-4,5-dihydro-3H-pyrrole
+SOY:0001861	2AP
+SOY:0001861	APR
+SOY:0001861	fragrance
+SOY:0001866	bean pyralid
+SOY:0001867	Seed saturated fatty acid content
+SOY:0001871	Stem weight
+SOY:0001885	D-verbascose
+SOY:0001897	fused leaflets
+SOY:0001901	4CL
+SOY:0001904	acetolactate pyruvate-lyase
+SOY:0001904	acetolactic synthetase
+SOY:0001904	alpha-acetohydroxyacid synthase
+SOY:0001904	alpha-acetolactate synthase
+SOY:0001904	ALS
+SOY:0001904	pyruvate:pyruvate acetaldehydetransferase (decarboxylating) 
+SOY:0001905	5-aminolevulinate hydro-lyase
+SOY:0001905	5-levulinic acid dehydratase
+SOY:0001905	ALAD
+SOY:0001905	aminolevulinate dehydratase
+SOY:0001905	delta-aminolevulinate dehydratase
+SOY:0001912	6'-deoxychalcone synthase
+SOY:0001912	Flavone synthase
+SOY:0001912	Naringenin-chalcone synthase
+SOY:0001917	DFR
+SOY:0001917	Dihydrokaempferol 4-reductase
+SOY:0001917	NADPH-dihydromyricetin reductase
+SOY:0001917	W3
+SOY:0001923	Flavonoid 3'-monoxygenase
+SOY:0001923	Flavonone 3-dioxygenase
+SOY:0001923	naringenin 3-dioxygenase
+SOY:0001940	NOD
+SOY:0001942	PEPC
+SOY:0001945	RNPII
+SOY:0001948	glutamate-ammonia ligase activity
+SOY:0001948	GS
+SOY:0001955	IDH
+SOY:0001958	9-lipoxygenase
+SOY:0001958	9S-lipoxygenase
+SOY:0001958	Linoleate 9-lipoxygenase
+SOY:0001959	13-lipoperoxidase
+SOY:0001959	13-lipoxidase
+SOY:0001959	Carotene oxidase
+SOY:0001959	Lipoperoxidase
+SOY:0001959	Lipoxidase
+SOY:0001960	LAP
+SOY:0001961	seed storage protein
+SOY:0001969	PGM
+SOY:0001971	Shr
+SOY:0001973	SOD
+SOY:0001974	<new synonym>
+SOY:0001974	W
+SOY:0001975	Wp
+SOY:0001976	Wm
+SOY:0001978	Seed length to thickness ratio
+SOY:0001980	Seed width to thickness ratio
+SOY:0002054	Stearoyl-[acyl-carrier-protein] 9-desaturase
+SOY:0002054	Stearyl acyl carrier protein desaturase
+SOY:0002054	Stearyl-ACP desaturase
+SOY:0002069	FAD2
+SOY:0002070	Isoflavone synthase
+SOY:0002072	Cinnamate 4-hydroxylase
+SOY:0002072	Cinnamate 4-monooxygenase
+SOY:0002072	Cinnamic acid 4-hydroxylase
+SOY:0002073	IOMT
+SOY:0002088	<new synonym>
+SOY:0002088	GLYI
+SOY:0002089	GlyII
+SOY:0002096	Chalcone reductase
+SOY:0002097	vestitione:NADP+ oxidoreductase
+SOY:0002098	PAL
+SOY:0002098	phenylalanine deaminase
+SOY:0002099	CYP Ge-3
+SOY:0002099	CYP81E1
+SOY:0002099	Isoflavone 2'-monooxygenase
+SOY:0002115	cyclophilin
+SOY:0002116	bZIP
+SOY:0002117	HAP
+SOY:0002117	NF-Y
+SOY:0002127	NF-X1
+SOY:0002128	Apetala2
+SOY:0002129	CCAAT-box binding protein
+SOY:0002129	CPB
+SOY:0002131	CBP
+SOY:0002131	CCAAT-box binding protein
+SOY:0002135	basic pentacysteine protein
+SOY:0002137	bHLH
+SOY:0002140	CCCH Znf
+SOY:0002142	Tesmin
+SOY:0002142	TSO1-like
+SOY:0002143	BANK
+SOY:0002143	BCAP
+SOY:0002143	DOF
+SOY:0002145	EIN3-like
+SOY:0002145	Ethylene-insensitive3 like
+SOY:0002146	Far-Red-Impaired Response 1 like
+SOY:0002146	FAR1
+SOY:0002147	Arabidopsis Response Regulator
+SOY:0002147	ARR
+SOY:0002148	G2 like kinases
+SOY:0002148	GLK
+SOY:0002149	GeBP
+SOY:0002149	Glaborous1 enhancer-binding protein
+SOY:0002150	Growth regulating factors
+SOY:0002153	KNOX1
+SOY:0002153	KNOX2
+SOY:0002155	WUS
+SOY:0002157	Hordeum Repressor of Transcription
+SOY:0002158	Heat Stress Transcription Factor
+SOY:0002159	Lateral Organ Boundaries
+SOY:0002159	Lateral Organ Boundaries Domain
+SOY:0002159	LBD
+SOY:0002159	LOB
+SOY:0002160	FLO
+SOY:0002160	Floricaula
+SOY:0002160	Leafy
+SOY:0002160	LFY
+SOY:0002161	CRP
+SOY:0002161	cytosine rich protein
+SOY:0002166	Plant AT-rich sequence and zinc binding protein
+SOY:0002169	SPL
+SOY:0002170	SHI related sequence
+SOY:0002173	ZIM
+SOY:0002182	F3G6Gt
+SOY:0002182	Fg1
+SOY:0002182	quercetin 3-O-glucosyltransferase
+SOY:0002183	anthocyanidin 3-O-glucosyltransferase
+SOY:0002185	Banylus
+SOY:0002186	LDL
+SOY:0002194	SLD1
+SOY:0002196	magnesium-protoporphyrin IX chelatase
+SOY:0002196	Mg-protoporphyrin IX magnesium-lyase
+SOY:0002196	protoporphyrin IX Mg-chelatase
+SOY:0002199	<new synonym>
+SOY:0002199	acyl-malonyl(acyl-carrier-protein)-condensing enzyme activity
+SOY:0002199	beta-ketoacyl-ACP synthase I activity
+SOY:0002199	beta-ketoacyl-acyl carrier protein synthase activity
+SOY:0002199	FabB
+SOY:0002199	KASI
+SOY:0002199	ketoacyl-ACP synthase activity
+SOY:0002200	beta-D-glucose 1,6-phosphomutase activity
+SOY:0002200	Beta-PGM
+SOY:0002202	PMM/PGM
+SOY:0002202	PMM_PGM
+SOY:0002207	Delta-1-pyrrolidine-5-carboxylate reductase
+SOY:0002208	heavy metal ion porter activity
+SOY:0002208	heavy metal ion transporter activity
+SOY:0002210	Anthocyanin O-Methyltransferase
+SOY:0002210	OMT5
+SOY:0002211	FABP
+SOY:0002211	FAP
+SOY:0002213	NDF
+SOY:0002214	ADF
+SOY:0002215	CF
+SOY:0002217	CP
+SOY:0002224	Seed leaf
+SOY:0002231	ureides
+SOY:0002236	trichome width
+SOY:0002237	trichome size
+SOY:0002239	nodule weight
+SOY:0002253	vineyness
+SOY:0002256	free amino acids
+SOY:0002257	PAE
+SOY:0002278	malonyl CoA:isoflavone 7-O-glucoside-6''-O-malonyltransferase 
+SOY:0002278	malonyl-CoA:flavone/flavonol 7-O-glucoside malonyltransferase
+SOY:0002278	malonyl-CoA:isoflavone-7-O-beta-D-glucoside 6''-O-malonyltransferase 
+SOY:0002283	2-hydroxyisoflavanone synthase
+SOY:0002284	Arogenate dehydratase/prephenate
+SOY:0002284	L-arogenate hydro-lyase (decarboxylating) 
+SOY:0002285	trans-cinnamate 4-monooxygenase activity
+SOY:0002286	Alpha-1,4-D-endopolygalacturonic acid lyase
+SOY:0002286	Pectic acid lyase
+SOY:0002286	Polygalacturonate lyase
+SOY:0002289	endo-pectin lyase
+SOY:0002289	pectin methyltanseliminase
+SOY:0002289	Pectin trans-eliminase
+SOY:0002299	damping-off
+SOY:0002299	seed decay

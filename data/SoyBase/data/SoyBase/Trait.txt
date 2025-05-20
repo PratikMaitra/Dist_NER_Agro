@@ -1,0 +1,4865 @@
+shattering
+reaction to Xanthomonas campestris pv phaseoli infection
+abnormal seedling
+adventitious roots
+adventitious Shoots
+reaction to Alfalfa Mosaic Virus Infection (AMV)
+reaction to Alternaria alternata infection
+aluminum Tolerance
+antibiosis
+antixenosis
+reaction to Pseudomonas syringae infection
+water Use Efficiency
+reaction to Bean Yellow Mosaic Virus Infection (BYMV)
+reaction to Colaspis brunnea
+R5 Beginning Seed
+brachytic Stem
+branching
+reaction to Phytophthora nicotianae infection
+reaction to Phialophora gregata infection
+reaction to Tobacco Ringspot Virus Infection (TRSV)
+reaction to Phyllophaga congrua
+reaction to Diabrotica undecimpunctata howardi
+canopy Height
+canopy Width
+carbon Isotope Discrimination
+chasmogamy
+chlorimuron Ethyl Sensitivity
+chlorosis Score
+cleistogamy
+reaction to Helicoverpa zea
+cotyledon color
+reaction to Cowpea Chlorotic Mottle Virus Infection (CCMV)
+reaction to Cowpea Mild Mottle Virus Infection (CMMV)
+reaction to Heterodera glycines
+reaction to Diaporthe phaseolorum infection
+reaction to Xanthomonas phaseoli infection
+reaction to Xanthomonas axonopodis infection
+reaction to Pseudomonas adropogonis infection
+reaction to Pseudomonas savastanoi infection
+suspensor abscission
+leaf Abscission
+chlorosis
+seed cysteine content
+seed daidzein content
+reaction to Peronospora manshurica infection
+early Shattering Score
+reaction to Achrya rantalis
+fasciated Stem
+flooding Tolerance
+flower Color
+flowering Date
+leaflet Chlorosis
+stem Chlorosis
+seed basic glycinin subunit content
+seed acidic glycinin subunit content
+asynapsis
+desynapsis
+S1.11 Dry Seed Stage
+reaction to Fusarium oxysporum f sp tracheiphilum infection
+seed genistein content
+seed glycitein content
+reaction to Cerotoma trifurcata
+plant Height
+height/Lodging
+hilum Color
+hypocotyl Color
+hypocotyl Length
+index of Parasitism
+iodine Number
+iron Efficiency
+reaction to Meloidogyne species
+reaction to Meloidogyne javanica
+reaction to Hoplolaimus columbus
+late Shattering Score
+leaf  Necrosis
+leaflet Length
+leaflet ash content
+reaction to Phyllophaga implicita
+leaf Scorch
+reaction to Phyllophaga rugosa
+seed tocopherol content
+leaflet area
+leaflet Arrangement
+leaflet Color
+leaflet number
+leaflet shape
+reaction to Melanagromyza sojae
+seed linoleic acid content
+seed linolenic acid content
+lodging
+long Juvenile
+seed alpha-tocopherol content
+seed gamma-tocopherol content
+cpDNA Diversity
+soybean Fertility or Sterility Traits
+reaction to Ophiomyia phaseoli
+seed coat color
+seed Coat Hardness
+seed Coat Luster
+seed Shape
+seed Quality
+seed Set
+reaction to Ascochyta sajaecola infection
+reaction to Colletotrichum dematium infection
+reaction to Curvularia lunata infection
+reaction to Diaporthe sojae Infection
+reaction to Diaporthe phaseolorum var sojae Infection
+reaction to Pseudomonas savastanoi pv glycinea infection
+reaction to Xanthomonas axonopodis pv glycines infection
+reaction to Pseudomonas syringae pv glycinea infection
+reaction to Xanthomonas campestris pv glycines infection
+reaction to Xanthomonas phaseoli var sojensis infection
+reaction to Curtobacterium flaccumfaciens pv flaccumfaciens infection
+reaction to Pseudomonas syringae pv tobaci infection
+reaction to Pseudomonas solanacearum infection
+reaction to Ralstonia solanacearum infection
+reaction to Corynebacterium floccumfaciens infection
+reaction to Bacillus subtilis infection
+reaction to Alternaria tenussima infection
+reaction to Colletotrichum truncatum infection
+reaction to Colletotrichum coccodes infection
+reaction to Glomerella glycines infection
+reaction to Spodoptera exigua
+reaction to Glomerella cingulata infection
+reaction to Aristastoma comarographioides infection
+reaction to Aristastoma guttulosom infection
+reaction to Arkoola nigra infection
+reaction to Mycosphaerella uspenskajae infection
+reaction to Mycosphaerella phaseolorum infection
+reaction to Botrytis cinerae infection
+reaction to Cercospora kikuchii infection
+reaction to Ascochyta sojae infection
+reaction to Ascochyta phaseolorum infection
+reaction to Curvularia lunata var aeria infection
+reaction to Peronospora sojae infection
+reaction to Drechslera glycines infection
+reaction to Fusarium oxysporum f sp vasinfectum infection
+reaction to Fusarium pallidoroseum infection
+reaction to Fusarium solani infection
+reaction to Diaporthe longicolla Infection
+reaction to Diaporthe phaseolorum var caulivora Infection
+reaction to Diaporthe phaseolorum var meridionalis Infection
+reaction to Fusarium solani f sp glycines infection
+reaction to Phytophthora megasperma f sp glycinea infection
+reaction to Pythium aphanidermatum infection
+reaction to Pythium debaryanum infection
+reaction to Pythium irregulare infection
+reaction to Pythium ultimum infection
+reaction to Choanephora infundibulifera infection
+reaction to Leptosphaerulina trifolii infection
+reaction to Pleosphaerulina sojicola infection
+reaction to Dactuliochaeta glycines infection
+reaction to Thanatephorus cucumeris infection
+reaction to Phakopsora meibomiae infection
+reaction to Phakopsora pachyrhizi infection
+reaction to Sphaceloma glycines infection
+reaction to Pleospora tarda infection
+reaction to Pleospora herbarum infection
+reaction to Pleospora allii infection
+reaction to Corynespora cassiicola infection
+reaction to Macrophomina phaseolina infection
+reaction to Sclerotinia sclerotiorum infection
+reaction to Athelia rolfsii infection
+reaction to Thielaviopsis basicola infection
+reaction to Gliochadium roseum infection
+reaction to Mycoleptodiscus terrestris infection
+reaction to Neocosmospora vasinfecta infection
+reaction to Myrothecium roridum infection
+reaction to Myrothecium verrucaria infection
+reaction to Microsphaera diffusa infection
+reaction to Pseudomonas adropogonis pv sojae infection
+reaction to Black Gram Mottle Virus Infection (BMoV)
+reaction to Bean Pod Mottle Virus Infection (BPMV)
+reaction to Cowpea severe mosaic Virus Infection (CPSMV)
+reaction to Soybean Stunt Virus Infection (SSV)
+reaction to Peanut Stunt Virus Infection (PSV)
+reaction to Soybean Yellow Vein Virus Infection (SbYVV)
+reaction to Tobacco Streak Virus Infection (TSV)
+reaction to Indonesian Soybean Dwarf Virus Infection (ISDV)
+reaction to Soybean Dwarf Virus Infection (SbDV)
+reaction to Soybean Severe Stunt Virus Infection (SSSV)
+reaction to Peanut Mottle Virus Infection (PeMoV)
+reaction to Peanut Stripe Virus Infection (PStV)
+reaction to Soybean Mosaic Virus Infection (SMV)
+reaction to Tobacco Mosaic Virus Infection (TMV)
+reaction to African Soybean Dwarf Virus Infection (SbDV)
+reaction to Mung Bean Yellow Mosaic Virus Infection (MYMV)
+reaction to Soybean Crinkle Leaf Virus Infection (SCLV)
+reaction to Soybean Chlorotic Mottle Virus Infection  (SbCmV)
+reaction to Soybean Mild Mosaic Virus Infection (SMMV)
+reaction to Cucumber Mosaic Virus Infection (CuMV)
+reaction to Azuki Mosaic Virus Infection (AzMV)
+reaction to Abutilon Mosaic Virus Infection (AbMV)
+reaction to Bean Chlorotic Ringspot virus Infection (BCRV)
+reaction to Bean Common Mosaic Virus Infection (BCMV)
+reaction to Blackeye Cowpea Mosaic Virus Infection (BICMV)
+phytoplasma disease resistance traits
+bud proliferation
+machismo
+witches broom
+reaction to Phoma exigua infection
+reaction to Colias eurytheme
+reaction to Rhopalosiphum maidis
+reaction to Aphis spraecola
+reaction to Myzus persicae
+reaction to Rhapalosiphum padi
+reaction to Aphis craccivora
+reaction to Aphis gossypii
+reaction to Spodoptera frugiperda
+reaction to Spodoptera ornithogalli
+reaction to Diabrotica balteata
+reaction to Epicauta funebris
+reaction to Hypera punctata
+reaction to Agotis ipsilon
+reaction to Feltia ducens
+reaction to Peridroma saucia
+reaction to Dectes texanus ssp. texanus
+reaction to Halticus bractatus
+reaction to Ophiomyia centrosematis
+reaction to Melanoplus femurrubrum
+reaction to Melanoplus differentialis
+reaction to Plathypena scabra
+reaction to Calomycterus setarius
+reaction to Popilliae japnoica
+reaction to Elasmopalpus lignosellus
+reaction to Pseudoplusia includens
+reaction to Trichoplusia ni
+reaction to Epilachna varivestis
+reaction to Vanessa cardui
+reaction to Lygus lineolaris
+reaction to Empoasca fabae
+reaction to Delia platura
+reaction to Odontota horni
+reaction to Odontota dorsalis
+reaction to Sumitosis rosea
+reaction to Rivellia quadrifasciata
+reaction to Sericothrips variabilis
+reaction to Frankliniella tritici
+reaction to Colaspis louisianae
+reaction to Colaspis floridana
+reaction to Papaipema nebris
+reaction to Nezara viridula
+reaction to Acrosternum hilare
+reaction to Euschistus servus
+reaction to Spissistilus festinus
+reaction to Tetranychus urticae
+reaction to Tetranychus pacificus
+reaction to Anticarsia gemmatalis
+reaction to Bemisia tabaci
+reaction to Phyllophaga species
+reaction to Melanotus
+reaction to Spilosma virginica
+reaction to Alternaria infection
+reaction to Aristastoma infection
+reaction to Colletotrichum infection
+reaction to Hoplolaimus galeatus
+reaction to Hoplolaimus magnistylus
+reaction to Meloidogyne arenaria
+reaction to Meloidogyne hapla
+reaction to Meloidogyne incognita
+chromosome Number
+reaction to Spodoptera litura
+reaction to Pseudomonas syringae pv phaseolicola infectiion
+seed filling 1
+seed filling 2
+seed filling period
+seed width
+seed height
+seed length
+seed size
+manganese ion sensitivity
+shoot phosphorus content
+seed arabinose content
+seed
+reaction to Aphis species
+reaction to Colaspis species
+reaction to Diabrotica species
+pod Maturity Date
+sodium ion sensitivity
+seed delta-tocopherol content
+female sterile
+male sterile
+supernodulation
+leaflet Width
+pod weight
+seeds per plant
+seed soluble oligosaccharides
+twining date
+upper pubescence type
+reaction to Heliothis virescens
+seed yield/Plant height
+seed yield
+seed sucrose content
+main Stem Diameter
+main Stem Length
+seed stearic acid content
+sprout yield
+specific leaflet weight
+seed weight
+seed Number
+seed nitrogen content
+hilum
+micropyle
+seed Coat
+seed stachyose content
+leaflet Morphology
+reproductive stage, field
+flower development traits
+first flower
+seed raffinose content
+seed Raphe
+reaction to Fusarium oxysporum infection
+R3 Beginning pod
+R7 Beginning Maturity
+R8 Full Maturity
+brittle bean syndrome
+hilar Groove
+seed arabinose-galactose content
+soybean Development Stages
+seed beta-conglycinin beta-subunit protein content
+seed beta-conglycinin alpha-prime subunit protein content
+cell wall polysaccharide composition
+seed beta-conglycinin protein content
+reaction to Cercospora sojina infection
+seed fucose content
+seed galactose content
+pod Morphology
+seed glucose content
+seed glycinin content
+main Stem Number
+seed meal content
+main Stem Architecture
+lateral Branch Morphology
+isoflavone content
+seed oil content
+lateral Branch Diameter
+lateral Branch Length
+seed oleic acid content
+lateral Branch Architecture
+seed palmitic acid content
+saccharide:mono content
+seed protein content
+hypocotyl Architecture
+secondary Branching
+internode length
+reaction to Bacillus infection
+reaction to Corynebacterium infection
+reaction to Curtobacterium infection
+reaction to Pseudomonas infection
+reaction to Ralstonia infection
+reaction to Xanthomonas infection
+reaction to Xanthomonas campestris infection
+reaction to Sclerotinia  infection
+stem Termination Type
+seed oil/protein ratio
+3,4-dichloropropionanilide sensitivity
+pectin content
+seed phytate content
+leaflet trigonelline content
+photoperiod sensitivity
+reaction to Rotylenchulus reniformis
+reaction to Cowpea Mosaic Virus Infection (CPMV)
+drought Tolerance
+pods per plant
+reaction to Cercospora daizu infection
+reaction to Cercospora melonis infection
+reaction to Cercospora vignicola infection
+reaction to Fusarium tricinctum infection
+maturity group
+seed methionine content
+metribuzin Sensitivity
+bentazone Sensitivity
+pendimethalin Sensitivity
+seed Coat Mottling
+peroxidase activity
+pod color
+reaction to Phytophthora sojae infection
+pod length
+pubescence Color
+pubescence Form
+pubescence Density
+pubescence tip type
+adventitious Leaves
+specific leaflet area
+floral Abscission
+ovule Abortion
+embryo Abortion
+germination Time
+podless
+specific leaflet nitrogen content
+net photosynthetic rate
+lateral root length
+lateral root size
+lateral root shape
+lateral root number
+flower Number
+pod Number
+lateral roots absent
+root Weight
+plant weight
+root Surface Area
+shoot weight
+primary Root Size
+primary Root Shape
+primary Root Length
+root dry weight to shoot dry weight ratio
+drought Susceptibility Index
+node Number
+pods Per Node
+pH Sensitivity
+reaction to Acidity
+reaction to Alkalinity
+seed alanine content
+seed valine content
+seed lysine content
+seed proline content
+seed histidine content
+seed glutamine content
+seed arginine content
+seed glycine content
+seed asparagine content
+seed threonine content
+calcium content
+seed tryptophan content
+seed serine content
+seed phenylalanine content
+seed tyrosine content
+petiole length
+petiole Shape
+petiole Size
+petiolule Length
+petiolule Shape
+petiolule Size
+determinant stem
+indeterminant stem
+seed leucine content
+seed isoleucine content
+seed aspartic acid content
+seed glutamic acid content
+seed calcium content
+reaction to Maruca vitrata
+stem strength
+seed oil plus protein content
+seed weight per plant
+seed hardness
+root Nodulation
+leaflet margin
+seed cadmium concentration
+root Nodule Color
+root Nodule Size
+root Nodule Growth
+determinate Root Nodule Growth Habit
+indeterminate Root Nodule Growth Habit
+pod wall width
+canopy wilt
+pubescence Length
+flower form
+somatic embryogenesis
+phototropism
+gravitropism
+root Gravitropism
+stem Gravitropism
+chloride ion sensitivity
+rhizobium response
+response to Bradyrhizobium species.
+response to Sinorhizobium species.
+response to Bradyrhizobium japonicum.
+response to Bradyrhizobium elkanii.
+response to Bradyrhizobium liaoningense.
+response to Sinorhizobium fredii.
+response to Mesorhizobium tianshanense.
+reproductive stage length
+somatic embryos per explant
+reaction to Nematospora coryli infection
+somatic embryogenesis efficiency
+reaction to Nematospora infection
+reaction to Nematospora lycopersici infection
+seed nitrogen content at growth stage R5
+seed nitrogen content at growth stage R6
+seed nitrogen content at growth stage R7
+phosphorus content
+leaf phosphorus content
+seed phosphorus content
+root phosphorus content
+seed methionine and cysteine content
+manganese induced leaflet necrosis
+manganese induced root necrosis
+chilling induced seed coat color
+leaflet alkaloid content
+saccharide:Di content
+saccharide:oligo content
+seed coat peroxidase activity
+seed isoflavone content
+leaflet weight
+reaction to Aphis glycines
+seed coat cracking
+pod wall weight
+reaction to Gibberella zeae infection
+submergence survival rate
+flooding yield index
+row spacing response
+leaflet chlorophyll content
+pod weight ratio
+seed 2AP content
+reaction to Lamprosema indicata
+seed palmitic+stearic acid content
+shoot weight ratio
+root weight, dry
+root weight, fresh
+shoot weight, dry
+shoot weight, fresh
+waterlogging response
+chlorophyll transient fluorescence
+maximum quantum yield of PSII primary photochemistry (Fv/Fm), dark-adapted
+light energy absorbed per reaction center (ABS/RC)
+quantum yield of electron transport (ETo/ABS)
+probability a trapped excitation moves an electron beyond Qa- (ETo/TRo)
+performance index on absorption basis (PIabs)
+temperature stress resistance
+heat stress resistance
+cold stress resistance
+root nodule number
+seed verbascose content
+leaflet surface form
+primary root number
+floral meristem development
+root color
+root nodulation absent
+root number
+apical dominance
+petiole color
+hypocotyl diameter
+petiole pulvinus morphology
+petiole pulvinus color
+fused leaflets
+root nodule weight, dry
+aconitate activity
+cotyledon aconitate activity
+4-Coumarate:CoA ligase activity
+aminoalcoholphosphotransferase activity
+alcohol dehydrogenase activity
+acetolactate synthase activity
+porphobilinogen synthase activity
+alpha-amylase activity
+lignin biosynthesis activity
+acid phosphatase activity
+xyloglucan endotransglycosylase activity
+nitrate reductase activity
+chalcone isomerase activity
+chalcone synthase activity
+cytochrome C oxidase activity
+leghemoglobin content
+seed chlorophyll content
+dihydrodipicolinate synthase activity
+dihydroflavonol 4-reductase activity
+NADH dehydrogenase activity
+endopeptidase activity
+esterase activity
+urease activity
+flavonoid 3'-hydroxylase activity
+malonyl-CoA-acyl carrier protein  transacylase activity
+delta-twelve fatty acid desaturase activity
+omega-3 fatty acid desaturase activity
+seed flavanone content
+seed liquiritgenin content
+seed naringenin content
+seed flavonol content
+leaflet flavonol content
+flower flavonol content
+trichome flavonol content
+proanthocyanidin content
+anthocyanidin content
+root fluorescence
+apyrase activity
+expressed during nodulation
+nitrate assemilation
+phosphoenolpyruvate carboxylase activity
+carbon fixation
+peribacteroid zinc ion transporter activity
+RNA polymerase II activity
+glutamate oxaloacetate transaminase activity
+glucose-6-phosphate dehydrogenase activity
+glutamine synthetase activity
+glutamyl-tRNA reductase activity
+glutamate-1-semialdehyde aminotransferase activity
+sulfonylurea herbicide sensitivity
+triazinone herbicide sensitivity
+dinitroaniline herbicide sensitivity
+anilide herbicide sensitivity
+isocitrate dehydrogenase activity
+seed coat saddle
+seed Kunitz trypsin inhibitor activity
+linoleate 9S-lipoxygenase activity
+linoleate 13S-lipoxygenase activity
+leucyl aminopeptidase activity
+seed lectin content
+lipoxygenase activity
+malate dehydrogenase activity
+mannose-6-phosphate isomerase activity
+nitrate repression of nodulation
+phytoene desaturase activity
+6-phosphogluconate dehydratase activity
+glucose-6-phosphate isomerase activity
+phosphoglucomutase activity
+protein tyrosine phosphatase activity
+seed surface form
+seed coat subtilisin activity
+superoxide dismutase activity
+flavonoid 3'5'-hydroxylase activity
+flavonone 3-hydroxylase activity
+flavonol synthase activity
+pubescence stature
+seed length to height ratio
+seed length to width ratio
+seed width to height ratio
+leaflet thickness
+flavonoid hydrolase activity
+leaflet growth and development traits
+root growth and development traits
+flower morphology and anatomy traits
+somatic embryo growth and development
+pod growth and development traits
+cysteine protease activity
+seed cystatin content
+reaction to Ophiomyia species
+reaction to Tetranychus species
+seed viability
+seed oleosin content
+seed storage protein content
+seed glycinin and beta-conglycinin content
+aluminum and magnesium sensitivity
+calcium-dependent protein kinase activity
+acyl-[acyl-carrier-protein] desaturase activity
+water transmembrane transporter activity
+urea transmembrane transporter activity
+glycerol transmembrane transporter activity
+seed saponin content
+gibberellin biosynthesis activity
+gibberellin 20-oxidase activity
+gibberellin 2-beta-dioxygenase activity
+gibberellin 3-beta-dioxygenase activity
+phosphatidylethanolamine binding
+seed dormancy
+phytohormone transmembrane transporter activity
+RNA polymerase II transcription factor activity
+omega-6 fatty acid desaturase activity
+2-hydroxyisoflavanone dehydratase activity
+2-hydroxyisoflavanone synthase activity
+trans-cinnamate 4-monooxygenase activity
+isoflavone 4'-O-methyltransferase activity
+seed glycinin to beta-conglycinin ratio
+ozone sensitivity
+ozone sensitivity, leaflet
+response to jasmonic acid
+response to salicylic acid
+response to ethylene gas
+seed cold stress resistance
+radiation sensitivity
+light sensitivity
+response to UV light
+UV-B induced leaflet chlorosis
+UV-B induced leaflet shape response
+UV-B induced plant damage
+lactoylglutathione lyase activity
+hydroxyacylglutathione hydrolase activity
+maximum quantum yield of PSII primary photochemistry (Fv'/Fm'), Light-adapted
+probability an electron reduces an end acceptor at PSI electron acceptor side
+flux ratio of trapping per absorption (TRo/ABS)
+sulfate transmembrane transporter activity
+ion transmembrane transporter activity
+DNA helicase activity
+6'-deoxychalcone synthase activity
+2'-hydroxyisoflavone reductase activity
+phenylalanine ammonia-lyase activity
+isoflavone 2'-hydroxylase activity
+root volume
+hypocotyl weight
+reaction to Aulacorthum solani
+reaction to Aulacorthum solani, choice
+reaction to Aulacorthum solani, no choice
+transcription factor activity
+MYB transcription factor activity
+GRAS transcription factor activity
+vegetative period
+reproductive period
+total growth duration
+reproductive to vegetative period ratio
+R/V photothermal sensitivity
+reproductive period photothermal sensitivity
+cyclophilin activity
+basic leucine zipper transcription factor activity
+CCAAT-box binding transcription factor activity
+WRKY transcription factor activity
+TFIIIA type zinc finger transcription factor activity
+GATA1 like zinc finger transcription factor activity
+dof zinc finger transcription factor activity
+MADS-box  transcription factor activity
+ARID type transcription factor activity
+transcription regulatory activity
+AUX/IAA type  transcription factor activity
+NFX1 like transcription factor activity
+AP2 like transcription factor activity
+NF-YA like transcription factor monomer activity
+NF-YB like transcription factor monomer activity
+NF-YC like transcription factor monomer activity
+NAC like transcription factor activity
+ALFIN like transcription factor activity
+B3 like transcription factor activity
+BBR-BPC like transcription factor activity
+BES1 like transcription factor activity
+basic helix-loop-helix like transcription factor activity
+C2C2 zinc finger like transcription factor activity
+C2H2 like transcription factor activity
+C3H like transcription factor activity
+CAMTA like transcription factor activity
+CPP like transcription factor activity
+DBB like transcription factor activity
+E2F-DP like transcription factor activity
+EIL like transcription factor activity
+FAR1 like transcription factor activity
+GARP-ARR-B like transcription factor activity
+GARP-G2-like transcription factor activity
+geBP like transcription factor activity
+GRF like transcription factor activity
+HB like transcription factor activity
+HB-HD-ZIP like transcription factor activity
+HB-Knox like transcription factor activity
+HB-BEL like transcription factor activity
+HB-WOX like transcription factor activity
+HB-PHD like transcription factor activity
+HRT like transcription factor activity
+HSF like transcription factor activity
+LBD like transcription factor activity
+LFY like transcription factor activity
+LIM like transcription activation activity
+transcriptional repressor activity
+LUG like transcriptional repressor activity
+NOZZLE like transcription factor activity
+OFP like transcription factor activity
+PLATZ like transcription factor activity
+RWP-RK like transcription factor activity
+S1FA like transcription factor activity
+SBP like transcription factor activity
+SRS like transcription factor activity
+STAT like transcription factor activity
+TCP like transcription factor activity
+TIFY like transcription factor activity
+trihelix like transcription factor activity
+TUB like transcription factor activity
+ULT like transcription factor activity
+amylase activity
+beta-amylase activity
+seed beta-conglycinin alpha-subunit protein content
+metalloendopeptidase activity
+flavonoid glycoside glycosyltransferase activity
+flavonol 3-O-glucoside/galactoside (1->6) glucosyltransferase activity
+flavonol 3-O-glucoside (1->6) rhamnosyltransferase activity
+flavonol 3-O-glucoside/galactoside (1->2) glucosyltransferase activity
+anthocyanidin reductase activity
+lysine specific demethylase activity
+histone H3 activity
+isocitrate dehydrogenase NAD dependent activity
+isocitrate dehydrogenase NADP dependent activity
+seed development trait
+seed maturation and dessication trait
+ferric leghemoglobin reductase activity
+fatty acid desaturase activity
+sphingolipid delta-8 desaturase activity
+delta-8 sphingolipid desaturase activity
+magnesium chelatase activity
+ferredoxin nitrite reductase activity
+acyl-ACP thioesterase activity
+beta-ketoacyl-[acyl-carrier-protein] synthase I activity
+beta-phosphoglucomutase activity
+intramolecular phosphotransferase activity
+phosphomannomutase-phosphoglucomutase activity
+response to red light
+fungal protein interaction activity
+polygalacturonase inhibitor activity
+potassium channel activity
+pyrroline-5-carboxylate reductase activity
+metal ion transmembrane transporter activity
+methyltransferase activity
+caffeate O-methyltransferase activity
+fatty acid binding protein activity
+sodium ion transmembrane transporter activity
+neutral detergent fiber content
+acid detergent fiber content
+crude fat content
+crude protein content
+bowman-Birk proteinase inhibitor activity
+proteinase inhibitor activity
+plant weight, fresh
+plant weight, dry
+phosphorus use efficiency
+carotenoid content
+cotyledon
+cotyledon development stages
+emergent
+erect cotyledon
+mature cotyledon
+cotyledon senescence
+canopy coverage
+uriede content
+seed alpha-linolenic acid content
+seed long-chain fatty acid content
+main stem shape
+inter-branch length
+pubescence width
+pubescence size
+starch content
+root nodule weight
+root nodule weight, fresh
+root length
+root length, fine
+root length, medium
+root length, coarse
+root surface area, coarse
+root surface area, medium
+root surface area, fine
+root volume, coarse
+root volume, medium
+root volume, fine
+seed nickel content
+trailing growth
+antioxidant content
+pod phosphorus content
+soluble amino acid content
+phosphorus acquisition efficiency
+shoot calcium content
+magnesium content
+shoot magnesium content
+potassium content
+shoot potassium content
+shoot sulfur content
+boron content
+shoot boron content
+shoot copper content
+iron content
+shoot iron content
+manganese content
+shoot manganese content
+zinc content
+shoot zinc content
+canopy temperature
+nonphotochemical quenching
+malonyltransferase activity
+isoflavone-7-O-beta-glucoside 6''-O-malonyltransferase activity
+G-protein coupled receptor signaling pathway
+NBS-LRR receptor signaling pathway
+isoflavone synthase activity
+arogenate dehydratase activity
+coumarate 4-hydroxylase activity
+pectate lyase activity
+anaphase-promoting complex activity
+gibberellin signalling pathway activity
+pectin lyase activity
+vesicle-mediated transport
+elongation factor activity
+protein kinase activity
+MAP kinase activity
+positive regulation of MAP kinase activity
+MAP kinase kinase activity
+B-box zinc finger transcription factor activity
+reaction to weeds
+reaction to Fusarium graminearum
+leaflet length to width ratio
+soymilk weight
+tofu weight
+tofu yield
+tofu value
+tofu hardness
+leaflet dry weight ratio
+grain shattering
+pod Dehiscence
+bacterial pustule
+common bacterial blight
+alfalfa mosaic
+alfalfa Mosaic Alfamovirus
+alfalfa mosaic virus
+alternaria leaf spot
+alternaria pod decay
+alternaria pod spot
+alternaria seed decay
+pod spot
+bacterial Blight
+bacterial brown spot
+bacterial crinkle leaf spot
+brown spot
+halo blight (P. syringae pv phaseolicola)
+WUE (QTL symbol)
+bean Yellow Mosaic Potyvirus
+BYMV
+grape Colaspis
+developing seed stage PO:0004506
+growth stage R5
+reproductive growth stage 5
+downy mildew
+phloeophthora nicotianae
+phytophthora lycopersici
+phytophthora nicotinae
+phytophthora tobaci
+brown stem rot
+BSR
+cadophora gregata
+cephalosporium gregatum
+phialophora stem rot
+anemone necrosis virus
+blueberry necrotic ringspot virus
+bud blight
+tobacco ring spot virus
+tobacco Ringspot Nepovirus
+TRSV
+true white grub
+white grub
+southern corn rootworm
+spotted cucumber beetle
+CID
+open flower
+CES
+yellowing score
+closed flower
+CEW (QTL symbol)
+corn earworm
+CCMV
+cowpea Chlorotic Mottle Bromovirus
+cowpea chlorotic mottle virus
+CMMV
+cowpea Mild Mottle Carlavirus
+cowpea mild Mottle Carlavirus
+SCN
+soybean cyst nematode
+phomopsis phaseolorum
+phomopsis pod and stem blight
+bacterial pustule
+pseudomonas adropogonis leaf spot
+bacterial blight
+leaf drop
+pale yellow
+yellowing
+<new synonym>
+TO:0002673 amino acid content
+leaf spot
+peronospora sojae
+garden webworm
+submergence tolerance
+TO:0000366 Reproductive growth time
+leaf paling
+leaf yellowing
+leaflet yellowing
+stem yellowing
+yellow stem
+dry seed stage PO:0001040
+fusarium blight
+fusarium wilt
+bean leaf beetle
+height/Lodging (QTL symbol)
+hypocotyl length (QTL symbol)
+fe effic (QTL symbol)
+IDC
+iron deficiency chlorosis
+root-Knot Nematode
+javanese Root-Knot Nematode
+javanese rootknot nematode
+columbia lance nematode
+lance nematode
+leaflet necrosis
+leaf length
+vitamin E
+leaf area
+leaf color
+leaf number
+leaf shape
+beanfly
+C18:2
+LA
+octadecadienoic acid
+ALA
+alpha-linolenic acid
+C18:3
+lodging (QTL symbol)
+vitamin E
+beanfly
+seeds per pod
+ascochyta leaf spot
+phoma leaf spot
+anthracnose
+soybean anthracnose
+cotyledon Spot
+curvularia cotyledon spot
+phomopsis seed decay
+phomopsis sojae
+pod and stem blight
+diaporthe pod blight
+phomopsis phaseoli var sojae
+bacterial tan spot
+bacterial wilt
+wildfire
+corynebacterium wilt
+bacillus seed decay
+pod necrosis
+pod Blight
+vermicularia truncata
+colletotrichum destructivum
+beet armyworm
+laphygma exigua
+colletotrichum gloeosporiodes
+aristastoma leaf spot
+aristastoma yellowing
+black leaf blight
+septoria glycine
+septoria leaf spot
+botryotinia fuckeliana
+botrytis stem rot
+cercospora blight
+cercospora leaf spot
+lavender spot
+purple blotch
+purple seed stain
+purple spot
+purple stain
+aschochyta leaf spot
+phoma exigua
+peronospora manshurica
+drechslera blight
+pod and collor rot
+fusarium root rot
+preemergence damping-off
+root rot
+phomopsis longicolla
+seed decay
+northern stem canker
+phomopsis phaseoli
+phomopsis phaseolorum var caulivora
+stem canker
+phomopsis paseolorum var meridionalis
+southern stem canker
+SDS
+sudden Death Syndrome
+phytophthora root and stem rot
+phytophthora rot
+phytophthora stem rot
+pythium damping-off
+pythium root rot
+globisporangium debaryanum
+globioporangium irregulare
+globiosporangium ultimum
+blakeslea leaf blight
+choanephora leaf blight
+choanephora wet rot
+leptoshaerulina leaf spot
+phyllosticta leaf spot
+phyllosticta sojicola
+phylosticta glycinea
+phylosticta glycineum
+phylosticta leaf blight
+phylosticta sojaecola
+dactuliophora glycines
+pyrenochaeta glycines
+red leaf blotch
+rhizoctonia aerial blight
+rhizoctonia damping-off
+rhizoctonia foliage blight
+rhizoctonia foliar blight
+rhizoctonia hypotcoyl rot
+rhizoctonia leaf blight
+rhizoctonia preemergence blight
+rhizoctonia root decay
+rhizoctonia root rot
+rhizoctonia solani.
+rhizoctonia web blight
+malupa vignae
+soybean rust
+asian Soybean Rust
+malupa sojae
+soybean Rust
+koKuto-byo
+scab
+sphaceloma scab
+stemphylium botryosum
+stemphylium leaf blight
+stemphylium herbarum
+stemphylium vesicaium
+target spot
+charcoal rot
+dry-weather wilt
+summer wilt
+sclerotinia stem rot
+soybean white mold
+sclerotium blight
+southern Blight
+black hull (peanut)
+black root rot (beans)
+chalaria elegans
+thielaviopsis root rot
+torula basicola
+trichocladium basicola
+nectria ochroleuca
+verticillium stem rot
+crown and root rot
+acremonium
+neocosmospora Stem Rot
+myrothecium leaf spot
+myrothecium leaf spot and pod blight
+gliocladium fimbriatum
+metarhizium glutinosum
+powdery mildew
+black gram mottle carmovirus
+BMoV
+bean pod mottle comovirus
+BPMV
+cowpea Severe Mosaic Comovirus
+CPSMV
+banana infectious chlorosis virus
+coleus mosaic virus
+cowpea banding mosaic virus
+cowpea ringspot virus
+lily ringspot virus
+pea top necrosis virus
+pea western ringspot virus
+peanut yellow mosaic virus
+southern celery mosaic virus
+soybean stunt cucumovirus
+spinach blight virus
+SSV
+tomato fern leaf virus
+black locust true mosaic virus
+clover blotch virus
+peanut Stunt Cucumovirus
+peanut stunt cucumovirus
+peanutstunt virus
+PSV
+robinia mosaic virus
+sbYVV
+soybean Yellow Vein Furovirus
+asparagus stunt virus
+brazilian bud blight
+strawberry necrotic shock virus
+tobacco Streak Ilarvirus
+TSV
+indonesian Soybean Dwarf Luetovirus
+ISDV
+soybean indonesian dwarf virus
+sbDV
+soybean Dwarf luteovirus
+soybean Severe Stunt Nepovirus
+SSSV
+groundnut mottle virus
+mottle
+peanut mild mosaic virus
+peanut Mottle Potyvirus
+peanut severe mosaic virus
+peMoV
+peanut Stripe Potyvirus
+PStV
+SMV
+soybean crinkle
+soybean Mosaic Potyvirus
+TMV
+TMV-S
+tobacco Mosaic Tobamovirus
+african Soybean Dwarf Alfamovirus
+african Soybean Dwarf virus
+mung Bean Yellow Mosaic Bigeminivirus
+mungbean Yellow Mosaic Begomovirus
+mungbean Yellow Mosaic Virus
+MYMV
+SCLV
+soybean crinkle leaf begomovirus
+soybean Crinkle Leaf Virus
+sbCmV
+soybean Chlorotic Mottle Luteovirus
+soybean chlorotic mottle soymovirus
+subterranean clover red leaf virus
+subterranean red leaf luteovirus
+SMMV
+soybean Mild Mosaic
+cucumber Mosaic Cucumoirus
+cuMV
+soybean stunt
+azMV
+azuki mosaic
+bean Common Mosaic Virus
+abMV
+abutilon mosaic
+abutilon Mosaic Bigeminivirus
+bean chlorotic ringspot
+BCMV
+bean Common Mosaic
+bean Common mosaic potyvirus
+blackeye Cowpea Mosaic Virus
+bean Common Mosaic potyvirus
+bean Common MosaicVirus
+blackeye Cowpea Mosaic Potyvirus
+blCMV
+Q disease
+soybean bud proliferation
+amachamiento
+shoot proliferation
+phyllody
+ascochyta phaseolorum
+phoma exigua var. solanicola
+phoma solanicola
+alfalfa caterpillar
+corn leaf aphid
+spirea aphid
+green peach aphid
+bird-cherry oat aphid
+cotton aphid
+melon aphid
+fall army worm
+fall armyworm
+laphygma frugipera
+prodenia ornithogalli
+yellowstriped armyworm
+banded cucumber beetle
+epicauta pestifera
+margined blister beetle
+clover leaf weevil
+black cutworm
+dingy cutworm
+variegated cutworm
+dectes brevis
+dectes latitarsus
+dectes spinosus
+dectes stem borer
+garden fleahopper
+red legged grasshopper
+redlegged grasshopper
+differential grasshopper
+green cloverworm
+imported longhorned weevil
+japanese beetle
+lesser cornstalk borer
+soybean looper
+cabbage looper
+MBB
+mexican bean beetle
+cynthia cardui
+painted lady
+thistle caterpillars
+tarnished plant bug
+potato leafhopper
+hylemia cilcrura
+hylemia platura
+seedcorn maggot
+soybean leafminer
+locust leafminer
+leafminer
+soybean nodule fly
+soybean thrips
+flower thrips
+stalk borer
+southern green stink bug
+southern green stinkbug
+green stink bug
+brown stink bug
+membracis festin
+stictocephala festina
+three cornered alfalfa hopper
+threecornered alfalfa hopper
+tetranychus atlanticus
+tetranychus bimaculatus
+tetranychus telarius
+tetranychus turkestani
+two spotted spider mite
+twospotted spider mite
+pacific spider mite
+anticarsia gemmatilis
+velvetbean caterpillar
+sweetpotato whitefly
+whitefly
+white grub
+click beetles
+wireworms
+yellow woollybear
+anthracnose
+crown-headed lance nematode
+peanut Root-Knot Nematode
+northern Root-Knot Nematode
+rootknot nematode
+southern Root-Knot Nematode
+southern rootknot nematode
+CCW
+common Cutworm
+halo Blight
+sd fill
+seed development stage
+seed fill
+seed maturation
+seed thickness
+necrosis, root Mn induced (QTL symbol)
+root Necrosis Resistance (Trait Name)
+ara (symbol)
+arabino-pentose
+seed PO:0009010
+maturity date
+pod maturity (QTL symbol)
+reproductive stage R8
+seed pod maturity
+salt reaction
+female sterility
+ms
+tobacco budworm
+1-alpha-D-glucopyranosyl-2-beta-D-fructofuranoside
+cane sugar
+CAS 57-50-1
+saccharose
+sucrose (trait)
+sucrose content
+stem length, main (QTL symbol)
+C18:0
+CAS 57-11-4
+octadecanoic acid
+octadecoic acid
+germination ratio
+sprout yield (QTL symbol)
+sd wt (QTL symbol)
+sd no (QTL symbol)
+seed micropyle PO:0006334
+covering of the seed PO:0009088
+beta-D-fructofuranosyl alpha-D-galactopyranosyl-(1-6)-alpha-D-galactopyranosyl-(1-6)-alpha-D-glucopyranoside
+O-alpha-D-galactopyranosyl-(1->6)o-alpha-D-galactopyranosyl-(1-6)O-alpha-D-galactopyranosyl-beta-D-fructofuranoside
+leaf morphology
+leaves
+fflr (QTL symbol)
+6G-alpha-D-galactosylsucrose
+beta-D-Fructofuranosyl-(1-6)-alpha-D-glucopyranoside
+seed raphe PO:0006331
+R3
+reproductive stage 3
+R7
+reproductive stage 7
+dry seed stage
+R8
+reproductive stage 8
+beta conglycinin fraction
+alpha-prime conglycinin
+CWP
+conglycinin fraction
+globulin
+frogeye leaf spot
+6-deoxygalactose
+fuc
+galacto-hexose
+glc (symbol)
+gluco-hexose
+18:1 n-9
+C18:1 n-9
+octadec-9-enoic acid
+octadecenoic acid
+16:0
+C16:0
+CAS 57-10-3
+cetylic acid
+hexadecanoic acid
+hexadecylic acid
+palmitate
+determinacy
+CHLORO (QTL symbol)
+pectin (QTL symbol)
+myo-inositol 1,2,3,4,5,6-hexakisphosphate
+myo-inositol hexakisphosphate
+phytate (QTL symbol)
+betain nicotinate
+betaine nicotinate
+caffearine
+TRG(DW) (QTL symbol)
+TRG(FW) (QTL symbol)
+reniform nematode
+cowpea Mosaic Virus
+cowpea Yellow Mosaic Virus
+CPMV
+CPYMV
+4-amino-[tert-butyl-3(methyithio)-as-trazine-5)4H)one]
+hm (gene symbol)
+basagran
+hb (gene symbol)
+laddock
+CAS 40487-42-1
+penoxalin
+prowl
+sipaxol
+stomp
+mottling
+mottling score
+L1 (gene symbol)
+phytophthora megasperma var. sojae
+phytophthora root rot
+PRR
+female sterility
+female sterile
+seed abortion
+specific leaflet nitrogen content
+photosynthesis
+soybean pod borer
+leaf margin
+nodule morphogenesis
+determinate nodule
+leaf rolling
+wilting
+somatic plant embryo
+flowering period
+eremothecium coryli
+nematospora lycopersici
+yeast spot
+somatic plant embryogenesis
+nematospora coryli
+disaccharides
+oligosaccharide content
+dry leaflet weight
+fresh leaflet weight
+leaflet dry weight
+leaflet fresh weight
+soybean aphid
+damping-off
+fusarium graminearum
+pod blight
+post-emergence damping-off
+pre-emergence damping-off
+seed and root rot
+seed decay
+survival percentage under submergence
+submergence yield index
+increased leaflet chlorphyll content
+reduced leaflet chlorophyll content
+2-acetyl-4,5-dihydro-3H-pyrrole
+2AP
+APR
+fragrance
+bean pyralid
+seed saturated fatty acid content
+stem weight
+D-verbascose
+fused leaflets
+4CL
+acetolactate pyruvate-lyase
+acetolactic synthetase
+alpha-acetohydroxyacid synthase
+alpha-acetolactate synthase
+ALS
+pyruvate:pyruvate acetaldehydetransferase (decarboxylating)
+5-aminolevulinate hydro-lyase
+5-levulinic acid dehydratase
+ALAD
+aminolevulinate dehydratase
+delta-aminolevulinate dehydratase
+6'-deoxychalcone synthase
+flavone synthase
+naringenin-chalcone synthase
+DFR
+dihydrokaempferol 4-reductase
+NADPH-dihydromyricetin reductase
+W3
+flavonoid 3'-monoxygenase
+flavonone 3-dioxygenase
+naringenin 3-dioxygenase
+NOD
+PEPC
+RNPII
+glutamate-ammonia ligase activity
+GS
+IDH
+9-lipoxygenase
+9S-lipoxygenase
+linoleate 9-lipoxygenase
+13-lipoperoxidase
+13-lipoxidase
+carotene oxidase
+lipoperoxidase
+lipoxidase
+LAP
+seed storage protein
+PGM
+shr
+SOD
+W
+wp
+wm
+seed length to thickness ratio
+seed width to thickness ratio
+stearoyl-[acyl-carrier-protein] 9-desaturase
+stearyl acyl carrier protein desaturase
+stearyl-ACP desaturase
+FAD2
+isoflavone synthase
+cinnamate 4-hydroxylase
+cinnamate 4-monooxygenase
+cinnamic acid 4-hydroxylase
+IOMT
+GLYI
+glyII
+chalcone reductase
+vestitione:NADP+ oxidoreductase
+PAL
+phenylalanine deaminase
+CYP Ge-3
+CYP81E1
+isoflavone 2'-monooxygenase
+cyclophilin
+bZIP
+HAP
+NF-Y
+NF-X1
+apetala2
+CCAAT-box binding protein
+CPB
+CBP
+basic pentacysteine protein
+bHLH
+CCCH Znf
+tesmin
+TSO1-like
+BANK
+BCAP
+DOF
+EIN3-like
+ethylene-insensitive3 like
+far-Red-Impaired Response 1 like
+FAR1
+arabidopsis Response Regulator
+ARR
+G2 like kinases
+GLK
+geBP
+glaborous1 enhancer-binding protein
+growth regulating factors
+KNOX1
+KNOX2
+WUS
+hordeum Repressor of Transcription
+heat Stress Transcription Factor
+lateral Organ Boundaries
+lateral Organ Boundaries Domain
+LBD
+LOB
+FLO
+floricaula
+leafy
+LFY
+CRP
+cytosine rich protein
+plant AT-rich sequence and zinc binding protein
+SPL
+SHI related sequence
+ZIM
+F3G6Gt
+fg1
+quercetin 3-O-glucosyltransferase
+anthocyanidin 3-O-glucosyltransferase
+banylus
+LDL
+SLD1
+magnesium-protoporphyrin IX chelatase
+mg-protoporphyrin IX magnesium-lyase
+protoporphyrin IX Mg-chelatase
+acyl-malonyl(acyl-carrier-protein)-condensing enzyme activity
+beta-ketoacyl-ACP synthase I activity
+beta-ketoacyl-acyl carrier protein synthase activity
+fabB
+KASI
+ketoacyl-ACP synthase activity
+beta-D-glucose 1,6-phosphomutase activity
+beta-PGM
+PMM/PGM
+PMM_PGM
+delta-1-pyrrolidine-5-carboxylate reductase
+heavy metal ion porter activity
+heavy metal ion transporter activity
+anthocyanin O-Methyltransferase
+OMT5
+FABP
+FAP
+NDF
+ADF
+CF
+CP
+seed leaf
+ureides
+trichome width
+trichome size
+nodule weight
+vineyness
+free amino acids
+PAE
+malonyl CoA:isoflavone 7-O-glucoside-6''-O-malonyltransferase
+malonyl-CoA:flavone/flavonol 7-O-glucoside malonyltransferase
+malonyl-CoA:isoflavone-7-O-beta-D-glucoside 6''-O-malonyltransferase
+2-hydroxyisoflavanone synthase
+arogenate dehydratase/prephenate
+L-arogenate hydro-lyase (decarboxylating)
+alpha-1,4-D-endopolygalacturonic acid lyase
+pectic acid lyase
+polygalacturonate lyase
+endo-pectin lyase
+pectin methyltanseliminase
+pectin trans-eliminase
+carbon deficiency
+CBSN
+alkali sensitivity
+alkS
+RMS
+calcium deficiency
+CALSN
+SFSN
+sulfur deficiency
+KSN
+potassium deficiency
+PGMS
+photoperiod sensitive genic male sterility
+PPDSNGMS
+magnesium deficiency
+MGSN
+NISN
+nitrogen deficiency
+hydrogen ion sensitivity
+molecular hydrogen sensitivity
+MLO
+MLORS
+PNWT
+oxygen deficiency
+COSN
+plant architecture trait
+plant structure trait
+boron deficiency
+BOSN
+SH
+BSDVRS
+CUSN
+SBUGRS
+gd
+grain discoloration
+lgL
+LIGLG
+TNUABR
+cmN
+UNFILGRNB
+unfilled florets per panicle
+unfilled grain
+CHLORSN
+CHRSN
+HYBIC
+pnL
+PNLG
+F1HYBIC
+STIEX
+stigma exsertion of male sterile lines
+UDb
+F2GST
+KSm
+KSRS
+GPHIC
+panicle branching
+cs
+culm strength
+CULMSTR
+STEMSTR
+PBR
+primary branching of panicle
+LBP
+leaf blade pubescence
+LFLHR
+LFLPUBES
+herbicide tolerance
+weedicide tolerance
+NDCL
+UNUABR
+brittle node
+disease mimic response
+lesion mimic
+MIRP
+RTCL
+TGMS
+thermo sensitive genic male sterility
+lg
+LOI
+albino leaf striping
+leaf stripes
+ragged leaf
+VLFNEC
+ANTHCN
+an
+awning
+AWNLG
+MNSN
+blast disease resistance trait
+blast disease susceptibility
+rdw
+rdw/t
+root dry weight per tiller
+RTDWT
+total root dry weight
+micronutrient deficiency
+deep root dry weight per tiller
+deep root weight
+DRTDWT
+drw
+drw/t
+ZLFHRS
+npr
+number of penetrating roots
+PENRTNB
+RTNB
+tnr
+LFRL
+shR
+SHROTRS
+AROMA
+odour
+scent
+sct
+RYMV
+RYMVRS
+panicle attitude of branches
+pnT
+PNTYPE
+PENRTTH
+prt
+deep root length to shoot length ratio
+deep root ratio
+deep root/shoot ratio
+dr/s
+DRTSHRO
+rpf
+RTPF
+BARTTH
+brt
+oa
+OSRPSN
+RAAB
+AMYPCTCN
+opaque endosperm
+waxy endosperm
+sugary kernel
+collapsed kernel
+transluscent kernel
+PDef
+PHOSN
+phosphorus deficiency
+deep water stress
+DWSTR
+glassy endosperm
+MS
+leaf abscission
+LFSH
+CMS-WA
+WACMS
+rmd
+RTMD
+rmd 0-15
+RD
+rmd 15-30
+rmd 30-45
+PCENTRTMD
+prmd
+U
+prmd 0-15
+prmd 15-30
+FLFAG
+prmd 30-45
+HI
+HVID
+FSm
+FSRS
+FRLTSN
+pfr light sensitivity
+LFWP
+lwp
+BAINDIA
+DBI
+alkD
+ALKDIG
+LFLG
+lfln
+LL
+leaf relative water content
+rec
+RELWCN
+DTHD
+heading date
+brP
+BRWRPROT
+prt
+apC
+APICL
+AWNCL
+panicle secondary branching
+pnBr
+SBR
+secondary branching of panicle
+RB
+relative biomass yield
+RELBIOM
+INLG
+SDLG
+plump seed
+SDWD
+NOP
+NP
+number of effective tiller per plant
+number of panicle
+panicle number per plant
+panicle number per tiller
+PN
+PNNB
+seed setting tillers per plant
+spike number
+TP
+THRIPSRS
+drought score
+drought sensitivity index
+DRSID
+DRSSID
+DSI
+PENRTDWT
+PRDW
+CANTMP
+pr light sensitivity
+RLTSN
+BLTSN
+ultraviolet light sensitivity
+ultraviolet resistance
+UV resistance
+UVRS
+AUXSN
+IAA response
+IAA sensitivity
+indole-3-acetic acid response
+indole-3-acetic acid sensitivity
+exs
+PNEX
+GA3 response
+GASN
+GB response
+gibberellic acid response
+gibberellin response
+CKSN
+BOROCMS
+CMS-boro
+JASN
+ETHSN
+ethylene response
+2,4 D sensitivity
+24DSN
+percent sterility
+seed setting
+spFert
+SPKFRT
+SDWT
+sgC
+STICL
+ANTCL
+drought susceptibility
+DRS
+DRSN
+germless
+bran color
+SCC
+SDCCL
+LFRRS
+SHMIN
+amy
+AMYCN
+lgC
+LIGCL
+RTMIN
+GMS
+PNCL
+GERMRO
+WBPH
+WBPHRS
+LFAG
+ht
+PTHT
+shoot height
+PALNB
+ANTNB
+gelC
+GELCON
+GLFHRS
+GLH
+RGSVRS
+ANTSHP
+stamen related trait
+thermo-photoperiod sensitive genic male sterility
+TPGMS
+abortion pattern
+abortion pattern of male sterile lines
+GLCL
+glume discoloration
+glume pigmentation
+pigmentation of glume
+pistil related trait
+FESN
+feTox
+iron toxicity
+STANB
+AUMIN
+auricle absence
+auricle absent
+maximum root depth
+maximum root length
+MRD
+MRL
+RTLG
+CWRTMIN
+ENDMIN
+CMS
+cytoplasmic male sterility (sensu Oryza)
+RTVOL
+LIGMIN
+edaphic
+SLmL
+STLEMLG
+LFNB
+INVRAB
+COLCL
+SDDOR
+soil pH stress
+shB
+SHBTRS
+rbr
+RTBR
+HTol
+BD
+LEMCL
+lemma color
+LEMPALCL
+lmPC
+PALCL
+palea color
+response to light quality
+CHALK
+chalkiness of endosperm
+clk
+inflorescence type
+INFLOTYPE
+head shape
+100-grain weight
+HGRWT
+HSDWT
+hundred grain weight
+hundred seed weight
+AWRRS
+floret related trait
+perianth related trait
+drought resistance
+DRTL
+r/s ratio
+root length to shoot length ratio
+root/shoot ratio
+RTSHRO
+RTWT
+total root weight
+TRW
+sd
+SDLVIG
+adenosine diphosphate glucose pyrophosphorylase
+adenosine diphosphoglucose pyrophosphorylase
+ADP-glucose pyrophosphorylase
+ADP-glucose synthase
+ADP-glucose synthetase
+ADPG pyrophosphorylase
+AGPACT
+glucose 1-phosphate adenylyltransferase
+glucose-1-phosphate adenylyltransferase activity
+sub
+SUBSN
+alpha amylase
+ALPHAAMYASEACT
+endoamylase
+glycogenase
+taka-amylase A
+CARBCN
+YD
+YDRS
+chl a
+chl-a
+chlorophyll-a content
+AC
+AUCL
+chl b content
+chl-b content
+chlorophyll-b content
+vegetative growth vigor
+vg
+VGVIG
+2-amino-2-deoxyglucopyranose content
+GLUCNCN
+chl a to chl b ratio
+chl-a to chl-b ratio
+chlorophyll content ratio
+CHLRO
+LBC
+leaf blade color
+LFLCL
+D-glucose content
+dextrose content
+GLUCCN
+XANCN
+COLDTL
+CTol
+SDTH
+glutamate-ammonia ligase
+glutamylhydroxamic synthetase
+GS1
+GS1CN
+L-glutamine synthetase
+RTTH
+HEXCN
+male fertility restoration in F1 hybrids
+MALERF
+genetic self-incompatibility
+acid invertase
+alkaline invertase
+beta-D-fructofuranoside fructohydrolase
+beta-fructofuranosidase activity
+beta-fructosidase
+beta-h-fructosidase
+fructosylinvertase
+glucosucrase
+INVACT
+invertin
+maxinvert L 1000
+saccharase
+sucrase
+glutamate (reduced nicotinamide adenine dinucleotide) synthase
+glutamate synthase (NADH) activity
+glutamate synthase (NADH2)
+L-glutamate synthase (NADH)
+L-glutamate synthetase
+NADH-dependent glutamate synthase
+NADH-glutamate synthase
+NADHGOGATCN
+P71CN
+PGAM
+PGAMCN
+PHOTOSYNAB
+CUWRRS
+REDSUGCN
+RUBISCOCN
+RUBISCOCHLRO
+RUBISCONICNRO
+CULMROTRS
+SR
+RUBISCOSPROTRO
+SPROTCN
+LFCL
+saccharose content
+SUCROSECN
+ti
+TIAB
+extent of outcrossing
+extent of outcrossing on male sterile lines
+SPS
+SPSACT
+sucrose 6-phosphate synthase
+sucrose phosphate synthetase
+sucrose phosphate-uridine diphosphate glucosyltransferase
+sucrose-phosphate synthase activity
+sucrosephosphate-UDP glucosyltransferase
+UDP-glucose-fructose-phosphate glucosyltransferase
+uridine diphosphoglucose-fructose phosphate glucosyltransferase
+SUGARCN
+LIGSHP
+LS
+amylase activity
+TAMYASEACT
+knA
+KNEAB
+tiller angle
+BETAAMYASEACT
+culm thickness
+culm thickness (sensu Poaceae)
+CULMTH
+STEMTH
+TSOLSUGARCN
+pnAk
+days to flowering
+delay in flowering time
+DTFL
+SDVIA
+TINB
+SAGRS
+CMS-HL
+HLCMS
+zinc deficiency
+ZNSN
+DMASS
+dry mass
+PTDWT
+total dry mass
+PMTABR
+ALSN
+aluminium sensitivity
+aluminum toxicity
+HET
+heterosis in f1 hybrid
+hybrid vigor
+BS
+FEMST
+days to silk
+DTSLK
+female flower anthesis
+female flower flowering
+FEMFLW
+FFLW
+leaf growth rate
+LFELRATE
+CC
+collar color
+LFCCL
+male flower anthesis
+male flower flowering
+MALEFLW
+MFLW
+RGTM
+BALFSCL
+BLSC
+elongation of plant height
+SHELRATE
+VGTM
+LFWD
+lfwid
+LW
+AMYAMYPCTRO
+BRKVIS
+CONVIS
+CKKEL
+cooked kernel elongation
+LFSRS
+LSc
+CPVIS
+CRKGRPCENT
+fissured grain percentage
+1000-grain weight
+TGRWT
+thousand grain weight
+thousand seed weight
+TSDWT
+GRBPCENTWHT
+NDRS
+GRCL
+MGRCL
+FRGYLD
+FY
+straw yield
+GRCPCENTWHT
+dessication related trait
+caryopsis yield
+GRYLD
+yld
+GRSZ
+GRTH
+SLmC
+STLEMCL
+growth regulator sensitivity
+plant hormone response
+dehulled grain curved width
+dehulled grain width
+DHULGRWD
+GRWD (broad)
+width of grain without hull
+LF
+LFFRS
+CW
+CWRS
+float worm
+hama putih (indonesian)
+paddy caseworm
+PNTH
+thr
+HPVIS
+PVIS
+GRLGWDRO
+SDLGWDRO
+setback
+SETBK
+SETBKVIS
+BNUABR
+EBSABR
+lmPb
+bak
+BKRS
+POFRT
+NBLFSPRS
+NBLS
+GM
+GMRS
+BPH
+BPHRS
+ANTCAB
+anther culture response
+cmlC
+culm internode color
+INCL
+cmA
+CULMAG
+CAIND
+sal
+saline sensitivity
+SALTSN
+germination speed
+GERMRATE
+GERMSP
+ear infructescence length
+EARLG
+earln
+ear infructescence diameter
+eard
+EARDIA
+RTACT
+SDLNG
+SPKST
+degree of male sterility of male sterile lines
+male sterility measure
+MALEST
+GRNBPPT
+PLFWT
+ear number per plant
+EARNB
+ears per 10 plants
+ears per plant
+ENO
+ENP
+number of seeds per pod
+pod seed number
+SDNB
+LFDRY
+FGRNB
+FILGRNB
+filled fruit number
+filled grain number per panicle
+grain number per panicle (sensu Oryza)
+GRNBPPN
+number of grains per panicle
+FGRPCENT
+filled grain percent per panicle
+GRYLDPPL
+GRYLDPPN
+LVBNBSPKNBRO
+LFARSPKNBRO
+panicle tiller ratio
+PNTIRO
+productive tiller percent
+CULMBRRS
+SB
+percent seed set
+SDSPCENT
+number of spikelets per panicle
+spikelet number per panicle
+SPKNB
+dry matter yield
+TBIOMYLD
+total dry weight
+DRR
+RTEPCELLG
+light intensity response
+BAVEGPH
+GELTZTMP
+ANTSKIT
+ASI
+FLWSLKINTER
+ALBPTLDFQ
+CELMBSTB
+bl
+LFBLRS
+DTMT
+mat
+time to harvest
+RTPNID
+VBNB
+caryopsis shattering
+GRSH
+glume angle
+opening of glume of male sterile lines
+ADVRTTH
+PB
+PNBLRS
+ABA concentration
+ABACONC
+abscisic acid accumulation
+abscisic acid content
+ADSN
+nutrient deficiency
+ALKSN
+GERMABITMP
+germination ability at low temperature
+SDSHP
+SDCL
+ENDCL
+LFSHP
+CHLCN
+CRTCN
+RF
+FEMRF
+SPKWT
+KClO3 resistance
+KCLO3RS
+LFRLTM
+LFTMP
+LFWT
+NIRCYC
+nitrogen conservation
+OSADJCAP
+PENRTLG
+PENTRTRO
+PHOUP
+PTSPCENTSUB
+KCONC
+KUP
+RELGRATE
+RELRTLG
+RELSHELSUB
+maximum rooting depth
+RTDP
+STOCSRRATE
+STOCSRTM
+STOCOND
+STORS
+SUBTL
+na/K ratio
+NAKRO
+sodium to potassium ratio
+NACONC
+NAUP
+TSHELSUB
+ABXSTOFQ
+ADXSTOFQ
+ANTLG
+APIHLG
+APIHRLG
+CULMCL
+FLCL
+LVBNBLFARRO
+LVBNB
+LFAR
+leaf height
+LFHT
+LFLGWDRO
+LFNICN
+MCTLG
+panicle base to first primary branch
+panicle base to lowest primary panicle branch
+peduncle length from panicle base to first primary branch
+PNBLBR
+PDTDIA
+NPB
+number of primary rachis branches
+number of second order inflorescence axes
+panicle primary branch number
+PBRNB
+PRB
+primary branches per panicle
+rhizome number per plant
+RHZNB
+rhizome branching degree
+RHZBRAG
+rhizome branching number per plant
+RHZBRNB
+SHDWT
+total shoot dry weight
+average rhizome length
+RHZLG
+average rhizome internode length
+RHZINLG
+average rhizome internode number
+RHZINNB
+rhizome dry weight per plant
+RHZDWT
+number of third order inflorescence axes
+SBRNB
+secondary branches per panicle
+SVBNB
+SP
+space
+SPPCULM
+tiller volume
+SPCULMRO
+leaf specific area
+SLA
+SLFAR
+SPKLGWDRO
+SPKWD
+number of spikelets per cm panicle length
+spikelet number per panicle length
+SPKPPNLG
+STOFQ
+TIAG
+SHWT
+total shoot weight
+WBPH egg mortality
+WBPHOVI
+percentage of watery lesion
+WLPCENT
+SHFWT
+total shoot fresh weight
+cmL
+core length
+culm height
+culm length
+CULMLG
+stem height
+STEMLG
+STEMAG
+RTFWT
+total root fresh weight
+deep root dry weight to tiller number ratio
+RTDWTTINBRO
+head color
+INFLONB
+end
+endosperm quality (sensu Poaceae)
+PROTCN
+total protein content
+ultraviolet-A light sensitivity
+ultraviolet-A resistance
+UV-A resistance
+UVARS
+ultraviolet-B resistance
+UV-B resistance
+UVBRS
+FATCN
+lipid content
+magnesium to potassium ratio
+MGKCNRO
+ratio of magnesium to potassium
+H2O2 content
+H2O2CN
+DIASPWR
+soluble protein to total protein content ratio
+STPROTRO
+SDDN
+test weight
+ABA response
+ABASN
+abscisic acid response
+leaf circumference
+LFCIRCUM
+percentage of damaged yellow rice grains
+percentage of green rice grains
+percentage of red rice grains
+cracked dehulled-grain percentage
+cracked grain percentage
+CRUSHDHULGRPCENT
+crushed dehulled-grain percentage
+CRUSHGRPCENT
+percent broken
+percentage brokens
+preharvest germination
+floret development trait
+bristle length
+INVLCBS
+sterile inflorescence branch length
+ALLELPATHEF
+SPKDN
+RELPHOCONCSHRT
+RELPHOUTZEFY
+days to tassel flowering
+PDCLG
+GRNPTLDFQ
+GRNPTLYLDFQ
+NDNB
+popcorn volume
+POPEXPVOL
+RELSHDWT
+SPIKEWD
+percent seed fertility
+SDFRT
+TRTNB
+PBRLG
+LFSDIA
+BRLG
+RELRTDWT
+RELPHOCONC
+CAUAXIBRNB
+RELACIDPASEACT
+RELPHOUP
+PDCWD
+LEMLG
+FLRCL
+leaf scorch
+LFNEC
+GRCARWHT
+DONCONC
+FLNB
+frequency of pre-flowering floret abortion
+pre-flowering floret abortion
+PREFLFLRABR
+BRAPCENT
+rice bran percentage
+tetraploid wheat fusarium head blight disease resistance
+tt_FUSHEADBTRS
+4-hydroxy-3-methoxycinnamic acid
+FERULICACIDCN
+color of silk
+color of style
+silk color
+STYCL
+3LFHT
+3rd leaf height
+third leaf height
+cobd
+COBDIA
+diameter of central spike of ear
+INFLOCIRCUM
+ear infructescence circumference
+EARCIRCUM
+INFLOHT
+ear height
+EARHT
+grassy flavour
+GRASSYFLVOR
+FRTENDER
+TENDER
+JUICE
+succulence
+kernel row number per ear
+KERROWNB
+kernel set length
+KERROWLG
+GRTENDER
+kernel tenderness
+MAYSINCN
+NLFBTINCUBPD
+AUDPC
+NLFBTPROGCURV
+leaf margin pigmentation
+LFMCL
+pigmentation of leaf margin
+STARCHCN
+STARCHYLD
+mealiness
+STARCH
+SUSACT
+FRSWEET
+SWEET
+TURGPRES
+STARCHCONC
+phosphoric monoester hydrolase activity
+ACIDPASEACT
+HULCL
+dehulled grain color
+DHULGRCL
+grain color
+PERICARPCL
+absence of seminal roots
+wrinkled kernel
+wrinkled seed
+leaf midvein color
+cell division cycle
+lignin biosynthesis
+DHULGRLG
+GRLG
+KERLG
+kernel length
+length of dehulled grain
+length of grain without hull
+tuber shape (broad)
+tuber size (broad)
+tuber appearance (broad)
+tuber mass (broad)
+tuber weight
+head density
+head depth
+head diameter
+head weight
+head width
+INFLWD
+head texture
+husk length
+husk cover
+husk color
+leaf midrib morphology trait
+leaf midrib thickness
+core size
+stalk size
+core shape
+accessory fruit number
+dry pod color
+rind thickness
+20 kernel weight
+caryopsis fruit weight
+GRWT
+kernel weight
+kwt
+earwt
+cobpig
+hilum abscission
+D-mannose content
+man content
+flowering time response to photoperiod trait
+seeds per panicle
+first order tassel inflorescence axis length
+stalk weight
+stalk number
+ear infructescence color
+ear infructescence shape
+ear infructescence aspect
+ear position ratio
+head hairiness
+rachilla length  (broad)
+rachilla shape (broad)
+rachilla hair type  (broad)
+caryopsis width
+kernel width
+plant embryo cotyledon colour
+male flower number trait
+female flower number trait
+stem sucker number
+gibberellin biosynthesis (broad)
+al content
+aluminium content
+white rice grain length
+white rice grain width
+white rice grain length to width ratio
+basal axillary shoot number
+basal tiller height
+dead leaf number
+deep root dry weight to total root dry weight ratio
+gross photosynthetic rate
+leaf photosynthetic rate
+photosynthetic rate to transpiration rate ratio
+root dry weight to total plant dry weight ratio
+sap per tiller
+days to inflorescence emergence
+PHOCN
+LFPHOCN
+break point of osmotic adjustment
+relative number of spikelet per panicle
+culm diameter
+culm width
+ba content
+co content
+cr content
+I content
+pb content
+si content
+rb content
+sr content
+rachis thickness
+rachis length
+RACHISLENG
+pod shattering (broad)
+pod weight
+GRVOL
+kernel volume
+kernel color
+leaflet specific weight
+legume fruit number
+capsule width
+capsule length
+capsule thickness
+seeds per capsule
+number of capsule fruits per plant
+kernel protein content
+pod yield
+homeotic mutation
+anthesis timing
+time of flowering
+epicarp color
+grain length
+pod length
+FRWD
+kernel plumpness
+percentage of plump kernels
+plump grain
+pod shape
+fruit morphology
+size stem scar size
+fruit ripening
+leaf margin curvature
+shoot meristem abortion
+ACIDDETFIBR
+CBISOTPDISC
+DMATTDIGAB
+STARCHDIG
+WABSORPSD
+coleoptile curvature
+coleoptile phototropism
+PPDK
+pyruvate phosphate dikinase
+pyruvate, phosphate phosphotransferase
+asynchronous seed maturation
+nonsynchronous seed maturation
+SDMT
+synchronous seed maturation
+cold-induced wilting tolerance (broad)
+LFRLTL
+wilting tolerance
+cold-induced necrosis tolerance
+LFNECTL
+necrosis tolerance
+cold-induced yellowing tolerance (broad)
+LFYTL
+RTHLG
+RTHRLG
+SDPHOCN
+ABA content
+ABACN
+JA content
+jasmonate content
+phytoalexin momilactone A content
+phytoalexin momilactone B content
+AUXCN
+GA content
+GACN
+gibberellin content
+BRCN
+BRSN
+albumen content
+curled leaf trait
+frizzled leaf trait
+cell length
+LFSLG
+leaf blade length
+LFLLG
+neck internode length
+pod flavor trait
+beta-carotenoid content
+alpha-carotenoid content
+cell organelle development trait
+organelle biogenesis trait
+organelle structure trait
+plastid biogenesis trait
+plastid structure trait
+chloroplast biogenesis trait
+chloroplast structure trait
+AUPUBES
+leaf blade width
+LFLWD
+leaf blade margin pubescence
+LFLMPUBES
+LFSCL
+STLEMSHP
+STLEMWD
+dehulled grain shape
+DHULGRSHP
+GRSHP
+flag leaf attitude: early stage
+FLFAGERLY
+flag leaf attitude: late stage
+FLFAGLATE
+AWNPLU
+FLNBPBR
+FLNBPINFLO
+FLNBPPN
+floret number per panicle
+florets per inflorescence
+florets per panicle
+FRUTSURFAR
+dehulled-grain surface area
+DHULGRSURFAR
+GRSURFAR
+hulled-grain surface area
+kernel surface area
+10 grain weight (broad)
+ten dehulled grain weight
+ten grain weight (broad)
+TENDHULGRWT
+TENGRWT (broad)
+LIGPUBES
+LIGMPUBES
+ligule margin hairiness
+INFLBRARANGE
+panicle branch arrangement
+arrangement of primary branch
+PBRARANGE
+primary branch arrangement
+INFLOAXISTEX
+panicle axis texture
+PNAXISTEX
+culm habit
+CULMHAB
+growth habit
+stem habit
+STEMHAB
+FLFLG
+flag leaf blade width
+FLFLWD
+LIGMSHP
+RHZFORM
+bunch fresh weight
+bunch dry weight
+pod dry weight
+pod fresh weight
+bunch moisture content
+banana hand moisture content
+pod moisture content
+bunch potassium content
+banana hand potassium content
+pod potassium content
+bunch nitrogen content
+banana finger nitrogen content
+banana hand nitrogen content
+storage root nitrogen content
+tuber nitrogen content
+pod nitrogen content
+bunch phosphorus content
+banana hand phosphorus content
+pod phosphorus content
+bunch carbon content
+banana hand carbon content
+pod carbon content
+(9Z,12Z)-Octadecadienoic acid content
+(Z,Z)-9,12-octadecadienoic acid content
+9-cis,12-cis-Octadecadienoic acid content
+9Z,12Z-octadecadienoic acid content
+cis,cis-linoleic acid content
+high linoleic oil content
+linoleic oil content
+low linoleic oil content
+(9Z)-octadec-9-enoic acid content
+(9Z)-Octadecenoic acid content
+(Z)-Octadec-9-enoic acid content
+cis-9-octadecenoic acid content
+high oleic oil content
+mid oleic oil content
+oleic oil content
+high stearic oil content
+low stearic oil content
+n-octadecanoic acid content
+octadecanoic acid content
+octadecoic acid content
+stearic oil content
+(9,12,15)-linolenic acid content
+(9Z,12Z,15Z)-Octadecatrienoic acid content
+(Z,Z,Z)-9,12,15-octadecatrienoic acid content
+9,12,15-Octadecatrienoic acid content
+9-cis,12-cis,15-cis-octadecatrienoic acid content
+all-cis-9,12,15-octadecatrienoic acid content
+cis,cis,cis-9,12,15-octadecatrienoic acid content
+glyphosate susceptibility
+glyphosate tolerance
+glufosinate susceptibility
+glufosinate tolerance
+acetolactate synthase inhibitor susceptibility
+acetolactate synthase inhibitor tolerance
+ALS inhibitor susceptibility
+ALS inhibitor tolerance
+ECB resistance
+SALTTL
+leaf arrangement
+meristem determinacy
+LFLCLDIST
+INFLPBRAATT
+INFLBRACL
+panicle branch color
+PENLFLG
+second leaf length
+PENLFLWD
+second leaf width
+STIGLG
+silk length
+STYLLG
+INCLPROXNDCL
+QY
+OJIP
+F<sub>T</sub>
+LAD
+residual beta-glucanase (broad)
+in vitro organic matter digestibility
+stover related trait (broad)
+metabolised energy
+stover related traits (broad)
+stover related traits
+culm senescence
+total dissolved solids content
+cu content
+phosphate ion content
+IAA content
+indole-3-acetic acid (IAA) content
+NPQ
+spines on involucral bracts
+twospotted spider mite damage response
+wood volumetric density
+shoot axis node colour
+shoot axis node relative color
+root tuber diameter
+storage root diameter
+shoot axis branch position
+branching angle
+shoot axis branch angle
+caruncle colour
+accessory fruit position
+achene position
+acorn position
+aggregate fruit position
+akene position
+anthocarp position
+berry position
+capsule position
+caryopsides position
+caryopsis position
+circumcissile capsule position
+citrus fruit position
+coenocarp position
+cypsela position
+diclesium position
+diplotegia position
+diplotegium position
+drupe position
+folliceta position
+follicetum position
+fruit location
+fruit placement
+glandes position
+glans position
+grain position
+hesperidia position
+hesperidium position
+hip position
+kernel position
+legume position
+loculicidal capsule position
+loment position
+lomentum position
+multiple fruit position
+nut position
+nutlet position
+pepo position
+pod position
+pome position
+poricidal capsule position
+pyxides location
+pyxides position
+pyxis position
+samara position
+schizocarp location
+schizocarp position
+septicidal capsule position
+silicle location
+silicle position
+silicula position
+silicula relational spatial quality
+siliqua position
+silique position
+stone fruit position
+syconia position
+syconium position
+syncarp position
+utricle location
+utricle position
+bush size
+clonal colony size
+colony size
+frutex size
+frutices size
+gametophyte size
+herb size
+liana size
+planta entera (Spanish) size
+prothalli size
+prothallium size
+prothallus size
+seedling size
+shrub size
+sporophyte size
+suffrutex size
+suffrutices size
+tree size
+vine size
+woody clump size
+leaf lobe morphology trait
+leaf lobe length
+leaf lobe width
+plant ovary colour
+plant ovary relative color
+stem cortex colour
+stem cortex relative color
+stem epidermis colour
+stem epidermis relative color
+disc floret color
+disk floret color
+poaceae ovary morphology
+zea ovary morphology
+root Al content
+root system Al content
+root As content
+root B content
+root Ba content
+root Ca content
+root Cd content
+root Co content
+root Cr content
+root Cu content
+root Fe content
+root I content
+root K content
+root Li content
+root Mg content
+root Mn content
+root Mo content
+root Na content
+root Ni content
+root Pb content
+root Rb content
+root S content
+root Se content
+root Si content
+root Sr content
+root Zn content
+shoot Al content
+shoot system Al content
+shoot As content
+shoot B content
+shoot Ba content
+shoot Ca content
+shoot Cd content
+shoot Co content
+shoot Cr content
+shoot Cu content
+shoot Fe content
+shoot I content
+shoot Li content
+shoot Mg content
+shoot Mn content
+shoot Mo content
+shoot Ni content
+shoot Pb content
+shoot Rb content
+shoot S content
+shoot Se content
+shoot Si content
+shoot Sr content
+shooCFt Zn content
+carbon sensitivity
+alkali soil sensitivity
+reversible male sterility
+calcium sensitivity
+sulfur sensitivity
+potassium sensitivity
+genic male sterility-photoperiod sensitive
+magnesium sensitivity
+nitrogen sensitivity
+hydrogen sensitivity
+mycoplasma disease response
+panicle weight
+oxygen sensitivity
+cobalt sensitivity
+plant morphology trait
+boron sensitivity
+seedling height
+black streak dwarf virus resistance
+copper sensitivity
+stink bug resistance
+fungal infection related grain discoloration
+ligule length
+molybdenum sensitivity
+aborted tri-nucleate stage
+culm number
+unfilled grain number
+chlorine sensitivity
+silicon sensitivity
+selenium sensitivity
+iodine sensitivity
+chromium sensitivity
+hybrid incompatibility
+panicle length
+f1-hybrid incompatibility
+root morphology trait
+stigma exsertion
+udbatta disease resistance
+f2-generation sterility
+sporophytic incompatibility
+kernel smut disease resistance
+gametophytic incompatibility
+inflorescence branching
+stem strength
+primary branching of inflorescence
+pollen sterility
+leaf lamina pubescence
+stem color
+grain moisture content
+herbicide sensitivity
+node color
+aborted uni-nucleate stage
+node shattering
+phenol reaction
+mimic response
+root color
+genic male sterility-thermo sensitive
+lodging incidence
+variegated leaf
+variegated leaf necrosis
+anthocyanin content
+awn length
+manganese sensitivity
+blast disease resistance
+light sensitivity
+root dry weight
+flower bract morphology trait
+micronutrient sensitivity
+deep root dry weight
+zigzag leafhopper resistance
+penetrated root number
+root number
+sheath rot disease resistance
+grain aroma trait
+rice yellow mottle virus resistance
+panicle inflorescence type
+penetrated root thickness
+deep root to shoot ratio
+root pulling force
+basal root thickness
+osmotic response sensitivity
+ratooning ability
+amylopectin content
+glutinous endosperm
+sugary endosperm
+shrunken endosperm
+broad-leaved weed
+phosphorus sensitivity
+deepwater stress
+floury endosperm
+dull endosperm
+male sterility type
+endosperm storage protein-1 content
+leaf shattering
+endosperm storage protein-2 content
+wild abortive CMS
+genetically engineered male sterility
+giant embryo
+root mass density
+root mass density 0-15
+rat damage response trait
+root mass density 15-30
+root mass density 30-45
+percent root mass density
+ufra damage
+percent root mass density 0-15
+percent root mass density 15-30
+flag leaf angle
+percent root mass density 30-45
+harvest index
+false smut disease resistance
+far red light sensitivity
+leaf water potential
+basal internode diameter
+alkali digestion
+days to heading
+brown rice protein content
+lemma apiculus color
+awn color
+secondary branching of inflorescence
+relative biomass
+shoot axis internode length
+seed length
+seed width
+panicle number
+thrips resistance
+drought susceptibility index
+penetrated root dry weight
+canopy temperature
+red light sensitivity
+blue light sensitivity
+UV light sensitivity
+auxin sensitivity
+panicle inflorescence exsertion
+gibberellic acid sensitivity
+cytokinin sensitivity
+chinsurah boro CMS
+jasmonic acid sensitivity
+ethylene sensitivity
+2,4-dichlorophenoxyacetic acid sensitivity
+acid soil sensitivity
+spikelet fertility
+seed weight
+stigma color
+anther color
+drought sensitivity
+embryoless seed
+seed coat color
+leaf-roller resistance
+plant embryo shape
+globular embryo
+shootless embryo
+amylose content
+ligule color
+rootless
+genic male sterility
+brittle culm
+panicle inflorescence color
+white-backed planthopper resistance
+leaf angle
+plant height
+lemma number
+palea number
+anther number
+gel consistency
+green leafhopper resistance
+rice grassy stunt 1 and 2 virus resistance
+anther shape
+stamen morphology trait
+genic male sterility-thermo-photoperiod sensitive
+pollen abortion type
+glume color
+pistil morphology trait
+iron sensitivity
+stamen number
+auricleless
+root length
+crown rootless
+endospermless
+rice cytoplasmic male sterility
+root volume
+radicleless
+liguleless
+water stress trait
+growth media composition sensitivity
+sterile lemma length
+in vitro regeneration ability
+coleoptile color
+secondary macronutrient sensitivity
+non-mineral nutrient sensitivity
+seed dormancy
+growth media pH sensitivity
+sheath blight disease resistance
+root branching
+leaf thickness
+heat tolerance
+bird damage response trait
+panicle inflorescence shape
+lemma and palea color
+light quality sensitivity
+chalky endosperm
+inflorescence shape
+inflorescence axis angle
+inflorescence length
+armyworm resistance
+spikelet floret morphology trait
+perianth morphology trait
+drought tolerance
+root to shoot ratio
+root weight
+seedling vigor
+ADP glucose pyrophosphorylase activity trait
+nodal tillering
+submergence sensitivity
+alpha-amylase activity trait
+carotene content
+flavonoid content
+carbohydrate content
+yellow dwarf disease resistance
+chlorophyll a content
+leaf sheath auricle color
+chlorophyll b content
+vegetative vigor
+glucosamine content
+chlorophyll ratio
+leaf lamina color
+glucose content
+xanthophyll content
+cold tolerance
+glutamine synthetase content
+root thickness
+hexose content
+male fertility restoration trait
+self-incompatibility
+invertase activity trait
+NADH glutamate synthase content
+peroxidase-71 content
+phosphoglycerate mutase content
+photosynthetic ability
+cutworm resistance
+reducing sugar content
+rubisco content
+chlorophyll to rubisco ratio
+rubisco to nitrogen content ratio
+stem rot disease resistance
+rubisco to soluble protein ratio
+soluble protein content
+tillering ability
+outcrossing potential
+sucrose phosphate synthase activity trait
+sugar content
+ligule shape
+total amylase activity trait
+kneeing ability
+beta-amylase activity trait
+stem thickness
+total soluble sugar content
+panicle axis angle
+days to flowering trait
+seed viability
+tiller number
+weed damage response trait
+sogatodes resistance
+cms-hl type
+zinc sensitivity
+plant dry weight
+aborted at pollen maturity stage
+aluminum sensitivity
+heterosis
+brown spot disease resistance
+female flowering
+leaf elongation rate
+leaf collar color
+male flowering
+reproductive growth time
+basal leaf sheath color
+shoot elongation rate
+vegetative growth time
+leaf width
+amylose to amylopectin ratio
+breakdown viscosity
+consistency viscosity
+cooked grain elongation
+leaf scald disease resistance
+cool paste viscosity
+grain belly percent white
+nematode damage response trait
+milled grain color
+forage yield
+nuclear mediated male sterility
+grain core percent white
+seed size
+sterility or fertility trait
+drought related trait
+grain yield trait
+grain size
+grain thickness
+sterile lemma color
+plant growth hormone sensitivity
+leaf-folder resistance
+nodal rooting
+caseworm resistance
+panicle threshability
+hot paste viscosity
+peak viscosity
+grain length to width ratio
+setback viscosity
+aborted bi-nucleate stage
+embryo sac abortion
+lemma and palea pubescence
+bakanae disease resistance
+pollen fertility
+narrow brown leaf spot disease resistance
+gall midge resistance
+brown planthopper resistance
+anther culturability
+stem internode color
+culm angle
+callus induction
+salt sensitivity
+germination rate
+ear length
+temperature response trait
+ear diameter
+root activity
+seed longevity
+spikelet sterility
+male sterility
+grain number per plant
+humidity related trait
+plant fresh weight
+ear infructescence number
+parasitic weed
+fruit seed number
+leaf drying
+filled grain number
+filled grain percentage
+grain yield per plant
+grain yield per panicle
+large vascular bundle number to spikelet number ratio
+leaf area to spikelet number ratio
+panicle to tiller ratio
+stem borer resistance
+seed set percent
+spikelet number
+total biomass yield
+drought recovery
+root epidermal cell length
+light intensity sensitivity
+basic vegetative phase
+gelatinization temperature
+anthesis silking interval
+albino plantlet differentiation frequency
+cell membrane stability
+leaf blast disease resistance
+days to maturity
+vascular tissue morphology trait
+root penetration index
+vascular bundle number
+glume opening
+adventitious root thickness
+panicle blast disease resistance
+abscisic acid concentration
+acid sensitivity
+nutrient sensitivity
+germinability at low temperature
+seed shape
+sterility related trait
+seed color
+endosperm color
+seed protein content
+chlorophyll content
+carotenoid content
+fertility restoration trait
+female fertility restoration trait
+flower morphology trait
+spikelet weight
+potassium chlorate resistance
+leaf rolling time
+leaf temperature
+leaf weight
+nitrogen recycling
+osmotic adjustment capacity
+penetrated root length
+penetrated to total root ratio
+phosphorus uptake
+plant survival percentage under submergence
+potassium concentration
+potassium uptake
+relative growth rate
+relative root length
+relative shoot elongation under submergence
+rooting depth
+stomatal complex closure rate
+stomatal complex closure time
+stomatal conductance
+stomatal resistance
+sodium to potassium content ratio
+sodium concentration
+sodium uptake
+total shoot elongation under submergence
+abaxial stomatal frequency
+adaxial stomatal frequency
+anther length
+lemma apiculus hair length
+culm color
+spikelet floret color
+flower color
+large vascular bundle number to leaf area ratio
+large vascular bundle number
+leaf area trait
+leaf position
+leaf length to width ratio
+leaf nitrogen content
+mesocotyl length
+panicle base to lowest branch
+peduncle top diameter
+primary branch number
+rhizome number
+rhizome morphology trait
+rhizome branch angle
+rhizome branch number
+shoot dry weight
+rhizome length
+rhizome internode length
+rhizome internode number
+rhizome dry weight
+secondary branch number
+small vascular bundle number
+plant volume
+space per culm
+space to culm ratio
+specific leaf area
+spikelet length to width ratio
+spikelet width
+spikelets per panicle length
+leaf stomatal complex frequency
+shoot axis weight
+white-backed planthopper egg mortality
+watery lesion percentage
+shoot fresh weight
+petal color
+sepal color
+tepal color
+endosperm morphology trait
+stem length
+stem angle
+root fresh weight
+root dry weight to tiller number ratio
+cytoplasmic male sterility
+inflorescence color
+inflorescence number
+infructescence weight
+seminal root length
+endosperm quality
+average grain weight
+protein content
+UV-A light sensitivity
+UV-B light sensitivity
+total fat content
+magnesium to potassium content ratio
+hydrogen peroxide content
+diastatic power
+ash content
+sodium content
+potassium content
+soluble to total protein ratio
+grain density
+lemma shape
+abscisic acid sensitivity
+leaf perimeter
+colored grain percentage
+crushed grain percentage
+vivipary
+inflorescence development trait
+flower development trait
+involucre bristle length
+allelopathic effect
+spikelet density
+relative phosphorus distribution between shoot and root
+relative phosphorus utilization efficiency
+days to tassel
+pedicel length
+green plantlet differentiation frequency
+green plantlet yield frequency
+stem node number
+popping expansion volume
+relative shoot dry weight
+spike width
+seed fertility
+total root number
+inflorescence primary branch length
+leaf sheath diameter
+inflorescence bristle length
+relative root dry weight
+relative phosphorus concentration
+cauline axillary branch number
+relative acid phosphatase activity
+relative phosphorus uptake
+peduncle width
+lemma length
+flour color
+leaf necrosis
+spikelet morphology trait
+phyllochron
+axillary bud dormancy
+tiller bud dormancy
+fungal blight disease resistance
+grain core area white
+mycotoxin content
+deoxynivalenol content
+floret number
+pre-flowering flower abortion
+bran percentage
+tetraploid wheat fusarium head blight resistance
+ferulic acid content
+style color
+third leaf position
+cob diameter
+inflorescence circumference
+ear circumference
+inflorescence height
+ear infructescence position
+grassy flavor
+fruit tenderness
+juiciness
+kernel row length
+grain tenderness
+maysin content
+zea mays northern leaf blight disease resistance
+NCLB incubation period
+NCLB area under disease progress curve
+leaf margin color
+starch content
+starch yield
+starchiness
+sucrose synthase activity trait
+fruit sweetness
+turgor pressure
+starch concentration
+amylase activity trait
+phosphatase activity trait
+acid phosphatase activity trait
+hull color
+pericarp color
+plant color
+leaf gloss
+globulin protein content
+imidazolinone sensitivity
+sulfonylurea herbicide sensitivity
+brittle endosperm
+seminal rootless
+fascicled ear
+etched endosperm
+rough endosperm
+wrinkled grain
+leaf vein color
+leaf midrib color
+leaf adherence
+sporocyte development trait
+microsporocyte development trait
+megasporocyte development trait
+megasporocyte number
+microsporocyte number
+cell cycle trait
+meiotic cell cycle trait
+mitotic cell cycle trait
+lignin content
+lignin monomer content
+lignin biosynthesis trait
+grain length
+plastochron
+subterranean shoot axis tuber morphology trait
+subterranean shoot axis tuber shape
+subterranean shoot axis tuber size
+subterranean shoot axis tuber appearance
+subterranean shoot axis tuber mass
+seedling cotyledon color
+seedling cotyledon number
+seedling cotyledon size
+coleoptile morphology trait
+cardinal organ part morphology trait
+shoot axis internode morphology trait
+seedling hypocotyl color
+seedling hypocotyl green
+seedling hypocotyl green with bronze band
+seedling hypocotyl purple
+seedling hypocotyl dark purple
+stalk morphology trait
+petiole length
+petiole shape
+petiole size
+bacterial blight disease resistance
+embryo hypocotyl morphology trait
+seedling mesocotyl morphology trait
+embryo mesocotyl morphology trait
+seedling cotyledon morphology trait
+seedling hypocotyl size
+inflorescence axis morphology trait
+inflorescence axis size
+inflorescence waxiness
+axillary bud morphology trait
+axillary bud size
+axillary bud number
+axillary bud shape
+axillary bud prominence
+tassel inflorescence color
+tassel inflorescence circumference
+tassel inflorescence height
+tassel inflorescence length
+tassel inflorescence diameter
+inflorescence density
+inflorescence depth
+inflorescence diameter
+inflorescence weight
+inflorescence width
+inflorescence texture
+tassel branch dry weight
+tassel branch number
+tassel inflorescence type
+inflorescence bract length
+inflorescence bract cover
+inflorescence bract color
+leaf vein morphology trait
+leaf vein size
+leaf midvein morphology trait
+leaf midvein thickness
+leaf attitude
+leaf flexibility
+leaf volume
+leaf lamina area
+leaf cover
+leaf lamina margin morphology trait
+flag leaf morphology trait
+leaf sheath morphology trait
+seed coat morphology trait
+fruit diameter
+fruit attachment
+fruit type
+fruit hairiness
+fruit set trait
+spikelet floret shape
+spikelet floret size
+spikelet floret diameter
+flower diameter
+flower shape
+flower length
+flower abscission zone morphology trait
+floral organ morphology trait
+petal morphology trait
+sepal morphology trait
+tepal morphology trait
+sporophyll morphology trait
+megasporophyll morphology trait
+microsporophyll morphology trait
+glume morphology trait
+leaf yield trait
+fruit yield trait
+leaf erect
+leaf prostrate
+leaf penduloum
+leaf lamina splitting
+stem hairiness
+seed coat length
+flower type
+cleistogamus flower
+chasmogamous flower
+petiolule morphology trait
+petiolule color
+petiolule shape
+petiolule length
+seed coat luster
+seed coat hardness
+seed coat proportion
+leaf wet weight
+stem size
+stem shape
+fruit number trait
+fruit harvest index
+leaf harvest index
+seed harvest index
+root nodule morphology trait
+root nodule weight
+root nodule number
+dry fruit color
+seed coat pigment bleeding
+seed coat texture
+seed coat pattern
+seed yield trait
+exocarp thickness
+fruit hollowness
+fruit color uniformity
+fruit bitterness trait
+trichome morphology trait
+trichome appressed
+trichome acircular
+trichome canescent
+trichome capillary
+trichome clavate
+trichome ensiform
+trichome hirsute
+grain weight
+infructescence morphology trait
+infructescence axis morphology trait
+cob weight
+ear weight
+cob color
+non-vascular leaf morphology trait
+multi-tissue plant structure growth and development trait
+seed shattering
+seed quality trait
+mannose content
+photoperiod-sensitive flowering time trait
+kernel weight per ear
+infructescence yield trait
+kernel number per ear
+kernel number per row
+tassel spike length
+tassel branch zone length
+rank number per ear
+aleurone layer morphology trait
+aleurone layer color
+aleurone layer appearance
+pericarp morphology trait
+endocarp morphology trait
+corolla morphology trait
+corolla color
+stem weight
+stem number
+spikelet rachilla morphology trait
+cyanide content
+cob shape
+cob length
+cob width
+cob area
+cob angle
+ear color
+ear shape
+ear aspect
+ear infructescence position ratio
+hilum morphology trait
+hilum color
+ear inflorescence morphology trait
+panicle density
+inflorescence hairiness
+spikelet rachilla length
+spikelet rachilla shape
+spikelet rachilla hair type
+grain width
+ear infructescence morphology trait
+leaf foliage rating
+glume shape
+plant embryo cotyledon color
+root system morphology trait
+staminate flower number trait
+pistillate flower number trait
+shoot-borne shoot system morphology trait
+epicormic shoot system morphology trait
+seed hardness
+epicormic shoot system number
+gibberellin biosynthesis trait
+cellulose content
+androecium morphology trait
+aluminum content trait
+flag leaf area
+polished grain length
+polished grain width
+polished grain length to width ratio
+glume cover
+glume persistence
+inflorescence exsertion
+plant height uniformity
+basal tiller number
+basal tiller length
+adventitious root number
+coleoptile length
+days to flag leaf emergence
+deep root number
+senesced leaf number
+deep root weight ratio
+lateral root length
+lateral root number
+leaf dry weight
+photosynthetic rate
+relative chlorophyll content
+water use efficiency
+transpiration rate
+root to total biomass ratio
+exudate sap volume
+days to inflorescence exsertion
+days to tassel emergence
+days to ear shoot emergence
+phosphorus content
+leaf phosphorus content
+respiration rate
+net photosynthetic rate
+osmotic adjustment break point
+relative harvest index
+relative leaf area
+relative leaf dry weight
+relative panicle number
+relative spikelet number
+relative plant height
+stem width
+root yield
+root quality trait
+barium content trait
+cobalt content trait
+chromium content trait
+iodine content trait
+lead content trait
+silicon content trait
+rubidium content trait
+strontium content trait
+root hair density
+root cortex cross-sectional area
+subterranean shoot axis tuber length
+root stele cross-sectional area
+root aerenchyma cross-sectional area
+root cross sectional area
+root system width
+root system depth
+root system width to depth ratio
+subterranean shoot axis tuber width
+inflorescence axis thickness
+number of panicle internodes
+panicle inflorescence internode length
+number of panicle inflorescence branches per internode
+panicle inflorescence terminal primary branch length
+number of metaxylem vessels
+days to booting
+shoot axis tuber yield
+inflorescence axis length
+legume fruit shattering
+pulvinus size
+infructescence development trait
+legume fruit weight
+nut fruit weight
+samara fruit weight
+schizocarp fruit weight
+silique fruit weight
+grain volume
+grain color trait
+spike inflorescence morphology trait
+heterodera glycines response
+root width
+leaflet morphology trait
+leaflet area
+leaflet length
+leaflet shape
+leaflet weight
+leaflet width
+leaflet size
+specific leaflet weight
+compound leaf morphology trait
+specific leaf weight
+specific leaflet area
+root phosphorus content
+pod number trait
+capsule fruit width
+capsule fruit length
+capsule fruit thickness
+capsule seed number
+capsule fruit number
+grain protein content
+leaflet margin morphology
+leaflet color
+leaflet pubescence
+leaflet chlorophyll content
+rodent damage response trait
+legume fruit yield trait
+floral organ size
+stamen size
+pistil size
+petal size
+sepal size
+petal length
+petal width
+sepal length
+sepal width
+stamen length
+pistil length
+homeotic development trait
+vegetative homeotic development trait
+reproductive homeotic development trait
+floral organ length
+floral organ width
+flowering time trait
+fruit color
+endocarp color
+mesocarp color
+exocarp color
+fruit columella color
+locular tissue trait
+pericarp texture
+exocarp texture
+fruit length
+fruit width
+fruit shape
+fruit morphology trait
+fruit distal end shape
+fruit proximal end shape
+fruit abscission zone size
+fruit ripening trait
+fruit firmness
+leaf margin morphology trait
+leaflet number
+leaf size
+shoot meristem development
+shoot branching
+acid detergent fiber
+dietary fiber related trait
+carbon isotope discrimination
+dry matter digestibility
+starch digestibility
+water absorption by seed
+pesticide sensitivity
+phototropism response trait
+shoot axis phototropism response trait
+root phototropism response trait
+endosperm storage protein content
+pyruvate orthophosphate dikinase activity trait
+starch grain size
+starch grain shape
+starch grain synthesis
+pistil number
+cytokinin content
+leaf rolling tolerance
+leaf necrosis tolerance
+leaf yellowing tolerance
+root hair length
+seed phosphorus content
+jasmonic acid content
+diterpenoid phytoalexin content
+momilactone A content
+momilactone B content
+auxin content
+amino acid content
+tryptophan content
+gibberellic acid content
+brassinosteroid content
+brassinosteroid sensitivity
+panicleless
+inflorescenceless
+albumin content
+leaf curling
+plant cell shape
+plant cell size
+crown root number
+cell elongation trait
+leaf lamina joint bending
+leaf sheath length
+leaf lamina length
+peduncle length
+root meristem development
+gravity response trait
+fruit flavor trait
+beta-carotene content
+alpha carotene content
+cyclic carotene content
+acyclic carotene content
+lycopene content
+pungency
+lutein content
+cercospora leaf spot resistance
+meloidogyne incognita resistance
+cucurbit downy mildew resistance
+meloidogyne javanica resistance
+petiole color
+xylem color
+phloem color
+root shape
+stay green trait
+cell organelle morphology trait
+plastid development trait
+chloroplast development trait
+leaf sheath auricle pubescence
+leaf sheath auricle morphology trait
+leaf lamina width
+leaf sheath width
+leaf pubescence
+leaf lamina margin pubescence
+leaf sheath color
+sterile lemma shape
+sterile lemma width
+fruit senescing quality trait
+grain shape
+flag leaf angle: early stage
+flag leaf angle: late stage
+awn presence
+floret number per branch
+floret number per inflorescence
+fruit surface area
+grain surface area
+fruit volume
+fruit curved length
+fruit weight
+10-dehulled grain weight
+ligule morphology trait
+ligule pubescence
+ligule margin pubescence
+inflorescence branch arrangement
+arrangement of inflorescence primary branch
+inflorescence axis texture
+shoot growth angle
+flag leaf length
+flag leaf lamina width
+ligule margin shape
+rhizome formation
+stem fresh weight
+stem dry weight
+infructescence fresh weight
+infructescence dry weight
+fruit fresh weight
+fruit dry weight
+grain fresh weight
+grain dry weight
+100-grain fresh weight
+100-grain dry weight
+1000-grain fresh weight
+1000-grain dry weight
+ear fresh weight
+ear dry weight
+cob fresh weight
+cob dry weight
+legume fruit dry weight
+legume fruit fresh weight
+leaf moisture content
+stem moisture content
+root moisture content
+plant moisture content
+shoot moisture content
+infructescence moisture content
+second order infructescence moisture content
+legume fruit moisture content
+ear moisture content
+cob moisture content
+leaf potassium content
+stem potassium content
+infructescence potassium content
+second order infructescence potassium content
+grain potassium content
+ear potassium content
+cob potassium content
+legume fruit potassium content
+stem nitrogen content
+infructescence nitrogen content
+pepo fruit nitrogen content
+second order infructescence nitrogen content
+tuberous root tuber nitrogen content
+subterranean shoot axis tuber nitrogen content
+grain nitrogen content
+panicle nitrogen content
+ear nitrogen content
+legume fruit nitrogen content
+root nitrogen content
+stem phosphorus content
+infructescence phosphorus content
+second order infructescence phosphorus content
+grain phosphorus content
+legume fruit phosphorus content
+leaf carbon content
+stem carbon content
+root carbon content
+infructescence carbon content
+second order infructescence carbon content
+grain carbon content
+legume fruit carbon content
+linoleic acid content
+oleic acid content
+stearic acid content
+omega-3 fatty acid content
+alpha-linolenic acid content
+glyphosate sensitivity
+glufosinate sensitivity
+acetolactate synthase inhibitor sensitivity
+european corn borer resistance
+rootworm resistance
+salt tolerance
+proline content
+raffinose content
+fructose content
+monosaccharide content
+polysaccharide content
+carpel morphology trait
+carpel number
+phyllotaxy
+meristem tissue development trait
+meristem identity
+organ identity
+floral organ identity
+shoot apical meristem development
+vegetative to reproductive phase transition trait
+floral organ development trait
+flower bract development trait
+flower bract number
+inflorescence bract development trait
+inflorescence bract number
+inflorescence size
+tertiary branch number
+stem elongation
+carpel shape
+floral organ number
+petal number
+sepal number
+tepal number
+lithium content
+boron content
+magnesium content
+phosphorus concentration
+sulfur content
+calcium content trait
+manganese concentration
+iron concentration
+cobalt concentration
+nickel content
+copper concentration
+zinc concentration
+arsenic content trait
+selenium content
+molybdenum content
+cuperous ion concentration
+cuperic ion concentration
+cadmium content trait
+leaf chlorosis
+days to germinate
+plant width
+leaf margin serrated
+rolled leaf
+seedling hypocotyl length
+leaf trichome density
+aphid resistance
+germinability in dark
+seed volume
+percent germination
+leaf lamina color distribution
+inflorescence primary branch attitude
+inflorescence branch color
+penultimate leaf length
+penultimate leaf lamina width
+stigma length
+style length
+internode color in proxomity to colored node
+leaf area index
+leaf chlorophyll content
+quantum yield
+chlorophyll fluorescence induction kinetics
+quantum yield determined by the light curve
+quantum yield at a given wavelength
+continuous fluorescence yield
+leaf area duration
+leaf senescence rate
+leaf senescence duration
+shoot system potassium content
+shoot system sodium content
+seed coat spotted
+leaf lamina pubscence length
+leaf lamina pubescence density
+leaf lamina margin pubescence length
+leaf lamina margin pubescence density
+glume length
+glume width
+glume pubescence density
+glume pubescence
+glume pubescence length
+glume waxiness
+beta-glucan content
+spike exsertion
+beta-glucanase activity trait
+beta-glucanase thermostability
+residual beta-glucanase activity trait
+phenolic compound content
+zeaxanthin content
+beta-cryptoxanthin content
+stover organic matter digestibility
+metabolized energy of stover
+stover nitrogen content
+stem diameter
+spiral leaf
+stem senescence
+neck leaf presence
+root cracking
+total water soluble content
+iron content trait
+zinc content trait
+manganese content
+copper content trait
+nitrogen content
+nitrate content
+stomatal process related trait
+stomatal opening
+nitrate sensitivity
+nitrate transport
+nitrate uptake
+starch mobilization
+phosphate content
+adventitious root length
+adventitious rootless
+CW-cytoplasmic male sterility
+indole-3-acetic acid content
+plant cell length
+root cortical cell length
+vascular bundle development trait
+gynoecium development trait
+ovary development trait
+phosphorus toxicity
+shoot system phosphorus content
+chlorophyll fluorescence quenching
+photochemical quenching
+non photochemical quenching
+neoxanthin content
+violaxanthin content
+involucral bract spine presence
+arachnid damage response trait
+two-spotted spider mite damage response trait
+ethanol yield from biomass
+stem internode bent
+secondary xylem volumetric density
+shoot axis node color
+infructescence position
+tuberous root tuber diameter
+tuberous root tuber morphology trait
+branch position
+branch angle
+caruncle color
+fruit position
+whole plant size
+leaf lamina lobe morphology trait
+leaf lamina lobe length
+leaf lamina lobe width
+plant ovary color
+stem cortex color
+stem epidermis color
+disk flower color
+stipule length
+plant ovary morphology
+anther morphology trait
+root system aluminum content
+root system arsenic content
+root system boron content
+root system barium content
+root system calcium content
+root system cadmium content
+root system cobalt content
+root system chromium content
+root system copper content
+root system iron content
+root system iodine content
+root system potassium content
+root system lithium content
+root system magnesium content
+root system manganese content
+root system molybdenum content
+root system sodium content
+root system nickel content
+root system phosphorus content
+root system lead content
+root system rubidium content
+root system sulfur content
+root system selenium content
+root system silicon content
+root system strontium content
+root system zinc content
+shoot system aluminum content
+shoot system arsenic content
+shoot system boron content
+shoot system barium content
+shoot system calcium content
+shoot system cadmium content
+shoot system cobalt content
+shoot system chromium content
+shoot system copper content
+shoot system iron content
+shoot system iodine content
+shoot system lithium content
+shoot system magnesium content
+shoot system manganese content
+shoot system molybdenum content
+shoot system nickel content
+shoot system lead content
+shoot system rubidium content
+shoot system sulfur content
+shoot system selenium content
+shoot system silicon content
+shoot system strontium content
+shoot system zinc content
+linolenic acid content
+palmitic acid content
+response to sugarcane mosaic virus
+root development
+cms
+cell wall carbohydrate content
+sucrose synthase activity
+flowering
+invertase activity
+maturity date - harvest
+anthesis date
+shoot development
+node number
+lysine content
+seed quality
+biomass yield
+protein synthesis
+response to nitrogen
+response to aluminum
+furfural concentration
+aflatoxin level
+plant growth rate
+insect response
+gravitropism
+wound response
+phytic acid level
+starch composition
+germination index
+oil composition
+amino acid, small peptide and protein content
+amino acids, leaf below flag leaf
+grain yield
+grain yield, drought index
+recombination frequency
+response to barley stripe mosaic virus
+response to foxtail mosaic virus
+photosynthetic efficiency
+leaf area
+primary lateral root diameter
+plant dry weight
+seminal lateral root diameter
+seminal lateral root length
+seminal root diameter
+seminal root number
+primary lateral root length
+primary root diameter
+primary root length
+primary root weight
+pollen tube growth
+cupules per rank
+ear rank number
+kernel thickness
+leaf width, leaf below uppermost ear
+anthesis date, PANZEA
+node number, tassel to ear
+kernel density
+tassel branch angle
+tassel weight
+tassel length
+plant height, PANZEA
+oil content  kernel
+starch content, kernel
+silking date
+node number, ear to roots
+node number, brace roots Flint-Garcia
+silking date PANZEA
+leaf-blade pubescence
+leaf sheath-margin pubescence
+stalk width major axis Flint-Garcia 2005
+brace root anthocyanin
+leaf angle, leaf subtending primary ear
+leaf angle, leaf above primary ear
+stalk anthocyanin Flint-Garcia
+leaf-margin anthocyanin Flint-Garcia
+glume bar anthocyanin Flint-Garcia
+kernel weight, 100 kernel
+vivipary Panzea
+leaf-sheath pubescence
+stalk width minor axis  Flint-Garcia 2005
+anther anthocyanin Flint-Garcia
+glume anthocyanin Flint-Garcia
+leaf-midrib anthocyanin Flint-Garcia
+glume score
+percent cupules lacking pedic. spikelet
+no. branches in primary lat. inflor.
+staminate score
+disarticulation score
+internode length, primary lat. branch
+malate, leaf below flag leaf
+fumarate, leaf below flag leaf
+stress response
+response to Aspergillus flavus
+nitrate, leaf below flag leaf
+allozyme traits
+response to haloxyfop
+storage carbohydrate
+herbicide response
+dormancy
+inflorescence development
+amylose variations
+amylopectin variation
+anthesis-silking interval
+response to sethoxydim
+photoperiod response
+soluble sugars content, silk
+soluble sugars content, leaf
+sucrose content, leaf
+sucrose content, silk
+soluble sugars content, ear
+response to Cochliobolus heterostrophus
+response to cold stress
+response to salt
+response to Exerohilum turcicum, R1-R3 -- diseased leaf area Nelson 2011
+response to Exerohilum turcicum, R3 -- diseased leaf area Nelson 2011
+response to Exerohilum turcicum, R1 -- diseased leaf area Nelson 2011
+response to Exerohilum turcicum, late R2 -- diseased leaf area Nelson 2011
+response to Setosphaeria turcica Wisser 2011
+response to Cercospora zeae-maydis Wisser 2011
+response to Cochliobolus heterostrophus Wisser 2011
+hypersensitive response like lesion formation  Olukolu 2013
+internode basal ring length
+internode length (stem)
+anthesis-silking interval PANZEA
+kernel number, per row
+leaf angle Boxcox-transformed
+internode length above ear
+leaf length, leaf below topmost ear
+kernel weight, per ear
+brace root number
+leaf angle, uppermost leaf
+kernel weight, 20
+kernels per row
+internode length below ear
+kernel row number
+tassel branch zone
+kernel composition
+protein content, kernel
+response to Pennisetum mosaic virus
+response to Bipolaris maydis
+environmental stress response
+response to UV radiation
+anthesis-silking GDD interval PANZEA
+anthesis photoperiod response in GDD PANZEA
+silking photoperiod response in GDD, PANZEA
+anthesis GDD  PANZEA
+silking GDD date PANZEA
+kernel development
+response to maize rough dwarf virus
+rind puncture resistance PANZEA
+response to abscisic acid
+salinity tolerance
+drought response
+response to maize leaf aphid Meihls 2013
+response to Fusarium ear rot
+anthesis photoperiod response
+silking photoperiod response
+sucrose, leaf below flag leaf
+fructose, leaf below flag leaf
+glucose, leaf below flag leaf
+shoot dry weight, Benke 2014
+root growth, lateral  Benke 2014
+shoot length, Benke 2014
+root length, Benke 2014
+shoot moisture Benke 2014
+root weight, Benke 2014
+chlorophyll, leaf 3 Benke 2014
+chlorophyll, leaf 4 Benke 2014
+chlorophyll, leaf 5 Benke 2014
+chlorophyll, leaf 6 Benke 2014
+root branching, terminal end Benke 2014
+response to Ustilago maydis
+node number, PANZEA
+animal response
+response to Fusarium stalk rot
+anthesis date ratio Olukolu 2014
+stem width ratio Olukolu 2014
+plant height ratio Olukolu 2014
+root length, primary root  first order laterals  Burton2014
+root length, crown root main axis Burton 2014
+root diameter, crown Burton 2014
+root diameter, seminal Burton 2014
+root length, crown root second order laterals Burton2014
+root length, crown first order laterals Burton 2014
+root number, seminal Burton 2014
+root number, nodal Burton 2014
+root length, primary root second order laterals Burton2014
+root length, seminal root main axis Burton2014
+root system diameter Burton 2014
+root length, primary main axis Burton 2014
+root length, seminal root first order laterals Burton2014
+root length, seminal root second order laterals Burton2014
+root diameter, primary Burton 2014
+root system, embryonic dry weight Burton 2014
+root system, nodal dry weight Burton 2014
+response to barley yellow dwarf virus
+root transverse area Burton 2015
+root cortical cell file number
+root cortical cell number Burton 2015
+root stele area Burton 2015
+root cortical area Burton 2015
+root xylem vessel area Burton 2015
+root aerenchyma lacunae area Burton 2015
+abiotic stress response
+chlorophyll A, leaf below flag leaf
+chlorophyll B, leaf below flag leaf
+glutamate, leaf below flag leaf
+ear height, as ratio to total plant height
+protein, leaf below flag leaf
+metabolites PC1 Wallace 2014
+metabolites PC2 Wallace 2014
+starch content, leaf below flag leaf
+foliar senescence
+response to Colletotrichum graminicola
+response to Sesamia nonagrioides L. -- stem damage Samayoa 2015
+response to Sesamia nonagrioides L. -- tunnel length  Samayoa 2015
+response to Sesamia nonagrioides L. -- kernel damage Samayoa 2015
+response to pink stem borer
+response to Cercospora zeae-maydis Benson 2015
+inter-vein distance
+pollen shedding degree
+anther exsertion
+response to Gibberella ear rot
+tasseling date, response to low phosphorus
+silking date response to low phosphorus
+anthesis date response to low phosphorus
+response to low phosphorus
+stalk quality
+response to Fusarium kernel rot
+silk dry weight
+sucrose content, ear
+starch content, ear
+proline content, silk
+phaseic acid content, silk
+phaseic acid content, leaf
+glucose content, silk
+glucose content, ear
+abscisic acid content, silk
+abscisic acid content, leaf
+starch content, silk
+phaseic acid content, ear
+glucose mole fraction of total sugar, ear
+glucose mole fraction of total sugar, leaf
+glucose content, leaf
+abscisic acid glucose ester content, silk
+abscisic acid glucose ester content, leaf
+abscisic acid glucose ester content, ear
+abscisic acid content, ear
+response to Gibberella stalk rot
+response to western corn rootworm
+response to flooding
+forage quality
+DNA modification
+phenology
+response to Cercospora
+male fertility
+physiologic
+anthocyanin content
+agrobacterium mediated transformation
+sulfur use efficiency
+haploid production
+grain quality
+response to Rhizoctonia solani
+response to Bipolaris zeicola
+response to Rhizopus microsporus
+response to maize chlorotic mottle virus
+response to armyworm
+root morphology
+root lodging
+cadmium content
+somatic embryogenesis
+response to Clavibacter michiganense
+response to corn earworm
+response to parasitoid wasp
+response to fall armyworm
+nitrogen uptake
+nitrogen use efficiency
+tasseling date
+mycorrhizal infection
+nuclear male sterility
+response to Gibberella root rot
+kernel size
+osmotic stress response
+aleurone color
+response to maize weevil
+apomixis
+phenolic content
+response to heat stress
+zinc content
+disease response
+response to iron
+response to Curvularia leaf spot
+response to heavy metals
+stem development
+response to Striga
+response to Exserohilum turcicum
+amylose content, kernel starch
+hormone response
+stalk lodging
+tocochromanol content
+phosphorus use efficiency
+ear morphology
+leaf development
+morphological
+response to Trichoderma spp.
+response to Rhizophagus irregularis
+response to climate change
+iron uptake
+response to phosphorus
+root angle
+grain filling rate
+grain filling duration
+response to Chilo partellus
+response to nicosulfuron
+response to bacterial leaf streak
+response to gibberellin
+response to plant population
+kernel type
+response to sulfur dioxide exposure
+temperate adaptation
+response to corn leaf aphid
+seed vigor
+response to maize Iranian mosaic virus infection
+response to seed aging
+assimilate partitioning
+internode elongation
+leaf canopy architecture
+stomata number
+cuticular lipids
+response to Puccinia polysora
+transformation
+grain moisture
+tassel development
+pigmentation
+response to Pantoea ananatis
+response to Fusarium seedling rot
+chlorophyll fluorescence: leaf
+light reflectance
+response to Pythium spp.
+response to stalk rot
+chromosome
+response to Azospirillum brasilense
+response to Fusarium top rot
+ear development
+biotic stress response
+alpha tocopherol level
+husk tightness
+response to tolpyralate
+response to Metarhizium robertsii
+response to multiple leaf diseases
+growth and Development
+oleic acid level
+palmitic acid level
+2 hexadecadienoic acid level
+stearic acid level
+palmitoleic acid level
+linoleic acid level
+linolenic acid level
+radiation use efficiency (RUE)
+light interception
+pollen viability
+response to Puccinia sorghi
+response to humic acid
+seedling emergence
+response to maize lethal necrosis
+response to potyirus
+response to Meloidogyne incognita
+husk number
+response to low nitrogen
+response to arsenic
+response to Massilia
+pericarp thickness
+lesion formation
+baby corn yield
+response to weed stress
+amylose level
+response to deep sowing
+calcium content
+response to common cutworm
+root mass
+fatty acid content
+response to spider mite
+response to European corn borer, 1st
+response to ultrasonic treatment
+response to maize dwarf mosaic virus
+response to anisiflupurin
+response to Asian corn borer
+osmotic adjustment
+response to Sporisorium reilianum
+response to selenium
+response to high pH
+response to Pythium aphanidermatum stalk rot
+flavor
+shank length
+response to Aspergillus fumigatus
+response to Aspergillus oryzae
+husk width
+response to virus
+response to African armyworm
+response to Spodoptera littoralis
+root strength
+leaf shrinkage
+response to acid soil
+response to Macrophomina phaseolina
+huitlacoche production
+response to methomyl
+embryogenesis
+microspore development
+pollen thermotolerance
+fertilization
+response to Fusarium seedling blight
+fumonisin content
+protein content, coleoptile
+electrophoretic mobility, SDS-PAGE
+juvenile characters
+cell shape
+cell size
+response to benoxacor
+response to metolachlor
+response to oxygen stress
+response to Phyllosticta maydis
+response to cabbage looper
+response to maize streak virus
+vertical root pulling strength
+response to alachlor
+semi-sterility
+nucleic acid traits
+apical dominance
+apimaysin content
+spot form of net blotch
+winter Wheat Grain Color Evaluation
+winter Wheat PHS Evaluation
+grain yellow pigment content
+grain yellow index
+FHB severity
+above-ground biomass
+culm diameter
+days to heading
+days to maturity
+height
+100-kernel weight
+test weight
+tillers per plot
+yield
+head shatter
+plant height
+head scab
+leaf rust
+septoria glume blotch
+septoria leaf blotch
+spot blotch
+stem rust
+stripe rust on leaves
+barley yellow dwarf
+sprouting
+karnal bunt
+FHB
+stripe rust
+langdon_PHS_NY_2009_Rep1
+BYDV Resistance
+grain protein
+stagonospora nodorum blotch
+stripe rust resistance
+red coleoptile
+vitreous kernels
+cadmium uptake
+kernel color
+wheat spindle streak virus resistance
+DON accumulation
+groat Percentage
+straw Yield
+test Weight
+grain Yield
+cadmium content
+TCAP Barley SFNB Greenhouse Evaluation
+smut resistance
+alpha-Amylase activity
+diastatic power
+kernel plumpness
+malt extract percent
+protein content
+soluble/Total protein
+carbon isotope discrimination
+karnal bunt resistance
+above ground biomass
+days until heading
+harvest index
+thousand-grain weight
+kernels per ear
+lodging at flowering
+lodging at harvest
+malt tenderness
+ears per square meter
+water absorption
+heading date
+DON levels
+water-soluble carbohydrate accum.
+osmotic potential
+osmotic adjustment
+relative water content
+biomass
+grain hardness
+kernel weight
+kernel number
+tiller number
+wheat soilborne mosaic virus
+grain yield
+reaction to leaf rust
+tan spot
+CORE CrownRust Evaluation
+reaction to net blotch
+wheat reaction to powdery mildew
+grain color
+wheat sprouting
+wheat days to heading
+wheat days to maturity
+wheat head shattering
+wheat height
+wheat kernel weight
+wheat lodging
+wheat reaction to head scab
+wheat reaction to leaf rust
+wheat reaction to Septoria glume blotch
+wheat reaction to Septoria leaf blotch
+wheat reaction to spot blotch
+wheat reaction to stem rust
+wheat reaction to stripe rust
+wheat test weight
+wheat yield
+reaction to barley yellow dwarf virus
+pathogenic disease reaction
+BYDV
+grain protein content
+reaction to Stagonospora glume blotch
+reaction to Puccinia striiformis Westend.
+anthocyanin pigmentation
+vitreous kernel count
+reaction to Wheat Spindle Streak Mosaic
+deoxynivalenol (DON) accumulation
+groat percentage
+straw yield
+reaction to net blotch (seedling)
+reaction to smut
+alpha-amylase activity
+diastatic Power
+wheat reaction to kernel bunt
+kernels per spike
+spikes per area
+carbohydrate content
+leaf water potential
+osmotic adjustment capacity
+WSBMV
+reaction to crown rust (oat, adult)
+reaction to Puccinia graminis Pers.
+reaction to Puccinia triticina Erikss.

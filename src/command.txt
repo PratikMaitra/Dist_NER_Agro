@@ -1,0 +1,63 @@
+python train.py --do_train --do_eval --dataset_name Maize \
+    --loss_type MAE --m 20 \
+    --train_epochs 1 --train_lr 5e-7 --drop_other 0.5 \
+    --curriculum_train_sub_epochs 1 --curriculum_train_lr 2e-7 \
+    --curriculum_train_epochs 5 --self_train_lr 5e-7 --self_train_epochs 5 \
+    --max_seq_length 300
+
+python predict.py --dataset_name Maize \
+    --loss_type MAE --m 20 \
+    --train_epochs 1 --train_lr 5e-7 --drop_other 0.5 \
+    --curriculum_train_sub_epochs 1 --curriculum_train_lr 2e-7 \
+    --curriculum_train_epochs 5 --self_train_lr 5e-7 --self_train_epochs 5 \
+    --max_seq_length 300
+
+
+python train.py --do_train --do_eval --dataset_name SoyBase \
+    --loss_type MAE --m 20 \
+    --train_epochs 1 --train_lr 5e-7 --drop_other 0.5 \
+    --curriculum_train_sub_epochs 1 --curriculum_train_lr 2e-7 \
+    --curriculum_train_epochs 5 --self_train_lr 5e-7 --self_train_epochs 5 \
+    --max_seq_length 300
+
+
+python predict.py --dataset_name SoyBase \
+    --loss_type MAE --m 20 \
+    --train_epochs 1 --train_lr 5e-7 --drop_other 0.5 \
+    --curriculum_train_sub_epochs 1 --curriculum_train_lr 2e-7 \
+    --curriculum_train_epochs 5 --self_train_lr 5e-7 --self_train_epochs 5 \
+    --max_seq_length 300
+
+
+python train.py --do_train --do_eval --dataset_name Grain \
+    --loss_type MAE --m 20 \
+    --train_epochs 1 --train_lr 5e-7 --drop_other 0.5 \
+    --curriculum_train_sub_epochs 1 --curriculum_train_lr 2e-7 \
+    --curriculum_train_epochs 5 --self_train_lr 5e-7 --self_train_epochs 5 \
+    --max_seq_length 300
+
+
+
+python predict.py --dataset_name Grain \
+    --loss_type MAE --m 20 \
+    --train_epochs 1 --train_lr 5e-7 --drop_other 0.5 \
+    --curriculum_train_sub_epochs 1 --curriculum_train_lr 2e-7 \
+    --curriculum_train_epochs 5 --self_train_lr 5e-7 --self_train_epochs 5 \
+    --max_seq_length 300
+
+
+
+python train.py --do_train --do_eval --dataset_name Allcrops \
+    --loss_type MAE --m 20 \
+    --train_epochs 1 --train_lr 5e-7 --drop_other 0.5 \
+    --curriculum_train_sub_epochs 1 --curriculum_train_lr 2e-7 \
+    --curriculum_train_epochs 5 --self_train_lr 5e-7 --self_train_epochs 5 \
+    --max_seq_length 300
+
+
+python predict.py --dataset_name Allcrops \
+    --loss_type MAE --m 20 \
+    --train_epochs 1 --train_lr 5e-7 --drop_other 0.5 \
+    --curriculum_train_sub_epochs 1 --curriculum_train_lr 2e-7 \
+    --curriculum_train_epochs 5 --self_train_lr 5e-7 --self_train_epochs 5 \
+    --max_seq_length 300

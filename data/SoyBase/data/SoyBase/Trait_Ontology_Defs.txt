@@ -1,0 +1,1312 @@
+		
+TO:0000001	carbon sensitivity	Sensitivity to the carbon content in the growth medium. It plays an important role in the synthesis of various inorganic and organic metabolites such as carbohydrates, lipids, amino acids and peptides and plays a role in various metabolic processes.
+TO:0000003	alkali soil sensitivity	Plant sensitivity to soils with alkali conditions (pH>7).
+TO:0000004	reversible male sterility	Trait of a plant in which the action of the cytotoxic gene used to introduce male sterility is suppressed by the application of a chemical to the plant. Reversion of the sterility allows the RMS parent to be self-fertilized, a step that overcomes the need to remove fertile sib plants prior to making the hybrid cross.
+TO:0000006	calcium sensitivity	Sensitivity to the calcium content in the growth medium. Plays an important role in cell wall synthesis and enzyme activities.
+TO:0000007	sulfur sensitivity	Response by the plant in terms of sensitivity to sulfur content in the growth medium. It is important for synthesis of some amino acid residues.
+TO:0000008	potassium sensitivity	Sensitivity to the potassium ion content in the growth medium. It plays an important role in controlling water by osmosis and also in the metal ion homeostasis.
+TO:0000009	genic male sterility-photoperiod sensitive	Male sterility affected by photoperiod.
+TO:0000010	magnesium sensitivity	Sensitivity to the magnesium content in the growth medium. It is important for chlorophyll biosynthesis and metal ion homeostasis.
+TO:0000011	nitrogen sensitivity	Sensitivity to the nitrogen content in the growth medium. It is important for protein synthesis, chlorophyll etc.
+TO:0000012	hydrogen sensitivity	Sensitivity to the molecular hydrogen or hydrogen ion content in the growth medium. It plays an important role in the synthesis of various inorganic and organic metabolites such as carbohydrates, lipids, amino acids and peptides and plays a role in the energy metabolism, osmolarity,  etc.
+TO:0000013	mycoplasma disease response	A microbial disease response (TO:0000112) trait which is the response to damage to a plant structure (PO:0009011) caused by an infection by a mycoplasma (NCBITaxon:2093).
+TO:0000014	panicle weight	Average weight of the panicle from the plants or tillers in a given study.
+TO:0000015	oxygen sensitivity	Sensitivity to the molecular oxygen or reactive oxygen ion content in the growth medium. It plays an important role in the synthesis of various inorganic and organic metabolites such as carbohydrates, lipids, aminoacids and peptides and plays a role in the energy metabolism.
+TO:0000016	cobalt sensitivity	Sensitivity to the cobalt content in the growth medium.
+TO:0000017	plant morphology trait	A plant trait (TO:0000387) which is a morphological quality of a plant anatomical entity (PO:0025131) or a constituent cellular component (GO:0005575) contained therein.
+TO:0000018	boron sensitivity	Sensitivity to the boron content in the growth medium. It plays an important role in cell division.
+TO:0000019	seedling height	Average height measurements of 10 seedlings, in centimeters from the base of the shoot to the tip of the tallest leaf blade.
+TO:0000020	black streak dwarf virus resistance	black streak dwarf virus resistance
+TO:0000021	copper sensitivity	Sensitivity to the copper ion content in the growth medium. Plays a role as cofactor in synthesis of some enzymes important in photosynthesis.
+TO:0000022	stink bug resistance	Causal agent: Oebalus pugnax.
+TO:0000023	fungal infection related grain discoloration	Causal agent: species of Sarocladium, Bipolaris, Alternaria, Gerlachia, Fusarium, Phoma, Curvularia, Trichoconiella and Psaudomonas etc. Symptoms: darkening of glumes of spikelets, brown color to black including rotten glumes caused by one or more pathogens. Intensity ranges from sporadic discoloration to discoloration of the whole glume. Severity of grain discoloration can be estimated by counting of grains with more than 25% of glume surface affected.
+TO:0000024	ligule length	A ligule morphology trait (TO:0002748) which is a length of a ligule measured in millimeters from the base of the leaf collar to the tip of the ligule (PO:0020105).
+TO:0000025	molybdenum sensitivity	Important for nitrate fixation.
+TO:0000026	aborted tri-nucleate stage	Abortion at tri-nucleate stage of microspore development.
+TO:0000027	culm number	Actual count of the total number of tillers after full heading, Specify if per plant, hill or area.
+TO:0000028	unfilled grain number	Number of unfilled florets in a grass inflorescence.
+TO:0000029	chlorine sensitivity	Sensitivity to the chlorine content in the growth medium. Chloride helps regulate the correct pH (acid/alkaline) balance. This is a major electrolyte in the living cell besides sodium and potassium. It is available to the cell mainly in the form of NaCl and KCl salts.
+TO:0000031	silicon sensitivity	silicon sensitivity
+TO:0000032	selenium sensitivity	selenium sensitivity
+TO:0000033	iodine sensitivity	iodine sensitivity
+TO:0000034	chromium sensitivity	Sensitivity to the chromium content in the growth medium.
+TO:0000036	hybrid incompatibility	hybrid incompatibility
+TO:0000040	panicle length	A panicle morphology trait (TO:0000847) which is the measurement in centimeters from panicle base to tip.
+TO:0000042	f1-hybrid incompatibility	f1-hybrid incompatibility
+TO:0000043	root morphology trait	A plant axis morphology trait (TO:0000738) which is a quality of a root (PO:0025025).
+TO:0000044	stigma exsertion	Trait is monitored by counting number of flowers or florets that have completed anthesis on a given day and showing exserted stigma. Trait expressed as  percent stigma exsertion.
+TO:0000045	udbatta disease resistance	Causal agent: Balanasia oryzae-sativae (Ephelis oryzae). Symptoms: a white mycelial mat ties the panicle branches together so that they emerge as single, small, cylindrical rods.
+TO:0000046	f2-generation sterility	f2-generation sterility
+TO:0000047	sporophytic incompatibility	sporophytic incompatibility
+TO:0000048	kernel smut disease resistance	Causal agent: Tilletia barclayana. Symptoms: infected grains show minute black pustules or streaks bursting through the glumes. In severe infection, the rupturing glumes produce short beak-like or spur-like outgrowths.
+TO:0000049	gametophytic incompatibility	gametophytic incompatibility
+TO:0000050	inflorescence branching	An inflorescence morphology trait (TO:0000373) which is the extent of branching. (PO:0009049).
+TO:0000051	stem strength	A stem morphology trait (TO:0000361) which is the strength of a stem (PO:0009047).
+TO:0000052	primary branching of inflorescence	An inflorescence morphology trait (TO:0000373) which is the extent of primary branching that usually sets the tone for shape and compactness of the inflorescence (PO:0009049) (rice panicle).
+TO:0000053	pollen sterility	Observed under a microscope at magnification 10x10 after staining with 1% iodine potassium iodide (IKI) solution. Samples for pollen are collected from anthers and fixed in 70% alcohol. Two to three anthers are extracted from each floret and pollen grains are squeezed out into the IKI solution drop. At least three fields are used to count the sterile pollen grains; unstained withered, unstained spherical and partially stained round and fertile, from stained round pollen grains. Percentage sterility is calculated as = (unstained withered+unstained spherical+partially stained) x 100/total number of pollen grains in the field including the fertile.
+TO:0000055	leaf lamina pubescence	A leaf lamina morphology trait (TO:0000829) which is the extent of pubescence  (presence of hairs)  on a leaf lamina (PO:0020039).
+TO:0000056	stem color	A stem morphology trait (TO:0000361) which is the color of a stem (PO:0009047).
+TO:0000057	grain moisture content	A moisture content trait (TO:0000228) which is the amount of moisture of the caryopsis fruit (PO:0030104).
+TO:0000058	herbicide sensitivity	A chemical stress sensitivity (TO:0000482) which is the tolerance exhibited by a plant towards the applied herbicide.
+TO:0000059	node color	Color of the stem node.
+TO:0000060	aborted uni-nucleate stage	Abortion at uni-nucleate stage of microspore development.
+TO:0000061	node shattering	node shattering
+TO:0000062	phenol reaction	phenol reaction
+TO:0000063	mimic response	mimic response
+TO:0000065	root color	A root morphology trait (TO:0000043) which is the color of a root (PO:0009005).
+TO:0000067	genic male sterility-thermo sensitive	Temperature sensitive male sterility, affected by environment.
+TO:0000068	lodging incidence	Measure of percentage of plants that lodged.
+TO:0000069	variegated leaf	A leaf color (TO:0000326) trait where the leaf (PO:0009025) has areas of green and non-green tissue.
+TO:0000070	variegated leaf necrosis	Variegated leaf necrosis or scorching observed in response to stresses like drought, insecticides and cold temperature as evidenced by chlorotic and/or necrotic tissue.
+TO:0000071	anthocyanin content	The anthocyanin content in a plant or plant part.
+TO:0000072	awn length	An awn morphology trait (TO:0002718) which is the length of awn (PO:0025349).
+TO:0000073	manganese sensitivity	Sensitivity to the manganese content in the growth medium. It is important for activation of some enzymes and role in metal ion homeostasis.
+TO:0000074	blast disease resistance	Causal agent: Magnaporthe grisea.
+TO:0000075	light sensitivity	Response shown by the plant in terms of sensitivity to light stress (quality and quantity of light).
+TO:0000078	root dry weight	The average dry weight of the root determined in a study.
+TO:0000079	flower bract morphology trait	A bract morphology trait (TO:0000815) which is a quality of a flower bract (PO:0009034).
+TO:0000080	micronutrient sensitivity	Sensitivity response shown by the plant grown in either the excess or deficient amount of the micronutrient in the growth medium (soil).
+TO:0000081	deep root dry weight	The average dry weight of the root, (for the root part 30cm below the soil surface) determined per tiller in a green house study.
+TO:0000082	zigzag leafhopper resistance	Causal agent: Recilia dorsalis (Motschulsky).
+TO:0000083	penetrated root number	Its the total number of roots penetrating the hard pans of the soil or the number of roots penetrated through the wax-petrolatum layer measured at 50 days after sowing (DAS).
+TO:0000084	root number	A root system morphology trait (TO:0000985) which is the number of roots (PO:0009005) in a root system (PO:0025025).
+TO:0000085	leaf rolling	A leaf morphology trait (TO:0000748) which is the rolling of a leaf preceding the leaf drying stage.
+TO:0000086	sheath rot disease resistance	Causal agent: Sarocladium oryzae. Symptoms: oblong or irregular brown to grey lesions on the leaf sheath near panicle; sometimes coalescing to prevent emergence of panicle.
+TO:0000087	grain aroma trait	The aroma of the cooked/uncooked grains.
+TO:0000088	rice yellow mottle virus resistance	Causal agent: rice yellow mottle virus (RYMV). Symptoms: stunting, reduced tillering, mottling and yellowish streaking of the leaves, delayed flowering or incomplete emergence of the panicle; in extreme cases, death of plants.
+TO:0000089	panicle inflorescence type	A panicle inflorescence morphology trait (TO:0000847) which is the mode of branching, angle of primary branches, and spikelet density of a panicle inflorescence (PO:0030123).
+TO:0000090	penetrated root thickness	At 50 days after sowing (DAS), the thickness of roots penetrated through the wax-petrolatum layer is measured.  Penetrated root thickness is measured on penetrated roots immediately below the wax layer.
+TO:0000092	deep root to shoot ratio	The ratio of deep root length (for the roots found 30cm below the soil surface) and the shoot length determined in a study.
+TO:0000093	root pulling force	A drought related trait (TO:0000394) which is a measure of the pulling force required to uproot the plant.
+TO:0000094	basal root thickness	The thickness of the root present 2cm below the soil surface.
+TO:0000095	osmotic response sensitivity	Sensitivity to the osmoticum in the growth medium.
+TO:0000096	ratooning ability	Regeneration of the main stem and tillers after harvesting in a grass plant.
+TO:0000097	amylopectin content	Amount of amylopectin present in the plant or plant part.
+TO:0000098	glutinous endosperm	An endosperm morphology trait (TO:0000575) which is an opaque and hard endosperm (PO:0009089) with low or no amylose content (TO:0000196).
+TO:0000099	sugary endosperm	An endosperm morphology trait (TO:0000575) which is a wrinkled and glassy endosperm (PO:0009089) when dry.
+TO:0000100	shrunken endosperm	An endosperm morphology trait (TO:0000575) which is a shrunken and opaque endosperm (PO:0009089).
+TO:0000101	broad-leaved weed	A common sedge weed Monochoria vaginalis (monochoria), California arrowhead Sagittaria montevidensis, Gregg arrowhead Sagittaria longiloba, Ducksalad Heteranthera limosa, Echinodorus berteroi and E. cordifolius (Burhead), Ammannia spp (Redstems), Bacopa spp. (Water hyssops), Alisma plantago-aquatica (Common water plantain). Grows as a weed in the rice field. Can be distinguished from rice plant by the leaf shape, venation, stem cross-section and plant shape leaf shape.
+TO:0000102	phosphorus sensitivity	Sensitivity to the phosphorus content in the growth medium. It is important in various biochemical pathways and storage of energy.
+TO:0000103	deepwater stress	The sensitivity response shown by the plant growing in a stagnant water for a long period of time (not unlike deepwater presence during flash flooding of the fields).
+TO:0000104	floury endosperm	An endosperm morphology trait (TO:0000575) which is an opaque and soft endosperm (PO:0009089).
+TO:0000105	dull endosperm	An endosperm morphology trait (TO:0000575) which is a glassy and tarnished endosperm (PO:0009089) with low amylose content (TO:0000196).
+TO:0000106	male sterility type	Represents the different types of male sterility found in plants.
+TO:0000107	endosperm storage protein-1 content	Assay for the amount of 13kDa seed storage protein present in the endosperm.
+TO:0000108	leaf shattering	A leaf growth and development trait (TO:0000655) which is the extent of leaf shattering based on the development of a leaf abscission zone (PO:0006501).
+TO:0000109	endosperm storage protein-2 content	Assay for amount of 57kDa seed storage protein present in the endosperm.
+TO:0000110	wild abortive CMS	Abortion of microspore development at uni-nucleate stage.
+TO:0000111	genetically engineered male sterility	The sterility induced by transgenes expressing cytotoxic component.
+TO:0000113	giant embryo	An embryo shape trait (TO:0000193) that is a large sized plant embryo (PO:0009009).
+TO:0000115	root mass density	Determined as the dry mass of roots per unit soil volume at a given soil section.
+TO:0000116	root mass density 0-15	Root mass density 0-15 cm was calculated as the dry mass of roots per unit soil volume at 0-15 cm soil section.
+TO:0000117	rat damage response trait	A rodent damage response trait (TO:0001141) which is the response to damage to a plant structure (PO:0009011) caused by a rat (NCBITaxon:10114).
+TO:0000118	root mass density 15-30	Root mass density 15-30 cm was calculated as the dry mass of roots per unit soil volume at 15-30 cm soil section.
+TO:0000119	root mass density 30-45	Root mass density 30-45 cm was calculated as the dry mass of roots per unit soil volume at 30-45 cm soil section.
+TO:0000120	percent root mass density	Calculated as percent of root mass density over the total root mass density. Both parameters scored at the same depth.
+TO:0000121	ufra damage	Causal agent: the stem nematode Dictylenchus angustus. Symptoms: leaf mottling or chlorotic discoloration in a splash pattern at base of young leaves in stem elongation or mid-tillering stage; brown stains may develop on leaves and sheaths which later intensify to a dark brown color. A characteristic distortion consisting of twisting and withering of young leaves. A distortion of panicle which either remains enclosed with in a swollen sheath, partially emerge but are twisted and with unfilled grains or emerge completely but with unfilled grains and resembling a whitehead.
+TO:0000122	percent root mass density 0-15	Calculated as percent of root mass density in this section over the total root mass density. Both scored at the 0-15cm depth.
+TO:0000123	percent root mass density 15-30	Calculated as percent of root mass density in this section over the total root mass density. Both scored at the 15-30cm depth.
+TO:0000124	flag leaf angle	A flag leaf morphology trait (TO:0000832) which is an angle of the flag leaf (PO:0020103) measured near the collar, as the angle of attachment between the flag leaf blade and the main inflorescence axis in grass plants.
+TO:0000125	percent root mass density 30-45	Calculated as percent of root mass density in this section over the total root mass density. Both scored at the 30-45cm depth.
+TO:0000128	harvest index	Proportion of usable (economically significant) biomass over total (biological) biomass, expressed as a percentage.
+TO:0000129	false smut disease resistance	Causal agent: Ustilaginoidea virens. Symptoms: infected grains are transformed into yellow-greenish or greenish-black velvety-looking spore balls.
+TO:0000130	far red light sensitivity	Sensitivity to the far red light content in the growth environment.
+TO:0000131	leaf water potential	Water potential of a leaf.
+TO:0000132	basal internode diameter	Actual measurements in millimeters from the outer diameter of the stem at the basal portion of the main stem.
+TO:0000134	alkali digestion	Is an indirect measure of gelatinization temperature. Observed by placing six milled-rice kernels in 10ml 1.7% KOH in a shallow container and arrange them so that they do not touch. Let them stand for 23hrs at 30degC temperature and score for spreading. Measure for Alkali digestion is inversely proportional to the gelatinization temperature, e.g. if alkali digestion is low, the gelatinization temperature is high.
+TO:0000135	leaf length	A leaf morphology trait (TO:0000748) which is the length of a leaf (PO:0025034).
+TO:0000136	leaf relative water content	Leaf relative water content is determined at midday (12.00 noon).
+TO:0000137	days to heading	Number of days required for the inflorescence (head/cob/panicle) to emerge from the flag leaf of a plant or a group of plants in a study.
+TO:0000138	brown rice protein content	A grain protein content (TO:0001136) which is the amount of protein (CHEBI:36080) in a brown rice grain (caryopsis fruit; PO:0030104).
+TO:0000140	lemma apiculus color	A cardinal organ part morphology trait (TO:0000754) which is the color of a lemma apiculus (PO:0025616).
+TO:0000141	awn color	An awn morphology trait (TO:0002718) which is a color of the awn (PO:0025349).
+TO:0000142	secondary branching of inflorescence	An inflorescence branching (TO:0000050) trait which is the extent of secondary branching that usually determines the shape and compactness of the inflorescence  (PO:0009049) (such as in rice panicle).
+TO:0000143	relative biomass	Relative yield was calculated as the ratio of biomass in stress to that of control.
+TO:0000145	shoot axis internode length	A shoot axis internode morphology trait (TO:0000755) which is the length of a shoot axis internode (PO:0005005).
+TO:0000146	seed length	A seed morphology trait (TO:0000184) which is the length of a seed (PO:0009010).
+TO:0000149	seed width	A seed morphology trait (TO:0000184) which is the width of a seed (PO:0009010).
+TO:0000152	panicle number	A panicle morphology trait (TO:0000847) which is the average number of panicles per plant in a study.
+TO:0000154	thrips resistance	Causal agent: Stenchaetothrips biformis. monitored at growth stage 2-3.
+TO:0000155	drought susceptibility index	The index is calculated as, DSI = (1-Yds/Yns), where Yds and Yns are mean yields of a given genotype in drought susceptible (DS) and non-susceptible (NS) environments respectively.
+TO:0000156	penetrated root dry weight	At 50 days after sowing (DAS), the dry weight of roots penetrated through the wax-petrolatum layer is measured.
+TO:0000157	canopy temperature	Assay determines temperature of the leaf canopy.
+TO:0000158	red light sensitivity	Sensitivity to the red light content in the growth environment.
+TO:0000159	blue light sensitivity	Sensitivity response observed in an environment illuminated with blue light.
+TO:0000160	UV light sensitivity	Response shown by the plant in the presence of UV light stress.
+TO:0000163	auxin sensitivity	Response with respect to application of auxin.
+TO:0000165	panicle inflorescence exsertion	A panicle inflorescence morphology trait (TO:0000847) which is the extent of coverage of panicle inflorescence (PO:0030123) by a sheath of a flag leaf (PO:0020103).
+TO:0000166	gibberellic acid sensitivity	Sensitivity to the gibberellic acid content in the growth medium or on external application.
+TO:0000167	cytokinin sensitivity	Sensitivity to the cytokinin content in the growth medium or external application.
+TO:0000169	chinsurah boro CMS	Abortion of microspore development at trinucleate stage.
+TO:0000172	jasmonic acid sensitivity	Sensitivity to the jasmonic acid content in the growth medium or on external application.
+TO:0000173	ethylene sensitivity	Sensitivity to ethylene (C2H2) content in the growth medium or the environment.
+TO:0000177	2,4-dichlorophenoxyacetic acid sensitivity	An assay to determine the tolerance exhibited by a plant or a group of plants (population) towards the applied herbicide 2,4-dichlorophenoxyacetic acid (2,4 D).
+TO:0000178	acid soil sensitivity	Plant sensitivity to soils with acidic conditions (pH<7).
+TO:0000180	spikelet fertility	A spikelet morphology trait (TO:0000657) which is the fertility to a spikelet (PO:0009051).
+TO:0000181	seed weight	A seed morphology trait (TO:0000184) which is the weight of a seed (PO:0009010).
+TO:0000185	stigma color	Color of the stigma in a blossoming flower.
+TO:0000187	anther color	An anther morphology trait (TO:1000022) which is the color (PATO:0000014) of an anther (PO:0009066)
+TO:0000188	drought sensitivity	Drought sensitivity is highly interactive with crop phenology, plant growth prior to stress, and timing, duration, and intensity of drought stress. For many soils, it takes at least 2 rainless weeks to cause marked differences in drought sensitivity during the vegetative stage and at least 7 rainless days during the reproductive stage to cause severe drought injury. Leaf rolling precedes leaf drying during drought. Repeated ratings are recommended through progress of the drought.
+TO:0000189	embryoless seed	A seed viability trait (TO:0000345) which is the absence of a plant embryo (PO:0009009) in a seed (PO:0009010).
+TO:0000190	seed coat color	A seed coat morphology trait (TO:0000838) which is the color of the seed coat (PO:0009088).
+TO:0000192	leaf-roller resistance	Causal agent: Cnaphalocrocis medinalis.
+TO:0000193	plant embryo shape	A plant embryo morphology trait (TO:0000064) which is the shape of a plant embryo (PO:0009009).
+TO:0000194	globular embryo	An embryo shape trait (TO:0000193) which is a globular plant embryo (PO:0009009).
+TO:0000195	shootless embryo	A plant embryo morphology trait (TO:0000064) which is an embryo of the germinating seed not producing a shoot.
+TO:0000196	amylose content	A polysaccharide content trait (TO:0006007) which is the amount of amylose (CHEBI:28102) in a plant structure (PO:0009011).
+TO:0000197	ligule color	A ligule morphology trait (TO:0002748) which is the color of a ligule (PO:0020105).
+TO:0000198	rootless	Absence of roots in the seedling or plant.
+TO:0000199	genic male sterility	genic male sterility
+TO:0000200	brittle culm	A stem strength (TO:0000051) trait which a measure of the fragility of a grass stem (culm; PO:0009047).
+TO:0000201	panicle inflorescence color	A panicle inflorescence morphology trait (TO:0000847) which is the variation in color of the panicle inflorescence (PO:0030123).
+TO:0000202	germination ratio	Ratio of germinated to non-germinated seeds.
+TO:0000205	white-backed planthopper resistance	Causal agent: Sagotella furcifera. Symptoms: partial to pronounced yellowing and increasing severity of stunting. Extreme signs are wilting and death of plants. Infested areas in the field may be patchy. (similar to the symptoms of whitebacked planthopper).
+TO:0000206	leaf angle	A leaf attitude (TO:0000206) which is  the angle of a leaf (PO:0025034) measured against the stem.
+TO:0000207	plant height	A whole plant morphology trait (TO:0000398) which is the height of a whole plant (PO:0000003).
+TO:0000208	lemma number	A spikelet floret morphology trait (TO:0000274) which is the number of lemma (PO:0009037) in a spikelet floret (PO:0009082).
+TO:0000209	palea number	A spikelet floret morphology trait (TO:0000274) which is the number of  palea (PO:0009038) in a spikelet floret (PO:0009082).
+TO:0000210	anther number	A stamen morphology trait (TO:0000215) which is the number of anthers (PO:0009066) in a stamen (PO:0009029).
+TO:0000211	gel consistency	Scored by gel consistency type in mm.
+TO:0000212	green leafhopper resistance	Causal agent: Nephotettix spp. (Nephotettix virescens and Nephotettix cincticeps). It is the major vector for transmitting the tungro virus disease. Symptoms: Partial to pronounced yellowing and increasing severity of stunting. Extreme signs are wilting to death of plants. Infected areas in the field may be patchy.
+TO:0000213	rice grassy stunt 1 and 2 virus resistance	Causal agent: rice grassy stunt virus 1 (RGSV1) and rice grassy stunt virus 2 (RGSV2). Symptoms: RGSV1 causes severe stunting, excessive tillering, pale green to yellow and narrow leaves with small rusty spots. RGSV2 causes severe stunting, excessive tillering, yellow to orange and narrow leaves with small rusty spots.
+TO:0000214	anther shape	An anther morphology trait (TO:1000022) which is the shape (PATO:0000052) of an anther (PO:0009066).
+TO:0000215	stamen morphology trait	A microsporophyll morphology trait (TO:0000868) which is a quality of a stamen (PO:0009029).
+TO:0000217	genic male sterility-thermo-photoperiod sensitive	Male sterility affected by both temperature and photoperiod.
+TO:0000218	pollen abortion type	Observations are made on staining behavior and number of nuclei in most of the pollen.
+TO:0000221	glume color	A glume morphology trait (TO:0000869) which is the color of a glume (PO:0009039).
+TO:0000223	pistil morphology trait	A carpel morphology trait (TO:0006012) which is a quality of a pistil.
+TO:0000224	iron sensitivity	Sensitivity to the iron ion content in the growth medium. It is important for synthesis of chlorophyll and some enzyme activities.
+TO:0000225	stamen number	An androecium morphology trait (TO:0000215) which is the number of stamens (PO:0009029) present in an androecium (PO:0009061).
+TO:0000226	auricleless	A measure of either the absence of auricle or the length of auricle being zero.
+TO:0000227	root length	A root morphology trait (TO:0000043) which is the length of a root (PO:0009005).
+TO:0000230	crown rootless	Absence of crown roots in the plant.
+TO:0000231	endospermless	An endosperm morphology trait (TO:0000575) which is the absence of endosperm (PO:0009089) in the seed (PO:0009010) or grain.
+TO:0000232	rice cytoplasmic male sterility	Caused by the interaction of cytoplasmic (mitochondrial) and nuclear genomes. The trait shows non-mendelian inheritance or maternal inheritance.
+TO:0000233	root volume	A root morphology trait (TO:0000043) which is the volume of a root (PO:0009005).
+TO:0000234	radicleless	The embryo of the germinating seed does not produce roots.
+TO:0000235	liguleless	A ligule morphology trait (TO:0002748) which is the absence of a ligule (PO:0020105).
+TO:0000237	water stress trait	Response by the plant in terms of sensitivity to water stress (quality and quantity of water).
+TO:0000238	growth media composition sensitivity	A chemical stress sensitivity (TO:0000238) which is the response by the plant to a specific growth medium.
+TO:0000240	sterile lemma length	A lemma morphology trait (TO:1000023) which is the length of a sterile lemma (PO:0009040).
+TO:0000241	leaf number	A shoot system morphology trait (TO:0000077) which is the number of leaves (PO:0025034) in a shoot system (PO:0009006) of a plant.
+TO:0000243	in vitro regeneration ability	Measured as number of calli capable of differentiating into roots and(or) shoots under in vitro tissue culture condition.
+TO:0000244	coleoptile color	A coleoptile morphology trait (TO:0000753) which is the the color of a coleoptile (PO:0020033).
+TO:0000251	secondary macronutrient sensitivity	A macronutrient sensitivity (TO:0000176) response shown by the plant either grown in an excess or deficient amount of the secondary macronutrient in the growth medium.
+TO:0000252	non-mineral nutrient sensitivity	Sensitivity response shown by the plant grown in either the excess or deficient amount of the non-mineral nutrients in the growth medium. These nutrients are found in the air and water.
+TO:0000253	seed dormancy	seed dormancy
+TO:0000254	growth media pH sensitivity	A growth media composition sensitivity (TO:0000238) which is the response of the plant to the pH of the growth media (soil/culture media), whether it be acidic or alkaline.
+TO:0000255	sheath blight disease resistance	Causal agent: Rhizoctonia solani. Symptom: Grayish-green lesions may enlarge and coalesce with other lesions, mostly on lower leaf sheaths, but occasionally on the leaves.
+TO:0000257	root branching	The extent of the root branching as determined under variable treatments and environments.
+TO:0000258	leaf thickness	A leaf morphology trait (TO:0000748) which is the thickness of a leaf (PO:0025034).
+TO:0000259	heat tolerance	Tolerance to warm temperatures if plant is exposed to above than permissive temperature limits. Observe differences in vigor along with subtle changes in leaf color. The optimum time to make observations would be the seedling, tillering (sensu Poaceae), flowering and mature stages. Mainly scored in terms of spikelet fertility in grasses.
+TO:0000260	bird damage response trait	An animal damage response trait (TO:0000054) which is the response to damage to a plant structure (PO:0009011) caused by a bird (NCBITaxon:8782).
+TO:0000262	panicle inflorescence shape	A panicle inflorescence morphology trait (TO:0000847) which is the shape of a panicle inflorescence (PO:0030123).
+TO:0000264	lemma and palea color	A lemma and palea morphology trait (TO:0000079) which is the color of the lemma (PO:0009037) and the palea (PO:0009038).
+TO:0000265	light quality sensitivity	Response shown by the plant in the presence of  a light quality stress.
+TO:0000266	chalky endosperm	An endosperm morphology trait (TO:0000575) which is the chalkiness of an endosperm (PO:0009089) on the scale of (a) white belly, (b) white center or (c) white back.
+TO:0000267	inflorescence type	An inflorescence morphology trait (TO:0000373) which is the variation in the type of inflorescence, whether due to extent and number of branching, branch angles or modified form of the inflorescence (PO:0009049).
+TO:0000268	inflorescence shape	An inflorescence morphology trait (TO:0000373) which is the shape of an inflorescence (PO:0009049).
+TO:0000269	100-grain weight	A grain weight (TO:0000919) which is the weight of a sample of 100 grains (caryopsis fruit; PO:0030104), with the caryopsis hull (PO:0006000).
+TO:0000270	inflorescence axis angle	An inflorescence axis morphology trait (TO:0000782) which is the angle of an inflorescence axis (PO:0020122).
+TO:0000271	inflorescence length	An inflorescence morphology trait (TO:0000373) trait which is the length of an inflorescence (PO:0009049).
+TO:0000273	armyworm resistance	Causal agent: Pseudaletia unipuncta, Spodoptera mauritia and Spodoptera praefica. The swarming caterpillars cause severe damage to rice plants in nursery beds.
+TO:0000274	spikelet floret morphology trait	A flower morphology trait (TO:0000499) which is a quality of a spikelet floret (PO:0009082).
+TO:0000275	perianth morphology trait	A collective phyllome structure morphology trait (TO:0000845) which is a quality of a perianth (PO:0009058).
+TO:0000276	drought tolerance	Becoming tolerant to drought like conditions of minimal or no water content in the growth environment.
+TO:0000278	root to shoot ratio	The ratio determined from the parameters evaluated for root length and the shoot length in a study.
+TO:0000279	root weight	A root morphology trait (TO:0000043) which is the weight of a root (PO:0009005).
+TO:0000280	seedling vigor	Represents the seedling growth of the plant.
+TO:0000284	ADP glucose pyrophosphorylase activity trait	Catalysis of the reaction: ATP + alpha-D-glucose 1-phosphate = diphosphate + ADP-glucose.
+TO:0000285	nodal tillering	nodal tillering
+TO:0000286	submergence sensitivity	Measure of sensitivity of a plant if placed under submergence condition.
+TO:0000288	alpha-amylase activity trait	An amylase activity trait (TO:0000703) which is the quality of the endohydrolysis of 1,4-a-D-glucosidic linkages in polysaccharides containing three or more 1,4-a-linked D-glucose units.
+TO:0000289	carotene content	A carotenoid content trait (TO:0000496) which is the amount of carotene (CHEBI:23042) in a plant structure (PO:0009011).
+TO:0000290	flavonoid content	A phytochemical compound content trait (TO:0000674) which is the amount of flavonoid (CHEBI:47916) in a plant structure (PO:0009011).
+TO:0000291	carbohydrate content	A metabolite content trait (TO:0000281) which is the amount of carbohydrate (CHEBI:16646) in a plant structure (PO:0009011).
+TO:0000292	yellow dwarf disease resistance	Causal agent: Mycoplasma. Symptoms: pale yellow, droopy leaves, excessive tillering and stunting.
+TO:0000293	chlorophyll a content	A chlorophyll content trait (TO:0000495) which is the chlorophyll a content in a plant structure (PO:0009011).
+TO:0000294	leaf sheath auricle color	A leaf sheath auricle morphology trait (TO:0002717) which is the color of a leaf sheath auricle (PO:0020106).
+TO:0000295	chlorophyll b content	A chlorophyll content trait (TO:0000495) which is the chlorophyll b content in a plant structure (PO:0009011).
+TO:0000296	vegetative vigor	Represents the growth of plant. Used to evaluate genetic material under stress and non-stress conditions, several factors may interact, influencing the seedling vigor (e.g. tillering ability, plant height, etc).
+TO:0000297	glucosamine content	An oligosaccharide content (TO:0006003) which is the amount of glucosamine (CHEBI:5417) in a plant structure (PO:0009011).
+TO:0000298	chlorophyll ratio	A chlorophyll content trait (TO:0000495) which is the ratio of chlorophyll a to chlorophyll b in a plant structure (PO:0009011).
+TO:0000299	leaf lamina color	A leaf lamina morphology trait (TO:0000829) which is the color of the leaf lamina (PO:0020039).
+TO:0000300	glucose content	Amount of glucose present in the plant or plant part.
+TO:0000301	xanthophyll content	The xanthophyll content in a plant or plant part.
+TO:0000303	cold tolerance	Tolerance to cold temperatures if plant is exposed to below permissive temperature limits. Observe differences in vigor along with subtle changes in leaf color. The optimum time to make observations would be the seedling, tillering (sensu Poaceae), flowering and mature stages.
+TO:0000304	seed thickness	A seed morphology trait (TO:0000184) which is the thickness of a seed (PO:0009010).
+TO:0000305	glutamine synthetase content	Catalysis of the reaction: ATP + L-glutamate + ammonia = ADP + phosphate + L-glutamine.
+TO:0000306	root thickness	A root morphology trait (TO:0000043) which is the thickness of a root (PO:0009005).
+TO:0000307	hexose content	Amount of hexose present in the plant or plant part.
+TO:0000308	male fertility restoration trait	Describes the extent of fertile pollen percentage. Also refers to male sterility-measure (extent of sterility).
+TO:0000310	self-incompatibility	Self-incompatibility allows plants to recognize and reject pollen from the same plant, thereby reducing inbreeding.
+TO:0000311	invertase activity trait	Catalysis of the hydrolysis of terminal non-reducing beta-D-fructofuranoside residues in beta-D-fructofuranosides.
+TO:0000312	NADH glutamate synthase content	Catalysis of the reaction: 2 L-glutamate + NAD+ = L-glutamine + 2-oxoglutarate + NADH + H+.
+TO:0000313	peroxidase-71 content	Catalysis of the reaction: donor + hydrogen peroxide = oxidized donor + 2 H2O.
+TO:0000314	phosphoglycerate mutase content	Catalysis of the reaction: 2-phospho-D-glycerate = 3-phospho-D-glycerate.
+TO:0000316	photosynthetic ability	The photosynthesis ability determined on a plant or the plant part under stress.
+TO:0000317	cutworm resistance	Causal agent: Spodoptera litura.
+TO:0000318	reducing sugar content	Amount of reducing sugar present in the plant or plant part.
+TO:0000319	rubisco content	Amount of Rubisco enzyme or protein present in a given plant or the plant part.
+TO:0000320	chlorophyll to rubisco ratio	A chlorophyll content trait (TO:0000495) which is ratio of the amount of RuBisCo protein to that of the chlorophyll content (TO:0000495) in a plant strucure (PO:0009011).
+TO:0000321	rubisco to nitrogen content ratio	A ratio of the amount of rubisco protein to that of the total nitrogen content in a plant or plant part.
+TO:0000323	stem rot disease resistance	Causal agent: Magnaporthe salvinii (Nakataea sigmoidea, Sclerotium oryzae), and Helminthosporium sigmoideum var. irregulare. Symptoms: dark lesions develop on the stems near the water line. Small, dark bodies (sclerotia) develop, weaken the stem and cause lodging.
+TO:0000324	rubisco to soluble protein ratio	A ratio of the amount of rubisco protein to that of the soluble protein content in a plant or plant part.
+TO:0000325	soluble protein content	Amount of the soluble protein present in the plant or the plant part.
+TO:0000326	leaf color	A leaf morphology trait (TO:0000748) which is the color of a leaf (PO:0025034).
+TO:0000328	sucrose content	The amount of sucrose present in the plant or the plant part.
+TO:0000329	tillering ability	Degree of tillering is affected by variety, spacing of plants in the field, season of planting, and environmental conditions e.g. nitrogen levels.
+TO:0000330	outcrossing potential	It is a measure of percent seed set on the out-pollinated primary panicle.
+TO:0000331	sucrose phosphate synthase activity trait	Catalysis of the reaction: UDP-glucose + D-fructose 6-phosphate = UDP + sucrose 6-phosphate.
+TO:0000333	sugar content	Amount of sugar present in the plant or the plant part.
+TO:0000335	ligule shape	A ligule morphology trait (TO:0002748) which is the actual shape of the ligule (PO:0020105).
+TO:0000336	total amylase activity trait	A combined activity of both the alpha and beta amylase enzymes.
+TO:0000337	kneeing ability	Represents the angle of the tiller in the submerged water fields (flash flooding).
+TO:0000338	beta-amylase activity trait	An amylase activity trait (TO:0000703) which is the quality of the hydrolysis of 1,4-alpha-glucosidic linkages in polysaccharides to remove successive maltose units from the non-reducing ends of the chains.
+TO:0000339	stem thickness	A stem morphology trait (TO:0000361) which is the thickness of a stem (PO:0009047).
+TO:0000340	total soluble sugar content	Total amount of soluble sugar present in the plant or plant part.
+TO:0000342	panicle axis angle	Represents the angle of panicle axis.
+TO:0000344	days to flowering trait	A flowering time trait (TO:0002616) which is the number of days required for an individual flower (PO:0009046), a whole plant (PO:0000003) or a plant population to reach flowering stage (PO:0007616) from a predetermined time point (e.g. the date of seed sowing, seedling transplant, or seedling emergence).
+TO:0000345	seed viability	seed viability
+TO:0000346	tiller number	Number of tillers per plant, should represent most plants within a study.
+TO:0000347	weed damage response trait	A biotic plant stress trait (TO:0000179) which is the response to the competition for nutrients, light, water or space for caused by another plant (NCBITaxon:33090).
+TO:0000348	sogatodes resistance	Causal agent: Sogatodes orizicola (Muir), Sagotella furcifera and Sogatodes cubanus. Sogatodes orizicola is also a vector for the Rice black streaked dwarf fijivirus and rice hoja blanca  virus (RHBV).
+TO:0000350	cms-hl type	Abortion of microspore development at bi-nucleate stage.
+TO:0000351	zinc sensitivity	Sensitivity to the zinc content in the growth medium. It acts as cofactor for certain enzymes like Class II aldolases, metalloproteases, alkaline phosphatase, etc.
+TO:0000352	plant dry weight	The dry weight of the whole plant.
+TO:0000353	aborted at pollen maturity stage	Abortion at later stage of microspore development, the pollen looks like fertile pollen.
+TO:0000354	aluminum sensitivity	Sensitivity to aluminum content in the growth media.
+TO:0000355	heterosis	Exceptional vigor of growth etc. in plants or in animal, resulting from cross breeding among inter or intra species.
+TO:0000356	brown spot disease resistance	Causal agent: Cochliobolus miyabeanus (Bipolaris oryzae, Drechslera oryzae). Symptom: typical leaf spots are small, oval or circular and dark brown. Larger lesions usually have same color on the edges but have a pale (usually grayish) center. Most spots have a light yellow halo around the outer edge.
+TO:0000358	female sterility	female sterility
+TO:0000359	female flowering	A flowering time trait which is the timing of the flowering (anthesis) of female flowers.
+TO:0000360	leaf elongation rate	Measure of growth or elongation rate of the leaf in a plant.
+TO:0000364	leaf collar color	Changes monitored in leaf collar color.
+TO:0000365	male flowering	A flowering time trait (TO:0002616) which is the timing of the flowering (anthesis) of male flowers.
+TO:0000366	reproductive growth time	Measure of time taken by the reproductive growth phase in a plant's life cycle.
+TO:0000367	basal leaf sheath color	The changes in the color of basal leaf sheath.
+TO:0000368	shoot elongation rate	shoot elongation rate
+TO:0000369	vegetative growth time	Measure of the vegetative growth phase time in a plant's life cycle.
+TO:0000370	leaf width	A leaf morphology trait (TO:0000748) which is the width of a leaf (PO:0025034).
+TO:0000372	amylose to amylopectin ratio	Ratio of amount of amylose to amylopectin content.
+TO:0000374	breakdown viscosity	A cooking quality trait that is the tendency of gelatinized starch granules to break during cooking, especially at high temperature.
+TO:0000376	consistency viscosity	consistency viscosity
+TO:0000377	cooked grain elongation	cooked grain elongation
+TO:0000378	leaf scald disease resistance	Causal agent: Monographella albescens (Microdochium oryzae). Symptoms: the lesions occurs mostly near leaf tips, but sometimes start at the margin of the blade and develops into large ellipsoid areas encircled by dark-brown, narrow bands accompanied by a light-brown halo.
+TO:0000379	cool paste viscosity	cool paste viscosity
+TO:0000381	cracked grain percentage	The percentage of cracked dehulled grain with most of the size still intact.
+TO:0000382	1000-grain weight	A grain weight (TO:0000919) which is the weight of a sample of 1000 grains (caryopsis fruit; PO:0030104), with the caryopsis hull (PO:0006000).
+TO:0000383	grain belly percent white	Percentage opaque white area in the kernel belly.
+TO:0000384	nematode damage response trait	An animal damage response trait (TO:0000054) which is the response to damage to a plant structure (PO:0009011) caused by a nematode (NCBITaxon:6231).
+TO:0000385	milled grain color	A grain color (TO:0002617) trait which is the color of dehulled, milled grain (caryopsis fruit; PO:0030104).
+TO:0000388	forage yield	Yield of forage matter upon harvest.
+TO:0000389	nuclear mediated male sterility	Shows mendelian inheritance, caused by genetic modifications or mutations in the nuclear genome.
+TO:0000390	grain core percent white	Percentage opaque white area in the kernel core.
+TO:0000391	seed size	A seed morphology trait (TO:0000184) which is the size of a seed (PO:0009010).
+TO:0000392	sterility or fertility trait	A plant trait (TO:0000387) which is a measure of either the fertility or sterility, contributed by nonfunctional male and or female plant parts or their incompatible interaction. This also includes traits on seed setting behavior in the fruit (caryopsis) of a grass plant that can be assayed in terms of spikelet sterility or fertility.
+TO:0000394	drought related trait	Response by the plant in terms of sensitivity to sufficiently prolonged water deficit/scarcity or scanty water content in the soil or growth medium, that can cause damage to the plant.
+TO:0000396	grain yield trait	A fruit yield trait (TO:0000871) that is the amount of grain.
+TO:0000397	grain size	A caryopsis fruit morphology trait (TO:0001079) which is the size of the grain (caryopsis fruit; PO:0030104).
+TO:0000399	grain thickness	A grain quality trait (TO:0000399) which is the thickness of a dehulled grain with a pericarp (PO:0009084).
+TO:0000400	sterile lemma color	A lemma morphology trait (TO:1000023) which is the color of the sterile lemma (PO:0009040).
+TO:0000401	plant growth hormone sensitivity	A chemical stress sensitivity (TO:0000482) which is the tolerance exhibited by a plant or a group of plants (population) towards the plant growth hormone.
+TO:0000402	dehulled grain width	A grain width (TO:0000975) which is the width of the dehulled grain with pericarp (PO:0009084).
+TO:0000403	leaf-folder resistance	Causal agent: Cnaphalocrosis medinalis, Marasmia patnalis. Symptoms: larvae consume the leaf tissue except the epidermis, causing typical white streaks. They create a leaf tube during later stages of feeding. Plant is susceptible and resistant check (if available) after every 10-test entries. Replicate the test three times, if seed is available. Determined by percentage of damaged and folded leaves.
+TO:0000404	nodal rooting	Extent of rooting from the nodes on a stem.
+TO:0000405	caseworm resistance	Causal agent: Nymphula depunctalis. Symptoms: Larvae feed on leaf tissue, leaving only the papery upper epidermis.
+TO:0000406	panicle threshability	A plant quality trait (TO:0000597) which is the percentage of shattered grains, determined by firmly grasping and pulling the hand over the panicle.
+TO:0000408	hot paste viscosity	hot paste viscosity
+TO:0000409	peak viscosity	peak viscosity
+TO:0000411	grain length to width ratio	A caryopsis fruit morphology trait (TO:0001079) which is the ratio of grain length (TO:0000734) to grain width (TO:0002762), including the caryopsis hull (PO:0006000).
+TO:0000412	setback viscosity	Determined by deducting the peak viscosity from the cool paste viscosity.
+TO:0000415	aborted bi-nucleate stage	Abortion at bi-nucleate stage of microspore development.
+TO:0000416	embryo sac abortion	Abortion of the embryo sac leading to female sterility.
+TO:0000417	lemma and palea pubescence	A lemma and palea morphology trait (TO:0000079) which is the extent of pubescence (hairs) on the lemma (PO:0009037) and palea (PO:0009038).
+TO:0000418	bakanae disease resistance	Causal agent: Gibberella fujikuroi. Symptoms: the plant elongates abnormally, has few tillers and usually dies before producing grains.
+TO:0000421	pollen fertility	pollen fertility
+TO:0000422	narrow brown leaf spot disease resistance	Causal agent: Sphaerulina oryzina (Cercospora janseana).
+TO:0000423	gall midge resistance	Causal agent: Orseolia oryzae. For the field test to be valid more than 60% of the plants should be affected with not less than 15% silver shoot in the susceptible check. Similarly, 60% of the plants in susceptible check should show silver shoots under green house tests. If any of the test entry in the field evaluation exhibits damage less than 10%, on plant basis, rate it on scale-0, since such a damage could be due to other reasons. Monitor at growth stage 2-5.
+TO:0000424	brown planthopper resistance	Causal agent: Nilparvata lugens (also Nilaparvata lugens). Symptoms: partial to pronounced yellowing and increasing severity of stunting. Extreme signs are wilting to death of plants. Infested areas in the field may be patchy.
+TO:0000425	anther culturability	anther culturability
+TO:0000426	stem internode color	A stem internode morphology trait (TO:0000756) which is the color of the stem internode (PO:0020142).
+TO:0000427	culm angle	The angle of the culm with respect to the ground surface in a grass plant.
+TO:0000428	callus induction	callus induction
+TO:0000429	salt sensitivity	Plant sensitivity observed in response to different concentrations of salt in the growth medium.
+TO:0000430	germination rate	Rate of germination of the seed.
+TO:0000431	ear length	An ear infructescence morphology trait (TO:0000976) that is the length of an ear infructescence (PO:0025597) from base to tip.
+TO:0000432	temperature response trait	Response by the plant in terms of sensitivity to temperature stress.
+TO:0000433	ear diameter	An ear infructescence morphology trait (TO:0000976) that is the diameter of an ear infructescence (PO:0025597).
+TO:0000434	root activity	root activity
+TO:0000435	seed longevity	seed longevity
+TO:0000436	spikelet sterility	Determined by counting the filled and unfilled spikelets of the bagged grass inflorescence.
+TO:0000437	male sterility	In plants, it represents the incompetence of the pollen to fertilize the ovum. Reasons could be non-viable pollen, incompatibility, pollen abortion, toxicity, genetic etc. Usually determined by either the pollen sterility or spikelet fertility (percent seed set).
+TO:0000440	grain number per plant	Number of grains (full grain with hull) present in one plant.
+TO:0000441	humidity related trait	humidity related trait
+TO:0000442	plant fresh weight	Fresh weight of the plant.
+TO:0000443	ear infructescence number	An infructescence yield trait (TO:0000936) that is the number of ears (ear infructescence; PO:0025597) on a plant or the average number present in population.
+TO:0000444	parasitic weed	parasitic weed
+TO:0000445	fruit seed number	A fruit morphology trait (TO:0002629) which is the number of seeds (PO:0009010) in a fruit (PO:0009001).
+TO:0000446	leaf drying	A leaf morphology trait (TO:0000748) which is the drying of a leaf (PO:0025034).
+TO:0000447	filled grain number	Determined by counting the number of spikelets filled with grain in one inflorescence (panicle).
+TO:0000448	filled grain percentage	Determined by counting the percent spikelets filled with grain in one grass inflorescence (panicle) or plant.
+TO:0000449	grain yield per plant	Average weight of dehulled grains per plant.
+TO:0000450	grain yield per panicle	Average weight of dehulled grains per panicle.
+TO:0000451	large vascular bundle number to spikelet number ratio	A ratio of number of large vascular bundles present in the spikelets to the number of spikelets in a grass inflorescence.
+TO:0000452	leaf area to spikelet number ratio	A ratio of leaf area to the number of spikelets in a grass inflorescence.
+TO:0000453	panicle to tiller ratio	A ratio of number of tiller bearing the panicles to the total number of tillers in rice.
+TO:0000454	stem borer resistance	Causal agents: Chilo suppressalis (striped), C. polychrysus (dark headed), Rupela albinella (South American white), Scirpophaga incertulas (yellow), S innotata (white), Sesamia inferens (pink), Maliarpha separatella (african whiteheads), Diopsis macrophthalma (stalked-eyed fly), and several other species.
+TO:0000455	seed set percent	An infructescence morphology trait (TO:0000920) which is the percent of seeds (PO:0009010) set in an infructescence (PO:0006342).
+TO:0000456	spikelet number	A spikelet morphology trait (TO:0000657) which is the average number of spikelets (PO:0009051) in one or more inflorescence (PO:0009049) (e.g. rice panicle) found in a plant or on all plants of a study.
+TO:0000457	total biomass yield	total biomass yield
+TO:0000458	drought recovery	Scores are taken after 10 days following soaking rain or watering- Indicate the degree of stress before recovery.
+TO:0000459	root epidermal cell length	Length of the root epidermal cell (PO:0025164).
+TO:0000460	light intensity sensitivity	light intensity sensitivity
+TO:0000461	basic vegetative phase	basic vegetative phase
+TO:0000462	gelatinization temperature	Is an indication of gelatinization temperature. Observed by placing six milled-grains/kernels in 10ml 1.7% KOH in a shallow container and arrange them so that they do not touch. Let them stand for 23hrs at 30C temperature and score for spreading. Measure for Alkali digestion is inversely proportional to the gelatinization temperature, e.g. if alkali digestion is low, the gelatinization temperature is high.
+TO:0000463	anthesis silking interval	A difference of the average number of days between the maize tassel flowering and the first visible silk (stigma) on the maize ear.
+TO:0000464	albino plantlet differentiation frequency	albino plantlet differentiation frequency
+TO:0000467	cell membrane stability	Stability of the cell membrane under the impact of temperature (heat) and water deficit stress.
+TO:0000468	leaf blast disease resistance	Causal agent: Magnaporthe grisea. Symptoms: Can affect either or both the leaf and panicles.
+TO:0000469	days to maturity	A plant phenological trait (TO:0000933) which is the number of days from planting to the fruit ripening stage (PO:0025502) or seed maturation stage (PO:0007632).
+TO:0000470	vascular tissue morphology trait	A portion of plant tissue morphology trait (TO:0000843) which is a quality of a vascular tissue and its parts.
+TO:0000471	root penetration index	Its the fraction of number of penetrated roots over the total number of roots.
+TO:0000472	vascular bundle number	A plant structure morphology trait (TO:0000839) which is the number of vascular bundles (PO:0005020) in a plant structure (PO:0009011).
+TO:0000473	grain shattering	Measurement of extent of grain shattering, which depends on development of abscission zone. This trait often refers to shattering or the premature or ease of shedding of the grass fruit called caryopsis from the inflorescence.
+TO:0000474	glume opening	Angle of opening of glumes is measured on each floret, assessment based on mean angle of glume opening.
+TO:0000475	adventitious root thickness	A root thickness (TO:0000306) trait which is the thickness of a shoot-borne root (PO:0000042).
+TO:0000477	panicle blast disease resistance	Causal agent: Magnaporthe grisea (Pyricularia oryzae). Symptoms are dark necrotic lesions covering partially or completely around the panicle base (node) or the uppermost internode or the lower part.
+TO:0000478	abscisic acid concentration	Measures the growth hormone concentration in a plant or plant part.
+TO:0000479	acid sensitivity	Plant sensitivity to an acidic (pH<7) growth media.
+TO:0000480	nutrient sensitivity	A growth media composition sensitivity (TO:0000238) which is the plant's response to an excess or deficient amount of the macro or micronutrient in the growth medium (soil/culture media).
+TO:0000481	alkali sensitivity	Plant sensitivity to an alkali (pH>7) growth media.
+TO:0000483	germinability at low temperature	Measure of the seed's germination ability at sub-permissive temperature levels.
+TO:0000484	seed shape	A seed morphology trait (TO:0000184) which is the shape of a seed (PO:0009010).
+TO:0000485	sterility related trait	sterility related trait
+TO:0000486	seed color	A seed morphology trait (TO:0000184) which is the color of a seed (PO:0009010).
+TO:0000487	endosperm color	An endosperm morphology trait (TO:0000575) which is the color of an endosperm (PO:0009089).
+TO:0000490	seed protein content	A protein content trait (TO:0000598) which is the amount of protein (CHEBI:36080) in a seed (PO:0009010).
+TO:0000492	leaf shape	A leaf morphology trait (TO:0000748) which is the variation in shapes and forms of a leaf (PO:0025034).
+TO:0000495	chlorophyll content	A pigment content trait (TO:0000494) which is a measure of the chlorophyll a and/or chlorophyll b content in a plant structure (PO:0009011).
+TO:0000496	carotenoid content	The carotenoid content in a plant or plant part. Includes naturally occurring tetra terpenes that are synthesized only in plants.
+TO:0000497	fertility restoration trait	fertility restoration trait
+TO:0000498	female fertility restoration trait	Describes the extent of female fertility restoration in terms of percent seed set.
+TO:0000499	flower morphology trait	A reproductive shoot system morphology trait (TO:0000786) which is a quality of a  flower (PO:0009046).
+TO:0000501	spikelet weight	A spikelet morphology trait (TO:0000657) which is the weight of a spikelet (PO:0009051).
+TO:0000502	potassium chlorate resistance	Resistance to the KClO3 salt content in the growth medium.
+TO:0000503	leaf rolling time	A leaf rolling trait (TO:0000085) which is the measure of  time taken by the leaf to roll completely under drought or water stress.
+TO:0000504	leaf temperature	A leaf morphology trait (TO:0000748) which is the leaf surface temperature.
+TO:0000505	leaf weight	A leaf morphology trait (TO:0000505) which is the weight of a leaf (PO:0025034).
+TO:0000506	nitrogen recycling	It is a measure of reduced net ammonium production in response to the receipt of photosynthate.
+TO:0000507	osmotic adjustment capacity	The ability of the plant to adust the osmotic potential under stress conditions.
+TO:0000508	penetrated root length	Average maximum length of the root of a plant in a study that have penetrated to a predetermined soil depth.
+TO:0000510	penetrated to total root ratio	A ratio of penetrated to total number of roots in a plant.
+TO:0000511	phosphorus uptake	The total phosphorus ion uptake measured in a plant or a plant part.
+TO:0000512	plant survival percentage under submergence	Percent of plants survived under submerged conditions.
+TO:0000513	potassium concentration	The total potassium ion concentration measured in a plant or a plant part or plant extract.
+TO:0000514	potassium uptake	The total potassium ion uptake measured in a plant or a plant part.
+TO:0000515	relative growth rate	A vigor trait (TO:0000250) that is the increase in aboveground biomass in a defined period of time.
+TO:0000516	relative root length	The relative length of the root determined after a given treatment as compared to the one determined under normal conditions.
+TO:0000517	relative shoot elongation under submergence	Elongation of the shoot under submergence condition against a reference without submergence.
+TO:0000519	rooting depth	It is calculated from the deepest soil layer where roots were present and the longest root measured in the layer.
+TO:0000520	stomatal complex closure rate	The rate of closure of stomata due to stress or coupled to the rate of photosynthesis and/or transpiration.
+TO:0000521	stomatal complex closure time	The amount of time taken for a stomatal complex (PO:0002000) to close.
+TO:0000522	stomatal conductance	It is a numerical measure of the maximum rate of passage of either water vapour or carbon dioxide through the stomata.
+TO:0000523	stomatal resistance	Stomatal resistance (or its inverse, stomatal conductance) can therefore be calculated from the transpiration rate and humidity gradient. (The humidity gradient is the humidity inside the leaf, determined from leaf temperature based on the assumption that the leaf's air spaces are saturated with vapor, minus the humidity of the ambient air, which is measured directly).
+TO:0000524	submergence tolerance	submergence tolerance
+TO:0000525	sodium to potassium content ratio	The ratio of total sodium to potassium ion content measured in a plant or a plant part.
+TO:0000526	sodium concentration	The total sodium ion concentration measured in a given volume of a plant or a plant part or plant extract.
+TO:0000527	sodium uptake	The total sodium ion uptake measured in a plant or a plant part.
+TO:0000528	total shoot elongation under submergence	total shoot elongation under submergence
+TO:0000529	abaxial stomatal frequency	Number of stomata present on the abaxial surface of leaf.
+TO:0000530	adaxial stomatal frequency	Number of stomata present on the adaxial surface of leaf.
+TO:0000531	anther length	An anther morphology trait (TO:1000022) which is the length (PATO:0000122) of an anther (PO:0009066).
+TO:0000532	lemma apiculus hair length	A cardinal organ part morphology trait (TO:0000754) which is the length of the hair of a lemma apiculus (PO:0025616).
+TO:0000534	culm color	Variation in the color of the culm of a grass plant.
+TO:0000536	spikelet floret color	A spikelet floret morphology trait (TO:0000274) which is the color of a spikelet floret (PO:0009082).
+TO:0000537	flower color	A flower morphology trait (TO:0000499) which is the color of the flower (PO:0009046).
+TO:0000538	large vascular bundle number to leaf area ratio	A ratio of the large sized vascular bundles to the leaf surface area.
+TO:0000539	large vascular bundle number	Number of the large sized vascular bundles.
+TO:0000540	leaf area trait	A leaf morphology trait (TO:0000748) which is the total area of a leaf (PO:0025034).
+TO:0000541	leaf position	A leaf morphology trait (TO:0000748) which is the position of the leaf (PO:0025034) on the plant.
+TO:0000542	leaf length to width ratio	A leaf morphology trait (TO:0000748) which is the ratio of leaf length (TO:0000135) to leaf width (TO:0000370).
+TO:0000543	leaf nitrogen content	A leaf composition trait (TO:0000493) which is the amount of nitrogen (CHEBI:51143) in the leaf (PO:0025034).
+TO:0000544	mesocotyl length	A mesocotyl morphology trait (TO:0000758) which is the length of a mesocotyl (PO:0020037).
+TO:0000545	panicle base to lowest branch	A panicle inflorescence morphology trait (TO:0000847) which is the length of the region between the panicle base to the lowest (the first) primary panicle branch.
+TO:0000546	peduncle top diameter	A peduncle morphology trait (TO:0000776) which is the diameter at the tip of the peduncle (PO:0009053).
+TO:0000547	primary branch number	A primary branch of inflorescence (TO:0000052) trait which is the number of primary branches present in the inflorescence (PO:0009049).
+TO:0000548	rhizome number	A shoot system morphology trait (TO:0000077) which is the number of rhizomes present in a shoot system (PO:0009006).
+TO:0000549	rhizome morphology trait	A shoot axis morphology trait (TO:0000739) which is a quality of a rhizome (PO:0004542).
+TO:0000550	rhizome branch angle	A rhizome morphology trait (TO:0000549) which is the angle of a branch (PO:0025073) on a rhizome (PO:0004542) .
+TO:0000551	rhizome branch number	A rhizome morphology trait (TO:0000549) which is the number of branches (PO:0025073) on a rhizome (PO:0004542).
+TO:0000552	shoot dry weight	The dry weight of the shoot without inflorescence.
+TO:0000553	rhizome length	A rhizome morphology trait (TO:0000549) which is the length of a rhizome (PO:0004542).
+TO:0000554	rhizome internode length	A rhizome morphology trait (TO:0000549) which is the length of a rhizome internode (PO:0025204).
+TO:0000555	rhizome internode number	A rhizome morphology trait (TO:0000549) which is the number of rhizome internodes (PO:0025204).
+TO:0000556	rhizome dry weight	A rhizome morphology trait (TO:0000549) which is the dry weight of a rhizome (PO:0004542).
+TO:0000557	secondary branch number	A secondary branching of inflorescence (TO:0000142) trait which is the number of secondary branches in an inflorescence (PO:0009049).
+TO:0000558	small vascular bundle number	Number of small sized vascular bundles present in a plant part.
+TO:0000559	plant volume	Space occupied by the plant.
+TO:0000560	space per culm	Space occupied by each culm or the tiller in a plant.
+TO:0000561	space to culm ratio	A ratio of total space or volume occupied by the whole plant to the total number of culms or tiller in the plant.
+TO:0000562	specific leaf area	A leaf area trait (TO:0000540) that is the ratio of the leaf area to the leaf weight (TO:0000505).
+TO:0000563	spikelet length to width ratio	A spikelet morphology trait (TO:0000657) which is the ratio of length to the width of a spikelet (PO:0009051).
+TO:0000564	spikelet width	A spikelet morphology trait (TO:0000657) which is the width of the spikelets (PO:0009051) present in a grass inflorescence.
+TO:0000565	spikelets per panicle length	Number of spikelets present in the rice panicle per unit length.
+TO:0000566	leaf stomatal complex frequency	A vascular leaf morphology trait (TO:0000419) which is the number of leaf stomatal complexes (PO:0025183) present on the leaf surface.
+TO:0000567	tiller angle	tiller angle
+TO:0000568	shoot axis weight	Weight of the shoot without inflorescence.
+TO:0000569	white-backed planthopper egg mortality	white-backed planthopper egg mortality
+TO:0000570	watery lesion percentage	watery lesion percentage
+TO:0000571	shoot fresh weight	Fresh weight of the shoot without inflorescence.
+TO:0000572	petal color	A petal morphology trait (TO:0000863) which is the color of a petal (PO:0009032).
+TO:0000573	sepal color	A sepal morphology trait (TO:0000864) which is the color of a sepal (PO:0009031) in a flower (PO:0009049).
+TO:0000574	tepal color	A tepal morphology trait (TO:0000865) which is the color of a tepal (PO:0009033).
+TO:0000575	endosperm morphology trait	A portion of plant tissue morphology trait (TO:0000843) which is a quality of an endosperm (PO:0009089).
+TO:0000576	stem length	A stem morphology trait (TO:0000361) which is the length of the stem (PO:0009047).
+TO:0000577	stem angle	A stem morphology trait (TO:0000361) which is the angle of a stem (PO:0009047).
+TO:0000578	root fresh weight	The average fresh weight of the root determined in a study.
+TO:0000579	root dry weight to tiller number ratio	The trait is an indirect measure of the balance between water absorption and transpiration.
+TO:0000580	cytoplasmic male sterility	cytoplasmic male sterility
+TO:0000581	inflorescence color	An inflorescence morphology trait (TO:0000373) which is the color of an inflorescence (PO:0009049).
+TO:0000582	inflorescence number	A reproductive shoot system morphology trait (TO:0000786) which is the number of inflorescences (PO:0009049).
+TO:0000583	infructescence weight	An infructescence morphology trait (TO:0000920) that is the average weight (mass) of an infructescence bearing mature fruit (PO:0009001).
+TO:0000586	seminal root length	A root length (TO:0000227) that is the length of one or more seminal roots (PO:0000046).
+TO:0000587	endosperm quality	A seed quality trait (TO:0000931) which is the quality of the endosperm (PO:0009089) texture, content, composition, size, etc.
+TO:0000589	average grain weight	A grain weight (TO:0000919) which is the average weight of a grain (caryopsis fruit; PO:0030104), including the caryopsis hull (PO:0006000).
+TO:0000598	protein content	A metabolite content trait (TO:0000281) which is the amount of protein (CHEBI:36080) in a plant structure (PO:0009011)." [Gramene:pankaj_jaiswal37] {comment="TO:Laurel_Cooper
+TO:0000600	UV-A light sensitivity	Response shown by the plant in the presence of UV-A light stress.
+TO:0000601	UV-B light sensitivity	Response shown by the plant in the presence of UV-B light stress.
+TO:0000602	total fat content	The total fat or lipid content of present in the plant or the plant part such as seed.
+TO:0000603	magnesium to potassium content ratio	The ratio of total magnesium to potassium ion content measured in a plant or a plant part.
+TO:0000605	hydrogen peroxide content	An assay to determine the content of hydrogen peroxide or the peroxide reactive ions.
+TO:0000606	diastatic power	An assay to determine the joint action of alpha-amylase, beta-amylase and any other carbohydrate-degrading enzymes.
+TO:0000607	ash content	The total mineral or ion content measured after drying and burning the plant or a plant part.
+TO:0000608	sodium content	A mineral and ion content trait (TO:0000465) which is the sodium cation (CHEBI:29101) composition in a plant structure (PO:0009011).
+TO:0000609	potassium content	A mineral and ion content trait (TO:0000465) which is the potassium cation (CHEBI:29103) composition in a plant structure (PO:0009011).
+TO:0000610	soluble to total protein ratio	The ratio of soluble protein to total protein content is a measure of the degree of proteolysis.
+TO:0000612	grain density	A caryopsis fruit morphology trait (TO:0001079) which is a measure of the density or weight per unit of volume of a grain at a standardized moisture level.
+TO:0000614	lemma shape	A lemma morphology trait (TO:1000023) which is the shape of the lemma (PO:0009037).
+TO:0000615	abscisic acid sensitivity	Response with respect to application of abscisic acid.
+TO:0000616	leaf perimeter	It is a measure of the total length covered by the leaf margin.
+TO:0000617	colored grain percentage	A grain color (TO:0002617) trait which is the percentage of colored grains.
+TO:0000618	crushed grain percentage	The percentage of cracked dehulled grain with at least one fourth of the size still intact.
+TO:0000619	vivipary	A phenomenon associated to the seeds that germinate before becoming detached or harvested from the parent plant. Thus the germination occurs before the seed undergoes dormancy.
+TO:0000621	inflorescence development trait	Traits associated with observing effects on the development of the inflorescence and its parts.
+TO:0000622	flower development trait	Traits associated with observing effects on the development of the flower and its parts.
+TO:0000623	involucre bristle length	An inflorescence bristle length trait (TO:0000643) that is the length of the bristles found on an involucre (PO:0009100).
+TO:0000624	allelopathic effect	This is an assay of any direct or indirect, harmful or beneficial effect of one plant on another through the production of chemical compounds (allelochemicals) that escape in the environment.
+TO:0000625	spikelet density	A spikelet morphology trait (TO:0000657) which is the density of a spikelet (PO:0009051) in the inflorescence (PO:0009049) or on the given inflorescence branch (PO:0009081) order.
+TO:0000626	relative phosphorus distribution between shoot and root	relative phosphorus distribution between shoot and root
+TO:0000627	relative phosphorus utilization efficiency	relative phosphorus utilization efficiency
+TO:0000629	days to tassel	It is determined as the number of days from the seed sowing to the stage when either the pollen shedding or anther exsertion occurs on the maize tassel.
+TO:0000630	pedicel length	Length of the pedicel.
+TO:0000631	green plantlet differentiation frequency	green plantlet differentiation frequency
+TO:0000632	green plantlet yield frequency	green plantlet yield frequency
+TO:0000634	stem node number	A stem morphology trait (TO:0000361) which is the number of stem nodes (PO:0020141).
+TO:0000635	popping expansion volume	popping expansion volume
+TO:0000636	relative shoot dry weight	relative shoot dry weight
+TO:0000638	spike width	An inflorescence width (TO:0000804) trait which is the width of a spike inflorescence (PO:0030117).
+TO:0000639	seed fertility	seed fertility
+TO:0000640	total root number	Total sum of number of roots in a plant derived per experiment.
+TO:0000641	inflorescence primary branch length	An inflorescence primary branch morphology trait (TO:0000846) which the length of a second order inflorescence axis (PO:0006321).
+TO:0000642	leaf sheath diameter	A leaf sheath morphology trait (TO:0000835) which is the measurement, in centimeters of the leaf sheath (PO:0020104) diameter.
+TO:0000643	inflorescence bristle length	An inflorescence morphology trait (TO:0000050) that is the length of the bristles found on an inflorescence (PO:0009049).
+TO:0000644	relative root dry weight	The relative (dry)weight of the root determined after a given treatment as compared to the one determined under normal conditions.
+TO:0000645	relative phosphorus concentration	relative phosphorus concentration
+TO:0000646	cauline axillary branch number	cauline axillary branch number
+TO:0000647	relative acid phosphatase activity	relative acid phosphatase activity
+TO:0000648	relative phosphorus uptake	relative phosphorus uptake
+TO:0000649	peduncle width	A peduncle morphology trait (TO:0000776) which is the width of a peduncle (PO:0025386).
+TO:0000650	lemma length	A lemma morphology trait (TO:1000023) which is the length of the lemma (PO:0009037).
+TO:0000651	flour color	flour color
+TO:0000652	leaf necrosis	A leaf morphology trait (TO:0000748) which is the leaf surface area affected by abiotic stresses like insecticides and cold temperature as evidenced by chlorotic and/or necrotic tissue.
+TO:0000657	spikelet morphology trait	An inflorescence morphology trait (TO:0000373) which is a quality of a spikelet (PO:0009051).
+TO:0000658	days to silk	It is determined as the number of days from the seed sowing to the first visible silk (stigma) on the maize ear.
+TO:0000659	phyllochron	The time interval between the appearance of successive leaves (days/leaf) on the developing shoot.
+TO:0000660	axillary bud dormancy	axillary bud dormancy
+TO:0000661	tiller bud dormancy	tiller bud dormancy
+TO:0000664	fungal blight disease resistance	fungal blight disease resistance
+TO:0000665	grain core area white	Measurement of the whitish area found in the dehulled grain.
+TO:0000668	mycotoxin content	Measuring amount of toxins found in the host plant after the infection by a fungal pathogen. The toxin is produced by the pathogen.
+TO:0000669	deoxynivalenol content	Measuring amount of mycotoxin deoxynivalenol found in the host plant after the infection by a fungus Fusarium sp.
+TO:0000670	floret number	The number of flowers present on a inflorescence branch or in the inflorescence itself.
+TO:0000671	pre-flowering flower abortion	pre-flowering flower abortion
+TO:0000672	bran percentage	bran percentage
+TO:0000673	tetraploid wheat fusarium head blight resistance	Caused by Fusarium graminearum Schwabe (telomorph: Gibberella zeae), in the USA and Canada. It causes severe yield and quality losses in wheat (Triticum turgidum).
+TO:0000675	ferulic acid content	Amount of ferulic acid content determined in a given plant part. Ferulic acid is an antioxidant which neutralizes free radicals (superoxide, nitric oxide and hydroxyl radical) which could cause oxidative damage of cell membranes and DNA. Ferulic acid helps to prevent damage to the cells caused by ultraviolet light.
+TO:0000676	style color	Style color is determined from blooming flowers or florets.
+TO:0000677	third leaf position	A leaf position (TO:0000541) which is the position of the third leaf (PO:0025034) on a plant.
+TO:0000678	cob diameter	An infructescence axis morphology trait (TO:0000921) which is the diameter of a cob.
+TO:0000680	inflorescence circumference	An inflorescence morphology trait (TO:0000373) trait which is the circumference of an inflorescence (PO:0009049).
+TO:0000681	ear circumference	An ear infructescence morphology trait (TO:0000976) that is the circumference of an ear infructescence (PO:0025597).
+TO:0000682	inflorescence height	An inflorescence morphology trait (TO:0000373) which is the height of an inflorescence (PO:0009049) measured from ground to the attachment point.
+TO:0000683	ear infructescence position	An ear infructescence morphology trait (TO:0000976) which is the position of an ear infructescence (PO:0025597).
+TO:0000684	grassy flavor	An assay to test for aroma and flavor reminiscent of freshly cut grass.
+TO:0000685	fruit tenderness	An assay for the soft and juicy texture.
+TO:0000686	juiciness	An assay for a juicy appetizingness.
+TO:0000687	kernel row number per ear	An infructescence morphology trait (TO:0000920) which is the number of rows of kernels per ear infructescence (PO:0025597).
+TO:0000688	kernel row length	A infructescence yield trait (TO:0000936) which is the length of a kernel row from base to where kernels end on the ear infructescence (PO:0025597).
+TO:0000689	grain tenderness	grain tenderness
+TO:0000690	maysin content	Measures the maysin content in a plant or plant part.
+TO:0000691	Zea mays northern leaf blight disease resistance	Causal agent: Setosphaeria turcica.
+TO:0000692	NCLB incubation period	NCLB incubation period
+TO:0000693	NCLB area under disease progress curve	NCLB area under disease progress curve
+TO:0000695	leaf margin color	A leaf margin morphology trait (TO:0002635) which is the color of a leaf margin (PO:0020128).
+TO:0000696	starch content	Amount of starch present in the plant or plant part.
+TO:0000697	starch yield	A yield trait (TO:0000371) which is the yield of starch from a plant structure (PO:0009011).
+TO:0000698	starchiness	starchiness
+TO:0000699	sucrose synthase activity trait	Catalysis of the reaction: UDP-glucose + D-fructose = UDP + sucrose.
+TO:0000700	fruit sweetness	The quality of having the pleasant taste characteristic of sugar.
+TO:0000701	turgor pressure	The pressure within the cell resulting from the absorption of water into the vacuole and the imbibition of water by the protoplasm.
+TO:0000702	starch concentration	Concentration of starch present in the plant or plant part.
+TO:0000703	amylase activity trait	An enzyme activity trait (TO:0000599) which is the quality of the hydrolysis of amylose or an amylose derivative by amylase.
+TO:0000704	phosphatase activity trait	Catalysis of the hydrolysis of phosphoric monoesters, releasing inorganic phosphate.
+TO:0000705	acid phosphatase activity trait	Catalysis of the reaction: an orthophosphoric monoester + H2O = an alcohol + phosphate.
+TO:0000706	hull color	A collective phyllome structure morphology trait (TO:0000845) that is the color of a caryopsis hull (PO:0006000).
+TO:0000707	pericarp color	A pericarp morphology trait (TO:0000945) that is the color of the pericarp (PO:0009084).
+TO:0000708	plant color	A whole plant morphology trait (TO:0000398) which is the color of a whole plant (PO:0000003).
+TO:0000709	leaf gloss	A leaf morphology trait (TO:0000748) which is the appearance of glossiness of the leaf surface. Contributed by change in either the amount or content of cuticle wax (PO:0025386) on a leaf (PO:0025034).
+TO:0000710	globulin protein content	Assay to detrmine the amount of globulin proteins.
+TO:0000711	imidazolinone sensitivity	An assay to determine the tolerance exhibited by a plant or a group of plants (population) towards the applied herbicide imidazolinone.
+TO:0000712	sulfonylurea herbicide sensitivity	An assay to determine the tolerance exhibited by a plant or a group of plants (population) towards the applied herbicide sulfonylurea.
+TO:0000713	brittle endosperm	An endosperm morphology trait (TO:0000575) which is a brittle endosperm (PO:0009089).
+TO:0000714	seminal rootless	Absence of seminal roots in the plant.
+TO:0000715	fascicled ear	In maize ears, the floral meristems undergo repeated dichotomous branching, resulting in fascicled (highly branched and bundled or clustered) ears.
+TO:0000716	etched endosperm	An endosperm morphology trait (TO:0000575) which is an etched endosperm (PO:0009089).
+TO:0000717	rough endosperm	An endosperm morphology trait (TO:0000575) which is a rough endosperm (PO:0009089).
+TO:0000718	wrinkled grain	A grain quality trait (TO:0000162) where the grain (caryopsis fruit; PO:0030104) has a wrinkled appearance, usually from a lack of starch accumulation.
+TO:0000719	leaf vein color	A leaf vein morphology trait (TO:0000820) which is the color of a leaf lamina vein (PO:0020138).
+TO:0000720	leaf midrib color	A leaf midvein morphology trait (TO:0000822) which is the color of the leaf midvein (PO:0020139).
+TO:0000721	leaf adherence	A leaf morphology trait (TO:0000748) which is a tightly rolled leaf encasing the next emerging leaf (PO:0025034).
+TO:0000722	sporocyte development trait	Traits associated with observing effects on the sporocyte development.
+TO:0000723	microsporocyte development trait	Traits associated with observing effects on the microsporocyte development.
+TO:0000724	megasporocyte development trait	Traits associated with observing effects on the megasporocyte development.
+TO:0000725	megasporocyte number	A count of the number of megasporocyte that is done to determine any increase or decrease in number.
+TO:0000726	microsporocyte number	A count of the number of microsporocyte that is done to determine any increase or decrease in number.
+TO:0000728	cell cycle trait	The traits associated with various developmental landmarks and processes of cell division during either the meiotic cell cycle or mitotic cell cycle.
+TO:0000729	meiotic cell cycle trait	The traits associated with various developmental landmarks and processes of cell division during either the meiotic cell cycle.
+TO:0000730	mitotic cell cycle trait	The traits associated with various developmental landmarks and processes of cell division during the mitotic cell cycle.
+TO:0000731	lignin content	Measures the lignin content in a plant or plant part.
+TO:0000732	lignin monomer content	lignin monomer content
+TO:0000733	lignin biosynthesis trait	Traits associated with the biosynthesis of lignin in a plant or plant part.
+TO:0000734	grain length	A caryopsis fruit morphology trait (TO:0001079) which is the length of a grain (caryopsis fruit; PO:0030104).
+TO:0000735	plastochron	The time between the initiation of two leaves on the shoot apical meristem is called a plastochron.
+TO:0000742	subterranean shoot axis tuber morphology trait	A tuber morphology trait (TO:0000741) which is a quality of a subterranean shoot axis tuber (PO:0004547).
+TO:0000743	subterranean shoot axis tuber shape	A subterranean shoot axis tuber morphology trait (TO:0000742) which is the shape of a subterranean  shoot axis tuber (PO:0004547).
+TO:0000744	subterranean shoot axis tuber size	A subterranean  shoot axis tuber morphology trait (TO:0000742) which is the size of a subterranean  shoot axis tuber (PO:0004547).
+TO:0000745	subterranean shoot axis tuber appearance	A subterranean shoot axis tuber morphology trait (TO:0000742) which is the appearance of a subterranean shoot axis tuber (PO:0004547).
+TO:0000746	subterranean shoot axis tuber mass	A subterranean shoot axis tuber morphology trait (TO:0000742) which is the mass of a subterranean shoot axis tuber (PO:0004547).
+TO:0000750	seedling cotyledon color	A seedling cotyledon morphology trait (TO:0000774) which is the color of a seedling cotyledon (PO:0025471).
+TO:0000751	seedling cotyledon number	A seedling cotyledon morphology trait (TO:0000774) which is the number of seedling cotyledons (PO:0025471).
+TO:0000752	seedling cotyledon size	A seedling cotyledon morphology trait (TO:0000774) which is the size of a seedling cotyledon (PO:0025471).
+TO:0000753	coleoptile morphology trait	A plant organ morphology trait (TO:0000736) which is a quality of a coleoptile (PO:0020033).
+TO:0000754	cardinal organ part morphology trait	A cardinal organ part of a multi-tissue plant structure morphology trait (TO:0000837) which is a quality of a cardinal organ part (PO:0025001).
+TO:0000755	shoot axis internode morphology trait	A cardinal organ part morphology trait (TO:0000754) which is a quality of a shoot axis internode (PO:0005005).
+TO:0000759	seedling hypocotyl color	A seedling hypocotyl morphology trait (TO:0000769) which is the color of a seedling hypocotyl (PO:0025291).
+TO:0000760	seedling hypocotyl green	A seedling hypocotyl color trait (TO:0000759) where a hypocotyl (PO:0020100) is observed to have the color green.
+TO:0000761	seedling hypocotyl green with bronze band	A seedling hypocotyl color trait (TO:0000759) where a hypocotyl (PO:0020100) is observed to have the color green with a bronze band.
+TO:0000762	seedling hypocotyl purple	A seedling hypocotyl color trait (TO:0000759) where a hypocotyl (PO:0020100) is observed to have the color purple.
+TO:0000763	seedling hypocotyl dark purple	A seedling hypocotyl color trait (TO:0000759) where a hypocotyl (PO:0020100) is observed to have the color dark purple.
+TO:0000764	stalk morphology trait	A cardinal organ part morphology trait (TO:0000754) which is a quality of a stalk (PO:0025066).
+TO:0000766	petiole length	A petiole morphology trait (TO:0000765) which is the length of a petiole (PO:0020038).
+TO:0000767	petiole shape	A petiole morphology trait (TO:0000765) which is the shape of a petiole (PO:0020038).
+TO:0000768	petiole size	A petiole morphology trait (TO:0000765) which is the size of a petiole (PO:0020038).
+TO:0000770	bacterial blight disease resistance	A bacterial disease resistance (TO:0000315) that is involved in the response to bacterial blight disease.
+TO:0000771	embryo hypocotyl morphology trait	A hypocotyl morphology trait (TO:0000757) which is a quality of an embryo hypocotyl (PO:0025290).
+TO:0000772	seedling mesocotyl morphology trait	A mesocotyl morphology trait (TO:0000758) which is a quality of a seedling mesocotyl (PO:0025295).
+TO:0000773	embryo mesocotyl morphology trait	A mesocotyl morphology trait (TO:0000758) which is a quality of an embryo mesocotyl (PO:0025294).
+TO:0000774	seedling cotyledon morphology trait	A cotyledon morphology trait (TO:0000749) which is a quality of a seedling cotyledon (PO:0025471).
+TO:0000781	seedling hypocotyl size	A seedling hypocotyl morphology trait (TO:0000769) which is the size of a seedling hypocotyl (PO:0025291).
+TO:0000782	inflorescence axis morphology trait	A shoot axis morphology trait (TO:0000739) which is a quality of an inflorescence axis (PO:0020122).
+TO:0000783	inflorescence axis size	An inflorescence axis morphology trait (TO:0000782) which is the size of an inflorescence axis (PO:0020122).
+TO:0000787	inflorescence waxiness	An inflorescence morphology trait (TO:0000373) which is the waxiness of an inflorescence (PO:0009049).
+TO:0000790	axillary bud morphology trait	A bud morphology trait (TO:0000789) which is a quality of an axillary bud (PO:0004709).
+TO:0000791	axillary bud size	An axillary bud morphology trait (TO:0000790) which the size of an axillary bud (PO:0004709).
+TO:0000792	axillary bud number	An axillary bud morphology trait (TO:0000790) which is the number of axillary buds (PO:0004709) on a stalk or stem.
+TO:0000793	axillary bud shape	An axillary bud morphology trait (TO:0000790) which is the shape of an axillary bud (PO:0004709).
+TO:0000794	axillary bud prominence	An axillary bud morphology trait (TO:0000790) which is the prominence of an axillary bud (PO:0004709).
+TO:0000795	tassel inflorescence color	A tassel inflorescence morphology trait (TO:0000788) which is the color of a tassel inflorescence (PO:0020126).
+TO:0000796	tassel inflorescence circumference	A tassel inflorescence morphology trait (TO:0000788) which is the circumference of a tassel inflorescence (PO:0020126).
+TO:0000797	tassel inflorescence height	A tassel inflorescence morphology trait (TO:0000788) which is the height of a tassel inflorescence (PO:0020126).
+TO:0000798	tassel inflorescence length	A tassel inflorescence morphology trait (TO:0000788) which is the length of a tassel inflorescence (PO:0020126).
+TO:0000799	tassel inflorescence diameter	A tassel inflorescence morphology trait (TO:0000788) which is the diameter of a tassel inflorescence (PO:0020126).
+TO:0000800	inflorescence density	An inflorescence morphology trait (TO:0000373) which is the density of an inflorescence (PO:0009049).
+TO:0000801	inflorescence depth	An inflorescence morphology trait (TO:0000373) which is the depth of an inflorescence (PO:0009049).
+TO:0000802	inflorescence diameter	An inflorescence morphology trait (TO:0000373) which is the diameter of an inflorescence (PO:0009049).
+TO:0000803	inflorescence weight	An inflorescence morphology trait (TO:0000373) which is the weight of an inflorescence (PO:0009049).
+TO:0000804	inflorescence width	An inflorescence morphology trait (TO:0000373) which is the width of an inflorescence (PO:0009049).
+TO:0000805	inflorescence texture	An inflorescence morphology trait (TO:0000373) which with the texture of an inflorescence (PO:0009049).
+TO:0000812	tassel branch dry weight	A tassel branch morphology trait (TO:0000785) which is the dry weight of a tassel branch (PO:0006323) prior to pollen shed.
+TO:0000813	tassel branch number	A tassel branch morphology trait (TO:0000785) which is the number of tassel branches (PO:0006323).
+TO:0000814	tassel inflorescence type	A tassel inflorescence morphology trait (TO:0000788) which is the type of tassel inflorescence (PO:0020126).
+TO:0000817	inflorescence bract length	An inflorescence bract morphology trait (TO:0000816) which is the length of an inflorescence bract (PO:0009054).
+TO:0000818	inflorescence bract cover	An inflorescence bract morphology trait (TO:0000816) which is the cover of an inflorescence bract (PO:0009054) measured as percentage of plants with ears that are not completely covered by the inflorescence bracts.
+TO:0000819	inflorescence bract color	An inflorescence bract morphology trait (TO:0000819) which is  the color of an inflorescence bract (PO:0009054).
+TO:0000820	leaf vein morphology trait	A vascular leaf morphology trait (TO:0000419) which is a quality of a leaf lamina vein (PO:0020138).
+TO:0000821	leaf vein size	A leaf vein morphology trait (TO:0000820) which is the size of a leaf lamina vein (PO:0020138).
+TO:0000822	leaf midvein morphology trait	A leaf vein morphology trait (TO:0000820) which is a quality of a leaf midvein (PO:0020139).
+TO:0000823	leaf midvein thickness	A leaf midvein morphology trait (TO:0000822) which is the thickness of a leaf midvein (PO:0020139).
+TO:0000824	leaf attitude	A leaf morphology trait (TO:0000748) which is the attitude of a leaf (PO:0025034).
+TO:0000825	leaf flexibility	A leaf morphology trait (TO:0000748) which is the flexibility of a leaf (PO:0025034).
+TO:0000826	leaf volume	A leaf morphology trait (TO:0000748) which is the volume of a leaf (PO:0025034).
+TO:0000827	leaf lamina area	A leaf lamina morphology trait (TO:0000829) which is the area of a leaf lamina (PO:0020039).
+TO:0000828	leaf cover	A leaf morphology trait (TO:0000748) which is a quality of the cover of a leaf (PO:0025034).
+TO:0000830	leaf lamina margin morphology trait	A leaf margin morphology trait (TO:0002635)which is a quality of a leaf lamina margin (PO:0025009).
+TO:0000832	flag leaf morphology trait	An adult vascular leaf morphology trait (TO:0000831) which is a quality of a flag leaf (PO:0020103).
+TO:0000835	leaf sheath morphology trait	A cardinal organ part morphology trait (TO:0000754) which is a quality of a leaf sheath (PO:0020104).
+TO:0000838	seed coat morphology trait	A portion of plant tissue morphology trait (TO:0000843) which is a quality of the seed coat (PO:0009088).
+TO:0000848	fruit diameter	A fruit size trait (TO:0002625) which is the diameter of a fruit (PO:0009001).
+TO:0000849	fruit attachment	A fruit morphology trait (TO:0002629) which is the attachment of a fruit (PO:0009001).
+TO:0000850	fruit type	A fruit morphology trait (TO:0002629) which is the type of a fruit (PO:0009001).
+TO:0000851	fruit hairiness	A fruit morphology trait (TO:0002629) which is the presence or absence of hair on a fruit (PO:0009001).
+TO:0000852	fruit set trait	A fruit growth and development trait (TO:0000929) which is the absence or presence of a fruit (PO:0009001).
+TO:0000853	spikelet floret shape	A spikelet floret morphology trait (TO:0000274) which is the shape of a spikelet floret (PO:0009082).
+TO:0000854	spikelet floret size	A spikelet floret morphology trait (TO:0000274) which is the size of a spikelet floret (PO:0009082).
+TO:0000855	spikelet floret diameter	A spikelet floret morphology trait (TO:0000274) which is the diameter of a spikelet floret (PO:0009082).
+TO:0000858	flower diameter	A flower morphology trait (TO:0000499) which is the diameter of a flower (PO:0009046).
+TO:0000859	flower shape	A flower morphology trait (TO:0000499) which is the shape of a flower (PO:0009046).
+TO:0000860	flower length	A flower morphology trait (TO:0000499) which is the length of a flower (PO:0009046).
+TO:0000861	flower abscission zone morphology trait	A flower morphology trait (TO:0000499) which is a quality of the flower abscission zone (PO:0006502).
+TO:0000862	floral organ morphology trait	A plant organ morphology trait (TO:0000736) which is a quality of a floral organ (PO:0025395).
+TO:0000863	petal morphology trait	A phyllome morphology trait (TO:0000747) which is a quality of a petal (PO:0009032).
+TO:0000864	sepal morphology trait	A phyllome morphology trait (TO:0000747) which is a quality of a sepal (PO:0009031).
+TO:0000865	tepal morphology trait	A phyllome morphology trait (TO:0000747) which is a quality of a tepal (PO:0009033).
+TO:0000866	sporophyll morphology trait	A phyllome morphology trait (TO:0000747) which is a quality of a sporophyll (PO:0009026).
+TO:0000867	megasporophyll morphology trait	A sporophyll morphology trait (TO:0000866) which is a quality of a megasporophyll (PO:0009027).
+TO:0000868	microsporophyll morphology trait	A sporophyll morphology trait (TO:0000866) which is a quality of a microsporophyll (PO:0009028).
+TO:0000869	glume morphology trait	An inflorescence bract morphology trait (TO:0000816) which is a quality of a glume (PO:0009039).
+TO:0000870	leaf yield trait	A shoot system yield trait (TO:0000327) which is comprised of leaves (PO:0025034) or parts of leaves.
+TO:0000871	fruit yield trait	A shoot system yield trait (TO:0000327) which is the yield of fruits (PO:0009001).
+TO:0000872	leaf erect	A leaf attitude (TO:0000824) which is a leaf held upright away from the substrate or host.
+TO:0000873	leaf prostrate	A leaf attitude (TO:0000824) which is a leaf hanging straight down.
+TO:0000874	leaf penduloum	A leaf attitude (TO:0000824) which is a leaf laying flat against the substrate or host.
+TO:0000875	leaf lamina splitting	A leaf lamina morphology trait (TO:0000829) which is the splitting of a leaf lamina (PO:0020039).
+TO:0000879	stem hairiness	A stem morphology trait (TO:0000361) which is the presence or absence of hair on the stem (PO:0009047).
+TO:0000880	seed coat length	A seed coat morphology trait (TO:0000838) which is the length of the seed coat (PO:0009088).
+TO:0000881	flower type	A flower morphology trait (TO:0000499) which is the type of a flower (PO:0009046).
+TO:0000882	cleistogamus flower	A flower type trait (TO:0000881) which is a flower (PO:0009046) that does not open and favors self pollination.
+TO:0000883	chasmogamous flower	A flower type trait (TO:0000881) which is a flower (PO:0009046) that opens exposing anthers (PO:0009066) and/or pistil.
+TO:0000884	petiolule morphology trait	A stalk morphology trait (TO:0000764) which is a quality of a petiolule (PO:0020050).
+TO:0000885	petiolule color	A petiolule morphology trait (TO:0000884) which is the color of the petiolule (PO:0020050).
+TO:0000886	petiolule shape	A petiolule morphology trait (TO:0000884) which is the shape of the petiolule (PO:0020050).
+TO:0000887	petiolule length	A petiolule morphology trait (TO:0000884) which is the length of the petiolule (PO:0020050).
+TO:0000888	seed coat luster	A seed coat morphology trait (TO:0000838) which is the luster of the seed coat (PO:0009088).
+TO:0000889	seed coat hardness	A seed coat morphology trait (TO:0000838) which is the hardness of the seed coat (PO:0009088).
+TO:0000890	seed coat proportion	A seed coat morphology trait (TO:0000838) which is the relative proportion of seed coat (PO:0009088) to cotyledon (PO:0020030).
+TO:0000891	leaf wet weight	A leaf weight trait (TO:0000505) which is the the measure of the wet weight of a leaf (PO:0025034).
+TO:0000892	stem size	A stem morphology trait (TO:0000361) which is the size of a stem (PO:0009047).
+TO:0000893	stem shape	A stem morphology trait (TO:0000361) which is the shape of a stem (PO:0009047).
+TO:0000894	fruit number trait	An infructescence morphology trait (TO:0000920) which is the number of fruits (PO:0009001).
+TO:0000895	fruit harvest index	A harvest index (TO:0000128) which is the percent of usable fruit (PO:0009001).
+TO:0000896	leaf harvest index	A harvest index (TO:0000128) which is the percent of usable leaves (PO:0025034).
+TO:0000897	seed harvest index	A harvest index (TO:0000128) which is the percent of usable seeds (PO:0009010).
+TO:0000898	root nodule morphology trait	A cardinal organ part morphology trait (TO:0000754) which is a quality of a root nodule (PO:0003023).
+TO:0000899	root nodule weight	A root nodule morphology trait (TO:0000898) which is the weight of a root nodule (PO:0003023).
+TO:0000900	root nodule number	A root nodule morphology trait (TO:0000898) which is the number of root nodules (PO:0003023).
+TO:0000901	dry fruit color	A fruit color (TO:0002617) which is the color of a fruit (PO:0009001) that has been dried.
+TO:0000902	seed coat pigment bleeding	A seed coat morphology trait (TO:0000838) which is the bleeding of pigment in a seed coat (PO:0009088).
+TO:0000903	seed coat texture	A seed coat morphology trait (TO:0000838) which is the texture of a seed coat (PO:0009088).
+TO:0000904	seed coat pattern	A seed coat morphology trait (TO:0000838) which is the pattern of a seed coat (PO:0009088).
+TO:0000905	seed yield trait	A shoot system yield trait (TO:0000327) which is the yield of seeds (PO:0009010).
+TO:0000907	exocarp thickness	An exocarp morphology trait (TO:0000906) which is the thickness of the exocarp (PO:0009085).
+TO:0000908	fruit hollowness	A fruit morphology trait (TO:0002617) which is the hollowness of a fruit (PO:0009001).
+TO:0000909	fruit color uniformity	A fruit color trait (TO:0002617) which is the uniformity of the color (PATO:0000122) of the fruit (PO:0009001) .
+TO:0000910	fruit bitterness trait	A fruit flavor trait (TO:0002694) which is the bitter fruit flavor.
+TO:0000911	trichome morphology trait	A plant structure morphology trait (TO:0000839) which is a quality of a trichome (PO:0000282).
+TO:0000912	trichome appressed	A trichome morphology trait (TO:0000911) which is a trichome (PO:0000282) lying close to and flat against a surface of a plant structure (PO:0009011).
+TO:0000913	trichome acircular	A trichome morphology trait (TO:0000911) which is a needle-shaped trichome (PO:0000282).
+TO:0000914	trichome canescent	A trichome morphology trait (TO:0000911) which is a gray-haired and hoary trichome (PO:0000282).
+TO:0000915	trichome capillary	A trichome morphology trait (TO:0000911) which is a very slender or hair-like trichome (PO:0000282).
+TO:0000916	trichome clavate	A trichome morphology trait (TO:0000911) which is a club-shaped trichome (PO:0000282).
+TO:0000917	trichome ensiform	A trichome morphology trait (TO:0000911) which is  a sword-shaped trichome (PO:0000282).
+TO:0000918	trichome hirsute	A trichome morphology trait (TO:0000911) which is a rough trichome (PO:0000282).
+TO:0000919	grain weight	A caryopsis fruit morphology trait (TO:0001079) which is the weight of a caryopsis fruit (grain or kernel; PO:0030104).
+TO:0000920	infructescence morphology trait	A reproductive shoot system morphology trait (TO:0000786) which is a quality of the infructescence (PO:0006342).
+TO:0000921	infructescence axis morphology trait	A shoot axis morphology trait (TO:0000739) which is a quality of an infructescence axis (PO:0025242).
+TO:0000922	cob weight	An infructescence axis morphology trait (TO:0000921) which is the weight of a cob.
+TO:0000923	ear weight	An ear infructescence morphology trait (TO:0000976) that is the weight of an ear infructescence (PO:0025597).
+TO:0000924	cob color	An infructescence axis morphology trait (TO:0000921) which is the color of a cob.
+TO:0000925	non-vascular leaf morphology trait	A leaf morphology trait (TO:0000748) which is a quality of a non-vascular leaf (PO:0025075).
+TO:0000926	multi-tissue plant structure growth and development trait	A plant structure growth and development trait (TO:0000928) that has as primary participant a multi-tissue plant structure (PO:0025496).
+TO:0000930	seed shattering	A seed growth and development trait (TO:0000653) which is the extent of seed shattering based on the development of an abscission zone (PO:0000146).
+TO:0000931	seed quality trait	A plant quality trait (TO:0000597) which is the commercial and/or economic value of a seed (PO:0009010).
+TO:0000932	mannose content	A hexose content trait (TO:0000307) which is the amount of mannose (CHEBI:37684).
+TO:0000934	photoperiod-sensitive flowering time trait	A flowering time trait (TO:0002616) which is the difference between the time to flowering stage (PO:0007616) in long photoperiod (PECO:0007199) and short photoperiod (PECO:0007200) environments.
+TO:0000935	kernel weight per ear	A grain weight (TO:0000919) which is the total weight of all kernels on the primary ear infructescence (PO:0025597).
+TO:0000936	infructescence yield trait	A shoot system yield trait (TO:0000327) which is a quality of an infructescence (PO:0006342), or the number born on a plant.
+TO:0000937	kernel number per ear	An infructescence yield trait (TO:0000936) that is the number of kernels (fruit; PO:0009001) per ear infructescence (PO:0025597).
+TO:0000938	kernel number per row	An infructescence yield trait (TO:0000936) that is the number of kernels (fruit; PO:0009001) per row on an ear infructescence (PO:0025597).
+TO:0000939	tassel spike length	An inflorescence axis length (TO:0001072) which is the length of the first order tassel inflorescence axis (PO:0006324) from the most distal branch point to the tip of the tassel inflorescence (PO:0020126).
+TO:0000940	tassel branch zone length	An inflorescence axis length (TO:0001072) which is the length of the first order tassel inflorescence axis (PO:0006324) where the tassel inflorescence branches (PO:0006323) arise.
+TO:0000941	rank number per ear	An infructescence yield trait (TO:0000936) which is the number of ranks of cupules per ear infructescence (PO:0025597).
+TO:0000942	aleurone layer morphology trait	A portion of plant tissue morphology trait (TO:0000843) which is the qualities of the aleurone layer (PO:0005360).
+TO:0000943	aleurone layer color	An aleurone layer appearance (TO:0000944) that is the color of the aleurone layer (PO:0005360).
+TO:0000944	aleurone layer appearance	An aleurone layer morphology trait (TO:0000942) that is the appearance of the aleurone layer (PO:0005360).
+TO:0000945	pericarp morphology trait	A portion of plant tissue morphology trait (TO:0000843) which is a quality of the pericarp (PO:0009084).
+TO:0000946	endocarp morphology trait	A portion of plant tissue morphology trait (TO:0000843) which is a quality of the endocarp (PO:0009086).
+TO:0000950	corolla morphology trait	A collective phyllome structure morphology trait (TO:0000845) that is a quality of a corolla (PO:0009059).
+TO:0000951	corolla color	A corolla morphology trait (TO:0000950) that is the color of a corolla (PO:0009059).
+TO:0000952	stem weight	A stem morphology trait (TO:0000361) which is the weight of a stem (PO:0009047).
+TO:0000953	stem number	A shoot system morphology trait (TO:0000077) which is the number of stems (PO:0009047).
+TO:0000954	spikelet rachilla morphology trait	An inflorescence branch morphology trait (TO:0000784) which is a quality of a spikelet rachilla (PO:0009080).
+TO:0000955	cyanide content	A metabolite content related trait (TO:0000281) which is the amount of cyanide (CHEBI:17514) occurring in a plant structure (PO:0009011).
+TO:0000958	cob shape	An infructescence axis morphology trait (TO:0000921) which is the shape of a cob.
+TO:0000959	cob length	An infructescence axis morphology trait (TO:0000921) which is the length of a cob.
+TO:0000960	cob width	An infructescence axis morphology trait (TO:0000921) which is the width of a cob.
+TO:0000961	cob area	An infructescence axis morphology trait (TO:0000921) which is the area of a cob.
+TO:0000962	cob angle	An infructescence axis morphology trait (TO:0000921) which is the angle of a cob.
+TO:0000963	ear color	An ear infructescence morphology trait (TO:0000976) which is the color of an ear infructescence (PO:0025597).
+TO:0000964	ear shape	An ear infructescence morphology trait (TO:0000976) which is the shape of an ear infructescence (PO:0025597).
+TO:0000965	ear aspect	An ear infructescence morphology trait (TO:0000976) which is the qualitative rating of the harvested ear infructescence (PO:0025597).
+TO:0000966	ear infructescence position ratio	An ear infructescence morphology trait (TO:0000976) which is the ratio of ear infructescence position (TO:0000683) to plant height (TO:0000207).
+TO:0000967	hilum morphology trait	A seed morphology trait (TO:0000184) which is a quality of a hilum (PO:0020063).
+TO:0000968	hilum color	A hilum morphology trait (TO:0000967) which is the color of a hilum (PO:0020063).
+TO:0000969	ear inflorescence morphology trait	An inflorescence morphology trait (TO:0000373) which is a quality of an ear inflorescence (PO:0020136).
+TO:0000970	panicle density	An inflorescence density (TO:0000800) trait which is a quality of a panicle inflorescence (PO:0030123).
+TO:0000971	inflorescence hairiness	An inflorescence morphology trait (TO:0000373) which is the presence or absence of hairs on an inflorescence (PO:0009049).
+TO:0000972	spikelet rachilla length	An inflorescence branch morphology trait (TO:0000784) which is the length of a spikelet rachilla (PO:0009080).
+TO:0000973	spikelet rachilla shape	An inflorescence branch morphology trait (TO:0000784) which is the shape of a spikelet rachilla (PO:0009080).
+TO:0000974	spikelet rachilla hair type	An inflorescence branch morphology trait (TO:0000784) which is the pubescence of a spikelet rachilla (PO:0009080).
+TO:0000975	grain width	A caryopsis fruit morphology trait (TO:0001079) which is the width of a grain (PO:0009001).
+TO:0000976	ear infructescence morphology trait	An infructescence morphology trait (TO:0000920) which is a quality of the ear infructescence (PO:0025597).
+TO:0000977	leaf foliage rating	A leaf area trait (TO:0000540) that is the size of the total surface area of a leaf (PO:0025034).
+TO:0000978	glume shape	A glume morphology trait (TO:0000869) with is the shape of a glume (PO:0009039).
+TO:0000980	plant embryo cotyledon color	A plant embryo cotyledon morphology trait (TO:0000775) which is the color of the plant embryo cotyledon (PO:0025470).
+TO:0000985	root system morphology trait	A collective plant organ structure morphology trait (TO:0000842) which is a quality of a root system (PO:0025025).
+TO:0000986	staminate flower number trait	A flower number trait (TO:0002736) which is the number of staminate flowers (PO:0025600).
+TO:0000987	pistillate flower number trait	A flower number trait (TO:0002736) which is the number of pistillate flowers (PO:0025599).
+TO:0000988	shoot-borne shoot system morphology trait	A shoot system morphology trait (TO:0000077) that is a quality of a shoot-borne shoot system (PO:0004545).
+TO:0000989	epicormic shoot system morphology trait	A shoot-borne shoot system morphology trait (TO:0000988) that is a quality of an epicormic shoot system (PO:0004546).
+TO:0000990	seed hardness	A seed morphology trait (TO:0000184) which is the hardness of a seed (PO:0009010).
+TO:0000991	epicormic shoot system number	An epicormic shoot system morphology trait (TO:0000989) which is the number of epicormic shoot systems (PO:0004546).
+TO:0000992	gibberellin biosynthesis trait	A biological process trait (TO:0000283) which is a quality of a gibberellin biosynthetic process (GO:0009686).
+TO:0000993	cellulose content	A carbohydrate content trait (TO:0000291) which is the amount of cellulose (CHEBI:62968) in a plant structure (PO:0009011).
+TO:0000994	androecium morphology trait	A collective phyllome structure morphology trait (TO:0000845) that is a quality of the androecium (PO:0009061).
+TO:0000995	aluminum content trait	A mineral and ion content trait (TO:0000465) which is the aluminium cation (CHEBI:63062) composition in a plant structure (PO:0009011).
+TO:0000996	flag leaf area	A flag leaf anatomy and morphology trait (TO:0000832) which is the area of a flag leaf (PO:0020103).
+TO:0000997	polished grain length	A grain length (TO:0000734) measured on a dehulled, polished grain.
+TO:0000998	polished grain width	A grain width (TO:0000975) which is the width of the dehulled, polished grain.
+TO:0000999	polished grain length to width ratio	A grain length to width ratio (TO:0002731) measured on a dehulled, polished grain.
+TO:0001000	glume cover	A glume morphology trait (TO:0000869) which is amount the glume (PO:0009039) covers the caryopsis. Often measured as percentage.
+TO:0001001	glume persistence	A glume morphology trait (TO:0000869) which is the persistence of a glume (PO:0009039).
+TO:0001002	inflorescence exsertion	An inflorescence morphology trait (TO:0000373) which is the exsertion of an inflorescence (PO:0009049).
+TO:0001003	plant height uniformity	A visual estimate of the plant height for a group of plants in an experiment.
+TO:0001004	basal tiller number	Number of basal tillers per plant, should represent most plants within a study.
+TO:0001005	basal tiller length	The height of the tallest basal tiller (basal axillary shoot) of a plant.
+TO:0001006	adventitious root number	A root number (TO:0000084) trait which is the number of adventitious roots (shoot-borne root; PO:0000042).
+TO:0001007	coleoptile length	A coleoptile morphology trait (TO:0000753) which is the length of a coleoptile (PO:0020033).
+TO:0001008	days to flag leaf emergence	In grass plants the number of days required for the full emergence of the flag leaf in a field or study. It can be counted from date of seed sowing or the transplant (in case of rice).
+TO:0001009	deep root number	A count of number of roots present below a given depth from the soil surface.
+TO:0001010	senesced leaf number	Number of leaves in a plant that have undergone leaf senescence stage or are considered dead.
+TO:0001011	deep root weight ratio	A ration of the deep root dry weight to total root dry weight per plant.
+TO:0001012	lateral root length	A root length (TO:0000227) that is the length of one or more lateral roots (PO:0020121).
+TO:0001013	lateral root number	Average sum of number of lateral roots in a plant derived per experiment.
+TO:0001014	leaf dry weight	A leaf weight trait (TO:0000505) which is the dry weight of a leaf (PO:0025034).
+TO:0001015	photosynthetic rate	The total amount of carbon fixed by the plant per unit time and is measured by determining the changes in CO2 concentration over a plant leaf in a glass enclosure.
+TO:0001016	relative chlorophyll content	A chlorophyll content trait (TO:0000495) which is the relative chlorophyll content of a plant structure (PO:0009011) after a treatment, as compared to that determined under normal growth conditions.
+TO:0001017	water use efficiency	As determined by the ratio of photosynthetic rate to transpiration rate.
+TO:0001018	transpiration rate	The rate of  transpiration.
+TO:0001019	root to total biomass ratio	A ratio of root dry weight to total plant dry weight.
+TO:0001020	exudate sap volume	Volume of the sap exudate collected from the cut parts of a plant.
+TO:0001021	days to inflorescence exsertion	Number of days required for the emergence of inflorescence to become visible on the plant.
+TO:0001022	days to tassel emergence	Number of days required for the tassel to emerge from the flag leaf in a maize plant or a group of plants in a study.
+TO:0001023	days to ear shoot emergence	Number of days required for the ear shoot to emerge from the given leaf sheath in a maize plant or a group of plants in a study.
+TO:0001024	phosphorus content	A mineral and ion content trait (TO:0000465) which is the phosphorus cation (CHEBI:33467) composition in a plant structure (PO:0009011).
+TO:0001025	leaf phosphorus content	Amount of phosphorus in the leaf.
+TO:0001026	respiration rate	The total amount of carbon lost metabolically by the plant per unit time and is measured by determining the increase in CO2 concentration over a plant leaf in a glass enclosure.
+TO:0001027	net photosynthetic rate	It is measured as the difference between gross photosynthesis (the total amount of carbon fixed by the plant per unit time) and the respiration (the total amount of carbon lost metabolically during that same time).
+TO:0001028	osmotic adjustment break point	Break point of leaf water potential in the regression of leaf water potential against leaf relative water content.
+TO:0001029	relative harvest index	It is a ratio of harvest index in stress to that of control environment.
+TO:0001030	relative leaf area	It is a ratio of leaf area determined from a stressed plant to that grown in normal environment.
+TO:0001031	relative leaf dry weight	It is a ratio of leaf dry weight determined from a stressed plant to that grown in normal environment.
+TO:0001032	relative panicle number	A panicle number (TO:0000152) trait which is the ratio of panicle number determined from a stressed plant to that grown in normal environment.
+TO:0001033	relative spikelet number	It is a ratio of spikelet number per panicle/inflorescence determined from a stressed plant to that grown in normal environment.
+TO:0001034	relative plant height	It is a ratio of the plant height determined from a stressed plant to that grown in normal environment.
+TO:0001035	stem width	A stem morphology trait (TO:0000361) which is the width of a stem (PO:0009047).
+TO:0001041	root yield	A yield trait (TO:0000371) which is the yield of roots (PO:0009005).
+TO:0001042	root quality trait	A plant quality trait (TO:0000597) which is the quality of roots (PO:0009005).
+TO:0001043	barium content trait	A mineral and ion content trait (TO:0000465) which is the barium cation (CHEBI:39125) composition in a plant structure (PO:0009011).
+TO:0001044	cobalt content trait	A mineral and ion content trait (TO:0000465) which is the cobalt cation (CHEBI:23336) composition in a plant structure (PO:0009011).
+TO:0001045	chromium content trait	A mineral and ion content trait (TO:0000465) which is the chromium cation (CHEBI:33516) composition in a plant structure (PO:0009011).
+TO:0001046	iodine content trait	A mineral and ion content trait (TO:0000465) which is the iodine cation (CHEBI:33116) composition in a plant structure (PO:0009011).
+TO:0001047	lead content trait	A mineral and ion content trait (TO:0000465) which is the lead cation (CHEBI:30180) composition in a plant structure (PO:0009011).
+TO:0001048	silicon content trait	A mineral and ion content trait (TO:0000465) which is the silicon cation (CHEBI:30584) composition in a plant structure (PO:0009011).
+TO:0001049	rubidium content trait	A mineral and ion content trait (TO:0000465) which is the rubidium cation (CHEBI:49847) composition in a plant structure (PO:0009011).
+TO:0001050	strontium content trait	A mineral and ion content trait (TO:0000465) which is the strontium ion (CHEBI:39130) composition in a plant structure (PO:0009011).
+TO:0001051	root hair density	A root morphology trait (TO:0000043) which is the number of root hairs (GO:0035618) in a given surface area of a root (PO:0009005).
+TO:0001052	root cortex cross-sectional area	A portion of plant tissue morphology trait (TO:0000843) which is the cross-sectional area of the root cortex (PO:0000258).
+TO:0001053	subterranean shoot axis tuber length	A subterranean shoot axis tuber morphology trait (TO:0000742) which is the length of a subterranean shoot axis tuber (PO:0004547).
+TO:0001054	root stele cross-sectional area	A cardinal organ part morphology trait (TO:0000754) which is the cross-sectional area of the root stele (PO:0020124).
+TO:0001055	root aerenchyma cross-sectional area	A portion of plant tissue morphology trait (TO:0000843) which is the cross-sectional area of the root aerenchyma (PO:0006213).
+TO:0001056	root cross sectional area	A root morphology trait (TO:0000043) which is the cross sectional area of a root (PO:0009005).
+TO:0001057	root system width	A root system morphology trait (TO:0000985) which is the width of the root system (PO:0025025).
+TO:0001058	root system depth	A root system morphology trait (TO:0000985) which is the depth of the root system (PO:0025025).
+TO:0001059	root system width to depth ratio	A root system morphology trait (TO:0000985) which is the ratio of the root system width (TO:0001057) to root system depth (TO:0001058).
+TO:0001060	subterranean shoot axis tuber width	A subterranean shoot axis tuber morphology trait (TO:0000742) which is the width of a subterranean shoot axis tuber (PO:0004547).
+TO:0001061	inflorescence axis thickness	An inflorescence axis morphology trait (TO:0000782) which is the thickness of an inflorescence axis (PO:0020122).
+TO:0001062	number of panicle internodes	A panicle inflorescence morphology trait (TO:0000847) which is the number of inflorescence axis internodes (PO:0006326) in a panicle inflorescence (PO:0030123).
+TO:0001063	panicle inflorescence internode length	A panicle inflorescence morphology trait (TO:0000847) which is the length of the inflorescence axis internodes (PO:0006326) in a panicle inflorescence (PO:0030123).
+TO:0001064	number of panicle inflorescence branches per internode	A panicle inflorescence morphology trait (TO:0000847) which is the average number of branches per inflorescence axis internode (PO:0006326) in a panicle inflorescence (PO:0030123).
+TO:0001065	panicle inflorescence terminal primary branch length	A panicle inflorescence morphology trait (TO:0000847) which is the length of a terminal primary branch in a panicle inflorescence (PO:0030123).
+TO:0001066	number of metaxylem vessels	A vascular tissue morphology trait (TO_0000470) which is the number of metaxylem vessels (PO:0025620).
+TO:0001067	days to booting	A flowering time trait (TO:0002616) which is the length of time for a plant or group of plants to reach booting stage (PO:0007014).
+TO:0001071	shoot axis tuber yield	A shoot system yield trait (TO:0000327) which is the yield of shoot axis tubers (PO:0004543).
+TO:0001072	inflorescence axis length	An inflorescence axis morphology trait (TO:0000782) which is the length of an inflorescence axis (PO:0020122).
+TO:0001074	legume fruit shattering	A fruit shattering trait (TO:0001073) that is the tendency of a legume fruit (PO:0030100) to dehisce, releasing one or more seed(s) (PO:0009001).
+TO:0001075	pulvinus size	A cardinal organ part morphology trait (TO:0000754) which is the size of a pulvinus (PO:0009000).
+TO:0001076	infructescence development trait	A shoot system growth and development trait (TO:0000654) that is a quality of infructescence (PO:0006342) development.
+TO:0001092	legume fruit weight	A legume fruit morphology trait (TO:0001082) which is the weight of a legume fruit (PO:0030100).
+TO:0001093	nut fruit weight	A nut fruit morphology trait (TO:0001083) which is the weight of a nut fruit (PO:0030102).
+TO:0001094	samara fruit weight	A samara fruit morphology trait (TO:0001084) which is the weight of a samara fruit (PO:0030099).
+TO:0001095	schizocarp fruit weight	A schizocarp fruit morphology trait (TO:0001085) which is the weight of a schizocarp fruit (PO:0030098).
+TO:0001096	silique fruit weight	A silique fruit morphology trait (TO:0001086) which is the weight of a silique fruit (PO:0030106).
+TO:0001108	grain volume	A caryopsis fruit morphology trait (TO:0001079) which is the volume of a grain (caryopsis fruit; PO:0030104).
+TO:0001109	grain color trait	A caryopsis fruit morphology trait (TO:0001079) which is the color of a grain (caryopsis fruit; PO:0030104).
+TO:0001110	spike inflorescence morphology trait	An inflorescence morphology trait (TO:0000373) which is a quality of a spike inflorescence (PO:0030117).
+TO:0001111	Heterodera glycines response	A nematode damage response (TO:0000384) to the Soybean cyst nematode (Heterodera glycines).
+TO:0001112	root width	A root morphology trait (TO:0000043) which is the width of a root (PO:0009005).
+TO:0001113	leaflet morphology trait	A cardinal organ part morphology trait (TO:0000754) which is a quality of a leaflet (PO:0020049).
+TO:0001114	leaflet area	A leaflet morphology trait (TO:0001113) which is the area (PATO:0001323) of a leaflet (PO:0020049).
+TO:0001115	leaflet length	A leaflet morphology trait (TO:0001113) which is the length (PATO:0000122 ) of a leaflet (PO:0020049).
+TO:0001116	leaflet shape	A leaflet morphology trait (TO:0001113) which is the shape (PATO:0000052) of a leaflet (PO:0020049).
+TO:0001117	leaflet weight	A leaflet morphology trait (TO:0001113) which is the weight (PATO:0000128 ) of a leaflet (PO:0020049).
+TO:0001118	leaflet width	A leaflet morphology trait (TO:0001113) which is the width (PATO:0000921) of a leaflet (PO:0020049).
+TO:0001119	leaflet size	A leaflet morphology trait (TO:0001113) which is the size (PATO:0000117 ) of a leaflet (PO:0020049).
+TO:0001120	specific leaflet weight	A leaflet weight (TO:0001117) which is the ratio of leaflet weight to leaflet area (TO:0001114).
+TO:0001121	compound leaf morphology trait	A vascular leaf morphology trait (TO:0000419) which is a quality of a compound leaf (PO:0020043).
+TO:0001122	specific leaf weight	A leaf weight (TO:0000505) which is the ratio of leaf weight to leaf area (TO:0000540).
+TO:0001123	specific leaflet area	A leaflet area trait (TO:0001114) that is the ratio of the leaflet area to the leaflet weight (TO:0001117).
+TO:0001124	root phosphorus content	A phosphorus content trait (TO:0001024) which is the phosphorus cation (CHEBI:33467) composition in a root (PO:0009005).
+TO:0001125	pod number trait	A fruit number trait (TO:0000894) which is the number of legume fruits (PO:0030100), or pods.
+TO:0001131	capsule fruit width	A capsule fruit morphology trait (TO:0001078) which is the width (PATO:0000921) of a capsule fruit (PO:0030091).
+TO:0001132	capsule fruit length	A capsule fruit morphology trait (TO:0001078) which is the length (PATO:0000122) of a capsule fruit (PO:0030091).
+TO:0001133	capsule fruit thickness	A capsule fruit morphology trait (TO:0001078) which is the thickness (PATO:0000915) of a capsule fruit (PO:0030091).
+TO:0001134	capsule seed number	A fruit seed number (TO:0000445) which is the number of seeds in a capsule fruit (PO:0030091).
+TO:0001135	capsule fruit number	A fruit number trait (TO:0000894) which is the number of capsule fruit (PO:0030091).
+TO:0001136	grain protein content	A protein content trait (TO:0000598) which is the amount of protein (CHEBI:36080) in a caryopsis fruit (PO:0030104).
+TO:0001137	leaflet margin morphology	A cardinal organ part morphology trait (TO:0000754) which is a quality of a leaflet margin (PO:0006034).
+TO:0001138	leaflet color	A leaflet morphology trait (TO:0001113) which is the color of a leaflet (PO:0020049).
+TO:0001139	leaflet pubescence	A leaflet morphology trait (TO:0001113) which is the extent of pubescence (presence of trichomes (PO:0000282)) on a leaflet (PO:0020049).
+TO:0001140	leaflet chlorophyll content	A chlorophyll content trait (TO:0000495) which is the chlorophyll content of a leaflet (PO:0020049).
+TO:0001141	rodent damage response trait	An animal damage response trait (TO:0000054) which is the response to damage to a plant structure (PO:0009011) caused by a rodent (NCBITaxon:314147).
+TO:0001142	legume fruit yield trait	A fruit yield trait (TO:0000871) which is the amount of legume fruit (PO:0030100) produced.
+TO:0002600	floral organ size	A floral organ morphology trait (TO:0000862) which is the size of a floral organ (PO:0025395).
+TO:0002601	stamen size	A stamen morphology trait (TO:0000225) which is the size of a stamen (PO:0009029).
+TO:0002602	pistil size	A pistil morphology trait (TO:0000223) which is the size of a pistil.
+TO:0002603	petal size	A petal morphology trait (TO:0000863) which is the size of a petal (PO:0009032).
+TO:0002604	sepal size	A sepal morphology trait (TO:0000864) which is the size of a sepal (PO:0009031).
+TO:0002605	petal length	A petal morphology trait (TO:0000863) which is the length of a petal (PO:0009032).
+TO:0002606	petal width	A petal morphology trait (TO:0000863) which is the width of a petal (PO:0009032) in a flower (PO:0009049).
+TO:0002607	sepal length	A sepal morphology trait (TO:0000864) which is the length of a sepal (PO:0009031).
+TO:0002608	sepal width	A sepal morphology trait (TO:0000864) which is the width of a sepal (PO:0009031) in a flower (PO:0009049).
+TO:0002609	stamen length	A stamen morphology trait (TO:0000215) which is the length of a stamen (PO:0009029).
+TO:0002610	pistil length	A pistil morphology trait (TO:0000223) which is the length of a pistil.
+TO:0002611	homeotic development trait	A developmental trait resulting development of increased, decreased or new organs and organ parts due to a mutation that causes one member of a repetitive series to assume the identity of another member , for example, the transformation of sepals into petals.
+TO:0002612	vegetative homeotic development trait	A developmental trait resulting development of increased, decreased or new vegetative organs and organ parts due to a mutation that causes one member of a repetitive series to assume the identity of another member , for example, the transformation of leaves into scales.
+TO:0002613	reproductive homeotic development trait	A developmental trait resulting development of increased, decreased or new reproductive organs and organ parts due to a mutation that causes one member of a repetitive series to assume the identity of another member , for example, the transformation of sepals into petals.
+TO:0002614	floral organ length	A floral organ morphology trait (TO:0000862) which is the length of a floral organ (PO:0025395).
+TO:0002615	floral organ width	A floral organ morphology trait (TO:0000862) which is the width of a floral organ (PO:0025395).
+TO:0002616	flowering time trait	A plant phenological trait (TO:0000933) which is a quality of the timing of anthesis (flowering stage; PO:0007616).
+TO:0002617	fruit color	A fruit morphology trait (TO:0002617) which is the color of a fruit (PO:0009001).
+TO:0002618	endocarp color	An endocarp morphology trait (TO:0000946) which is a the color of an endocarp (PO:0009084).
+TO:0002619	mesocarp color	A mesocarp morphology trait (TO:0000948) which is the color of a mesocarp (PO:0009087).
+TO:0002620	exocarp color	An exocarp morphology trait (TO:0000906) which is the color of an exocarp (PO:0009085).
+TO:0002621	fruit columella color	A fruit color trait (TO:0002617) which is the color of a fruit columella (PO:0004540).
+TO:0002622	locular tissue trait	The traits observed for the locular tissue present around the seeds as found in Solanaceae.
+TO:0002623	pericarp texture	A pericarp morphology trait (TO:0000945) that is the texture of the pericarp (PO:0009084).
+TO:0002624	exocarp texture	An exocarp morphology trait (TO:0000906) that is the texture of the exocarp (PO:0009085).
+TO:0002626	fruit length	A fruit morphology trait (TO:0002629) which is the length of a fruit (PO:0009001).
+TO:0002627	fruit width	A fruit morphology trait (TO:0002629) which is the width of a fruit (PO:0009001).
+TO:0002628	fruit shape	A fruit morphology trait (TO:0002629) which is the shape of a fruit (PO:0009001).
+TO:0002629	fruit morphology trait	A multi-tissue plant structure morphology trait (TO:0000836) which is a quality of a fruit (PO:0009001).
+TO:0002630	fruit distal end shape	A fruit shape (TO:0002628) which is the shape of a fruit distal end (PO:0008001).
+TO:0002631	fruit proximal end shape	A fruit shape (TO:0002628) which is the shape of the fruit proximal end (PO:0008002).
+TO:0002632	fruit abscission zone size	A fruit morphology trait (TO:0002632) which is the size of the fruit abscission zone (PO:0006503).
+TO:0002633	fruit ripening trait	A fruit growth and development trait (TO:0000929) that is the extent of fruit ripening (GO:0009835).
+TO:0002634	fruit firmness	In addition to the fruit color, firmness is the best measurement of ripeness. It is assayed as the force necessary to break the flesh tissues and depends on the different growth stages during the ripening process.
+TO:0002635	leaf margin morphology trait	A phyllome margin morphology trait (TO:0000834) which is a quality of a leaf margin (PO:0020128).
+TO:0002636	leaflet number	A compound leaf morphology trait (TO:0001121) which is the number of leaflets (PO:0020049) in a compound leaf (PO:0020043).
+TO:0002637	leaf size	A leaf morphology trait (TO:0000748) which is the size of a leaf (PO:0025034).
+TO:0002638	shoot meristem development	An assay to associate observing effects on the development of shoot meristem.
+TO:0002639	shoot branching	A shoot axis morphology trait (TO:0000739) which is the amount or pattern of branches arising from the shoot axis (PO:0025029).
+TO:0002641	acid detergent fiber	The percentage of highly indigestible or slowly digestible fiber in a feed or forage. Acid detergent fiber contains cellulose as well as silica and lignin which are associated with low digestibility.
+TO:0002642	dietary fiber related trait	The traits assayed for content and quality of food/forage based on pre or post digestive processes.
+TO:0002643	carbon isotope discrimination	It is a measure of the C isotopic composition in plant material relative to the value of the same ratio in the air of the environment where the plant is grown.
+TO:0002644	dry matter digestibility	Expressed as a percent, is a measure of the dry matter content of forage or feed that is retained in the animal body.
+TO:0002647	starch digestibility	Expressed as a percent, is a measure of the starch content of forage or feed that is retained in the animal body.
+TO:0002648	water absorption by seed	A measure of the relative water absorption after soaking a known amount (weight) of seed.
+TO:0002649	pesticide sensitivity	A chemical stress sensitivity (TO:0000482) which is the tolerance exhibited by a plant or a group of plants (population) towards the applied pesticide.
+TO:0002650	phototropism response trait	The directional growth of a whole plant (PO:0000003) or plant structure (PO:0009011) in response to light.
+TO:0002651	shoot axis phototropism response trait	A phototropism response trait (TO:0002650) which is the directional growth of a shoot axis (PO:0025029) in response to light.
+TO:0002652	root phototropism response trait	A phototropism response trait (TO:0002650) which which is the directional growth of a root (PO:0009005) in response to light.
+TO:0002653	endosperm storage protein content	Assay for the amount of seed storage protein present in the endosperm.
+TO:0002654	pyruvate orthophosphate dikinase activity trait	Catalysis of the reaction: ATP + pyruvate + phosphate = AMP + phosphoenolpyruvate + diphosphate.
+TO:0002655	starch grain size	Assay to determine the size of the starch grain size.
+TO:0002656	starch grain shape	Assay to determine the shape of the starch grain.
+TO:0002658	starch grain synthesis	An assay to determine if the starch grains are formed in the plant or plant part. Often associated with the starch biosynthesis and branching of the starch.
+TO:0002659	pistil number	A pistil morphology trait (TO:0000223) which is the number of pistils in the gynoecium (PO:0009062).
+TO:0002660	cytokinin content	Measures the cytokinin content in a plant or plant part.
+TO:0002661	seed maturation	This trait can be derived based on the parameters like, degree of grain filling, grain hardness, hull color, grain moisture, etc. It can be determined for (a)synchronously with any of these parameters.
+TO:0002662	leaf rolling tolerance	A leaf rolling trait (TO:0000085) which is the tolerance for leaf rolling or wilting observed in response to stresses like drought, water and temperature. It precedes leaf drying stage.
+TO:0002663	leaf necrosis tolerance	Tolerance for leaf necrosis or scorching observed in response to stresses like drought, insecticides and cold temperature as evidenced by less number or chlorotic and/or necrotic tissue.
+TO:0002664	leaf yellowing tolerance	Tolerance for leaf color yellowing observed in response to stresses like drought, water and temperature. It may precedes leaf drying stage.
+TO:0002665	root hair length	A root morphology trait (TO:0000043) which is the length of a root hair (GO:0035618) present on a root (PO:0009005).
+TO:0002666	seed phosphorus content	Amount of phosphorus in the seed.
+TO:0002667	abscisic acid content	A growth hormone content (TO:0000476) trait which is the abscisic acid (CHEBI:62431) content in a plant structure (PO:0009011).
+TO:0002668	jasmonic acid content	Measures the jasmonic acid content in a plant or plant part.
+TO:0002669	diterpenoid phytoalexin content	Measures the diterpenoid phytoalexin content in a plant or plant part.
+TO:0002670	momilactone A content	Measures the momilactone A content in a plant or plant part.
+TO:0002671	momilactone B content	Measures the momilactone B content in a plant structure (PO:0009011).
+TO:0002672	auxin content	A growth hormone content (TO:0000476) trait which is the amount of auxin (CHEBI:22676) in a plant structure (PO:0009011).
+TO:0002673	amino acid content	The amino acid content in a plant or plant part.
+TO:0002674	tryptophan content	Amino acid tryptophan content in a plant or plant part.
+TO:0002675	gibberellic acid content	Measures the gibberellic acid content in a plant or plant part.
+TO:0002676	brassinosteroid content	Measures the brassinosteroid content in a plant or plant part.
+TO:0002677	brassinosteroid sensitivity	Response with respect to application of Brassinosteroid.
+TO:0002678	panicleless	A panicle number (TO:0000152) trait which is the absence of panicle in the plant, either due to the abortion of the developmental process and/or due to environmental factors.
+TO:0002679	inflorescenceless	The absence of inflorescence in the plant, either due to the abortion of the inflorescence developmental process and/or due to environmental factors.
+TO:0002680	albumin content	Assay to determine the amount of albumin protein.
+TO:0002681	leaf curling	An assay to measure the extent of curling of the leaf lamina.
+TO:0002682	plant cell shape	A plant cell morphology trait (TO:0002683) which is the shape of a plant cell (PO:0009002) type.
+TO:0002684	plant cell size	A plant cell morphology trait (TO:0002683) which is the size of a plant cell (PO:0009002) type.
+TO:0002685	crown root number	A count of number of crown roots present in the seedling.
+TO:0002687	cell elongation trait	An assay to determine the variation in the length of the plant cell due to cell growth and elongation.
+TO:0002688	leaf lamina joint bending	A leaf lamina morphology trait (TO:0000829) which is the extent of the bending that occurrs to the leaf lamina (PO:0020039) joint in degrees.
+TO:0002689	leaf sheath length	A leaf sheath morphology trait (TO:0000835) which is the length of the leaf sheath (PO:0020104).
+TO:0002690	leaf lamina length	A leaf lamina morphology trait (TO:0000829) which is the length of the leaf laimina (PO:0020039).
+TO:0002691	peduncle length	A peduncle morphology trait (TO:0000776) which is the length of a peduncle (PO:0009053).
+TO:0002692	root meristem development	An assay to determine the variation in the root meristem development.
+TO:0002693	gravity response trait	An assay to determine the variation in the gravitropism under the influence of gravity or zero gravity.
+TO:0002694	fruit flavor trait	An assay to determine the sensory impression of a fruit by the chemical senses of taste and smell.
+TO:0002695	beta-carotene content	The beta-carotene content in a plant or plant part.
+TO:0002696	alpha carotene content	The alpha-carotene content in a plant or plant part.
+TO:0002697	cyclic carotene content	The cyclic carotene content in a plant or plant part.
+TO:0002698	acyclic carotene content	The acyclic carotene content in a plant or plant part.
+TO:0002699	lycopene content	The lycopene content in a plant or plant part.
+TO:0002700	pungency	The quality of producing a sharp sensation of taste or smell.
+TO:0002701	lutein content	The leutein content in a plant or plant part.
+TO:0002702	cercospora leaf spot resistance	Causal agent: Cercospora spp.
+TO:0002704	Meloidogyne incognita resistance	Causal agent: Meloidogyne incognita. Symptom: resistant to damage caused by the pathogen Meloidogyne incognita (root knot nematode). It  produces characteristic galls (swellings) on roots.
+TO:0002705	cucurbit downy mildew resistance	Causal agent: Pseudoperonospora cubensis. It causes the downy mildew disease in cucurbits.
+TO:0002706	Meloidogyne javanica resistance	Causal agent: Meloidogyne javanica. Symptom: resistant to damage caused by the pathogen Meloidogyne javanica (root knot nematode). It  produces characteristic galls (swellings) on roots.
+TO:0002707	petiole color	A petiole morphology trait (TO:0000765) which is the color of the petiole (PO:0020038).
+TO:0002708	xylem color	The color of the xylem tissue.
+TO:0002709	phloem color	The color of the phloem tissue.
+TO:0002710	root shape	A root morphology trait (TO:0000043) which is the shape of a root (PO:0009005)." [Gramene:pankaj_jaiswal] {comment="TO:Laurel_Cooper
+TO:0002712	stay green trait	A whole plant growth and development trait (TO:0000947) which is the color of plant and the photosynthetic organs remain green compared to turning yellow and or brown at the time of senescing.
+TO:0002713	cell organelle morphology trait	A plant cell morphology trait (TO:0002683) which is a quality of a cell organelle.
+TO:0002714	plastid development trait	A plant structure growth and development trait (TO:0000928) which is a quality of plastid development.
+TO:0002715	chloroplast development trait	Trait(s) associated with phenotypes observed for abnormal development of chloroplast structure and biogenesis.
+TO:0002716	leaf sheath auricle pubescence	A leaf sheath morphology trait (TO: 0002717) which is the extent of pubescence (presence of hairs) on the leaf sheath auricle (PO:0020106).
+TO:0002717	leaf sheath auricle morphology trait	A cardinal organ part morphology trait (TO:0000754) which is a quality of a leaf sheath auricle (PO:0020106).
+TO:0002720	leaf lamina width	A leaf lamina morphology trait (TO:0000829) which is the width of the leaf lamina (PO:0020039).
+TO:0002721	leaf sheath width	A leaf sheath morphology trait (TO:0000835) which is the width of the leaf sheath (PO:0020104).
+TO:0002722	leaf pubescence	A leaf morphology trait (TO:0000748) which is the presence of leaf trichomes (PO:0006504; hairs) on a leaf (PO:0025034).
+TO:0002723	leaf lamina margin pubescence	A leaf lamina margin morphology trait (TO:0000830) which is the extent of pubescence  (presence of hairs) on a leaf lamina margin (PO:0025009).
+TO:0002724	leaf sheath color	A leaf sheath morphology trait (TO:0000835) which is the color of the leaf sheath (PO:0020104).
+TO:0002726	sterile lemma shape	A lemma morphology trait (TO:1000023) which is the shape of a sterile lemma (PO:0009040).
+TO:0002727	sterile lemma width	A lemma morphology trait (TO:0000079) which is the width of a sterile lemma (PO:0009040).
+TO:0002729	fruit senescing quality trait	Traits associated with the fruit abscission zone.
+TO:0002730	grain shape	A caryopsis fruit morphology trait (TO:0001079) which is the shape of a grain (caryopsis fruit; PO:0030104)." [Gramene:pankaj_jaiswal, TO:moorel] {comment="TO:Laurel_Cooper
+TO:0002732	flag leaf angle: early stage	In grasses the flag leaf angle is measured near the collar as the angle of attachment between the flag leaf blade and the main inflorescence axis in grass plants. Observed around anthesis stage.
+TO:0002733	flag leaf angle: late stage	In grasses the flag leaf angle is measured near the collar as the angle of attachment between the flag leaf blade and the main inflorescence axis in grass plants. Observed at maturity stage.
+TO:0002734	awn presence	An awn morphology trait (TO:0002718) which is the presence or absence of an awn (PO:0025349). Observation may include relative awn size.
+TO:0002737	floret number per branch	Average number of flowers (florets) per branch in a grass inflorescence.
+TO:0002738	floret number per inflorescence	Average number of flowers (florets) in a grass inflorescence.
+TO:0002739	fruit surface area	Average whole fruit surface area.
+TO:0002741	grain surface area	The average surface area of the grain without hull (dehulled) in a grass fruit caryopsis.
+TO:0002742	fruit volume	A fruit morphology trait (TO:0002629) which is the volume of the fruit (PO:0002629).
+TO:0002744	fruit curved length	A fruit length (TO:0002626) which is the average length of the curved surface of fruit (PO:0009001).
+TO:0002746	fruit weight	A fruit morphology trait (TO:0002629) that is the weight of a fruit (PO:0009001).
+TO:0002747	10-dehulled grain weight	A dehulled grain weight (TO:0000590) which is the weight of a sample of 10 dehulled grains (caryopsis fruit; PO:0030104)." [Gramene:pankaj_jaiswal] {comment="TO:Laurel_Cooper
+TO:0002748	ligule morphology trait	A vascular leaf morphology trait (TO:0000419) which is a quality of a ligule (PO:0020105).
+TO:0002749	ligule pubescence	A ligule morphology trait (TO:0002748) which is the extent of pubescence (presence of hairs) on the ligule (PO:0020105).
+TO:0002750	ligule margin pubescence	A ligule morphology trait (TO:0002748) which isthe extent of pubescence (presence of hairs)  on the margin of a ligule (PO:0020105).
+TO:0002751	inflorescence branch arrangement	An inflorescence morphology trait (TO:0000373) which is the arrangement of inflorescence branches (PO:0009081).
+TO:0002753	arrangement of inflorescence primary branch	An inflorescence branch arrangement (TO:0002751) trait which is the arrangement of primary branches in an inflorescence (PO:0009049).
+TO:0002754	inflorescence axis texture	An inflorescence axis morphology trait (TO:0000782) which is the texture of an inflorescence axis (PO:0020122).
+TO:0002756	shoot growth angle	Estimated by the angle of inclination of the main shoot/stem against the soil/growth medium surface.
+TO:0002757	flag leaf length	A flag leaf morphology trait (TO:0000832) which is the length of the flag leaf (PO:0020103).
+TO:0002758	flag leaf lamina width	Actual measurements, in centimeters of the widest portion of the flag leaf lamina.
+TO:0002766	ligule margin shape	A ligule morphology trait (TO:0002748) which is a shape of a margin of a ligule (PO:0020105).
+TO:0002767	rhizome formation	rhizome formation
+TO:0003000	stem fresh weight	A stem weight trait (TO:0000952) which is the fresh weight of a stem (PO:0009047).
+TO:0003001	stem dry weight	A stem weight trait (TO:0000952) which is the dry weight of a stem (PO:0009047).
+TO:0003002	infructescence fresh weight	An infructescence weight trait (TO:0000583) which is the fresh weight of an infructescence (PO:0006342).
+TO:0003003	infructescence dry weight	An infructescence weight trait (TO:0000583) which is the dry weight of an infructescence (PO:0006342).
+TO:0003004	fruit fresh weight	A fruit weight trait (TO:0002746) that is the fresh weight of a fruit (PO:0009001).
+TO:0003005	fruit dry weight	A fruit weight trait (TO:0002746) that is the dry weight of a fruit (PO:0009001).
+TO:0003014	grain fresh weight	A grain weight (TO:0000919) which is the fresh weight of a grain (caryopsis fruit; PO:0030104), including the caryopsis hull (PO:0006000).
+TO:0003015	grain dry weight	A grain weight (TO:0000919) which is the dry weight of a grain (caryopsis fruit; PO:0030104), including the caryopsis hull (PO:0006000).
+TO:0003016	100-grain fresh weight	A 100-grain weight (TO:0000269) which is the fresh weight of a sample of 100 grains (caryopsis fruit; PO:0030104), with the caryopsis hull (PO:0006000).
+TO:0003017	100-grain dry weight	A grain weight (TO:0000269) which is the dry weight of a sample of 100 grains (caryopsis fruit; PO:0030104), with the caryopsis hull (PO:0006000).
+TO:0003018	1000-grain fresh weight	A grain weight (TO:0000382) which is the fresh weight of a sample of 1000 grains (caryopsis fruit; PO:0030104), with the caryopsis hull (PO:0006000).
+TO:0003019	1000-grain dry weight	A grain weight (TO:0000382) which is the dry weight of a sample of 1000 grains (caryopsis fruit; PO:0030104), with the caryopsis hull (PO:0006000).
+TO:0003022	ear fresh weight	An ear infructescence weight trait (TO:0000923) that is the fresh weight of an ear infructescence (PO:0025597).
+TO:0003023	ear dry weight	An ear infructescence weight trait (TO:0000923) that is the dry weight of an ear infructescence (PO:0025597).
+TO:0003024	cob fresh weight	A cob weight trait (TO:0000922) which is the fresh weight of a cob (ear infructescence axis; PO:0025623).
+TO:0003025	cob dry weight	A cob weight trait (TO:0000922) which is the dry weight of a cob (ear infructescence axis; PO:0025623).
+TO:0003029	legume fruit dry weight	A legume fruit weight trait (TO:0001092) which is the dry weight of a legume fruit (PO:0030100).
+TO:0003030	legume fruit fresh weight	A legume fruit weight trait (TO:0001092) which is the fresh weight of a legume fruit (PO:0030100).
+TO:0003034	leaf moisture content	A moisture content trait (TO:0000228) which is the amount of moisture of a leaf (PO:0025034).
+TO:0003035	stem moisture content	A moisture content trait (TO:0000228) which is the amount of moisture of a stem (PO:0009047).
+TO:0003036	root moisture content	A moisture content trait (TO:0000228) which is the amount of moisture of a root (PO:0009005).
+TO:0003037	plant moisture content	A moisture content trait (TO:0000228) which is the amount of moisture of the whole plant (PO:0000003).
+TO:0003038	shoot moisture content	A moisture content trait (TO:0000228) which is the amount of moisture of the shoot system (PO:0009006).
+TO:0003039	infructescence moisture content	A moisture content trait (TO:0000228) which is the amount of moisture of a infructescence (PO:0006342).
+TO:0003041	second order infructescence moisture content	A moisture content trait (TO:0000228) which is the amount of moisture of a second order infructescence (PO:0025241).
+TO:0003044	legume fruit moisture content	A moisture content trait (TO:0000228) which is the amount of moisture of a legume fruit (PO:0030100).
+TO:0003046	ear moisture content	A moisture content trait (TO:0000228) which is the amount of moisture of a ear infructescence (PO:0025597).
+TO:0003047	cob moisture content	A moisture content trait (TO:0000228) which is the amount of moisture of a ear infructescence axis (PO:0025623).
+TO:0003049	leaf potassium content	A potassium content trait (TO:0000609) which is the amount of potassium cation (CHEBI:29103) in a leaf (PO:0025034).
+TO:0003050	stem potassium content	A potassium content trait (TO:0000609) which is the amount of potassium cation (CHEBI:29103) in a stem (PO:0009047).
+TO:0003051	infructescence potassium content	A potassium content trait (TO:0000609) which is the amount of potassium cation (CHEBI:29103) in an infructescence (PO:0006342).
+TO:0003053	second order infructescence potassium content	A potassium content trait (TO:0000609) which is the amount of potassium cation (CHEBI:29103) in a second order infructescence (PO:0025241).
+TO:0003056	grain potassium content	A potassium content trait (TO:0000609) which is the amount of potassium cation (CHEBI:29103) in a caryopsis fruit (PO:0030104).
+TO:0003058	ear potassium content	A potassium content trait (TO:0000609) which is the amount of potassium cation (CHEBI:29103) in a ear infructescence (PO:0025597).
+TO:0003059	cob potassium content	A potassium content trait (TO:0000609) which is the amount of potassium cation (CHEBI:29103) in a ear infructescence axis (PO:0025623).
+TO:0003061	legume fruit potassium content	A potassium content trait (TO:0000609) which is the amount of potassium cation (CHEBI:29103) in a legume fruit (PO:0030100).
+TO:0003062	stem nitrogen content	A nitrogen content trait (TO:0020093) which is the amount of nitrogen (CHEBI:51143) in a stem (PO:0009047).
+TO:0003063	infructescence nitrogen content	A nitrogen content trait (TO:0020093) which is the amount of nitrogen (CHEBI:51143) in an infructescence (PO:0006342).
+TO:0003064	pepo fruit nitrogen content	A nitrogen content trait (TO:0020093) which is the amount of nitrogen (CHEBI:51143) in a pepo fruit (PO:0030111).
+TO:0003065	second order infructescence nitrogen content	A nitrogen content trait (TO:0020093) which is the amount of nitrogen (CHEBI:51143) in a second order infructescence (PO:0025241).
+TO:0003066	tuberous root tuber nitrogen content	A nitrogen content trait (TO:0020093) which is the amount of nitrogen (CHEBI:51143) in a tuberous root tuber (PO:0025476).
+TO:0003067	subterranean shoot axis tuber nitrogen content	A moisture content trait (TO:0000228) which is the amount of nitrogen (CHEBI:51143) in a subterranean shoot axis tuber (PO:0004547).
+TO:0003068	grain nitrogen content	A nitrogen content trait (TO:0020093) which is the amount of nitrogen (CHEBI:51143) in a caryopsis fruit (PO:0030104).
+TO:0003069	panicle nitrogen content	A nitrogen content trait (TO:0020093) which is the amount of nitrogen (CHEBI:51143) in a panicle inflorescence (PO:0030123).
+TO:0003070	ear nitrogen content	A nitrogen content trait (TO:0020093) which is the amount of nitrogen (CHEBI:51143) in a ear infructescence (PO:0025597).
+TO:0003073	legume fruit nitrogen content	A nitrogen content trait (TO:0020093) which is the amount of nitrogen (CHEBI:51143) in a legume fruit (PO:0030100).
+TO:0003074	root nitrogen content	A nitrogen content trait (TO:0020093) which is the amount of nitrogen (CHEBI:51143) in a root (PO:0009005).
+TO:0003076	stem phosphorus content	A phosphorus content trait (TO:0001024) which is the amount of phosphorus cation (CHEBI:33467) in a stem (PO:0009047).
+TO:0003077	infructescence phosphorus content	A phosphorus content trait (TO:0001024) which is the amount of phosphorus cation (CHEBI:33467) in an infructescence (PO:0006342).
+TO:0003079	second order infructescence phosphorus content	A phosphorus content trait (TO:0001024) which is the amount of phosphorus cation (CHEBI:33467) in a second order infructescence (PO:0025241).
+TO:0003082	grain phosphorus content	A phosphorus content trait (TO:0001024) which is the amount of phosphorus cation (CHEBI:33467) in a caryopsis fruit (PO:0030104).
+TO:0003087	legume fruit phosphorus content	A phosphorus content trait (TO:0001024) which is the amount of phosphorus cation (CHEBI:33467) in a legume fruit (PO:0030100).
+TO:0003088	leaf carbon content	A carbon content trait (TO:0000466) which is the amount of carbon (CHEBI:27594) in a leaf (PO:0025034).
+TO:0003089	stem carbon content	A carbon content trait (TO:0000466) which is the amount of carbon (CHEBI:27594) in a stem (PO:0009047).
+TO:0003090	root carbon content	A carbon content trait (TO:0000466) which is the amount of carbon (CHEBI:27594) in a root (PO:0009005).
+TO:0003091	infructescence carbon content	A carbon content trait (TO:0000466) which is the amount of carbon (CHEBI:27594) in an infructescence (PO:0006342).
+TO:0003093	second order infructescence carbon content	A carbon content trait (TO:0000466) which is the amount of carbon (CHEBI:27594) in a second order infructescence (PO:0025241).
+TO:0003096	grain carbon content	A carbon content trait (TO:0000466) which is the amount of carbon (CHEBI:27594) in a caryopsis fruit (PO:0030104).
+TO:0003101	legume fruit carbon content	A carbon content trait (TO:0000466) which is the amount of carbon (CHEBI:27594) in a legume fruit (PO:0030100).
+TO:0005001	linoleic acid content	The linoleic acid content in the essential oils present in or extracted from a plant or the plant part such as seed.
+TO:0005002	oleic acid content	The oleic acid content in the essential oils present in or extracted from a plant or the plant part such as seed.
+TO:0005003	stearic acid content	The stearic acid content in the essential oils present in or extracted from a plant or the plant part such as seed.
+TO:0005004	omega-3 fatty acid content	The omega-3 fatty acid content in the essential oils present in or extracted from a plant or the plant part such as seed.
+TO:0005005	alpha-linolenic acid content	The alpha-linolenic acid content in the essential oils present in or extracted from a plant or the plant part such as seed.
+TO:0005006	glyphosate sensitivity	An assay to determine the sensitivity (tolerance or susceptibility) exhibited by a plant or a group of plants (population) towards the applied herbicide glyphosate.
+TO:0005007	glufosinate sensitivity	An assay to determine the sensitivity (tolerance or susceptibility) exhibited by a plant or a group of plants (population) towards the applied herbicide glufosinate.
+TO:0005008	acetolactate synthase inhibitor sensitivity	An assay to determine the sensitivity (tolerance or susceptibility) exhibited by a plant or a group of plants (population) towards the applied herbicide class of acetolactate synthase inhibitor.
+TO:0005009	European corn borer resistance	Causal agent: Ostrinia nubialis.
+TO:0005010	rootworm resistance	Causal agent: Diabrotica spp.
+TO:0006001	salt tolerance	Tolerance to the high salt content in the growth medium.
+TO:0006002	proline content	Amino acid proline content in a plant or plant part.
+TO:0006003	oligosaccharide content	Amount of oligosaccharides present in the plant or its parts.
+TO:0006004	raffinose content	Amount of raffinose present in the plant or plant part.
+TO:0006005	fructose content	Amount of fructose present in the plant or plant part.
+TO:0006006	monosaccharide content	Amount of monosaccharide present in the plant or plant part.
+TO:0006007	polysaccharide content	Amount of polysaccharide present in the plant or plant part.
+TO:0006012	carpel morphology trait	A megasporophyll morphology trait (TO:0000867) which is a quality of a carpel (PO:0009030).
+TO:0006013	carpel number	A carpel morphology trait (TO:0006012) which is the number of carpels (PO:0009030) in the gynoecium (PO:0009062).
+TO:0006014	phyllotaxy	A leaf morphology trait (TO:0000748) which is the arrangement of the leaves on the shoot of a plant.
+TO:0006016	meristem tissue development trait	An assay to determine the variation in the  meristematic tissue development.
+TO:0006017	meristem identity	Trait to determine the variation or effect on the establishment of meristem identity or determinacy.
+TO:0006018	organ identity	Trait associated with observing effects on the establishment of organ identity.
+TO:0006019	floral organ identity	Trait associated with observing effects on the establishment of floral organ identity.
+TO:0006020	shoot apical meristem development	An assay to associate observing effects on the development of shoot apical (SAM) meristem.
+TO:0006021	vegetative to reproductive phase transition trait	Trait associated with the transition of vegetative growth phase to the reproductive growth phase.
+TO:0006022	floral organ development trait	Traits associated with observing effects on the development of the floral organ and its parts.
+TO:0006025	flower bract development trait	Traits associated with observing effects on the development of the floral bracts.
+TO:0006026	flower bract number	A flower morphology trait (TO:0000499) which is the number of flower bracts (TO:0006026).
+TO:0006027	inflorescence bract development trait	An inflorescence development trait (TO:0000621) which is the quality of the development of an inflorescence bract (PO:0009054).
+TO:0006028	inflorescence bract number	Number of given type of bracts in a inflorescence.
+TO:0006031	inflorescence size	An inflorescence morphology trait (TO:0000373) which is the variation in size of inflorescence (PO:0009049).
+TO:0006034	tertiary branch number	A tertiary branching of inflorescence (TO:0006035) trait which is the number of tertiary branches in an inflorescence (PO:0009049).
+TO:0006036	stem elongation	Elongation of the stem.
+TO:0006037	carpel shape	A carpel morphology trait (TO:0006012) which is the shape of a carpel (PO:0009030).
+TO:0006038	floral organ number	A floral organ morphology trait (TO:0000862) which is the number of floral organ (PO:0025395) types in a flower (PO:0009046).
+TO:0006039	petal number	A petal morphology trait (TO:0000863) which is the number of petals (PO:0009032) in a flower (PO:0009049).
+TO:0006040	sepal number	A sepal morphology trait (TO:0000864) which is the number of the sepals (PO:0009031) in a flower (PO:0009049).
+TO:0006041	tepal number	A tepal morphology trait (TO:0000865) which is the number of the tepals (PO:0009033) in a flower (PO:0009049).
+TO:0006042	lithium content	A mineral and ion content trait (TO:0000465) which is the lithium cation (CHEBI:49713) composition in a plant structure (PO:0009011).
+TO:0006043	boron content	A mineral and ion content trait (TO:0000465) which is the boron cation (CHEBI:30168) composition in a plant structure (PO:0009011).
+TO:0006044	magnesium content	A mineral and ion content trait (TO:0000465) which is the magnesium cation (CHEBI:18420) composition in a plant structure (PO:0009011).
+TO:0006045	phosphorus concentration	A phosphorus content (TO:0001024) which is the concentration of phosphorus (CHEBI:26082) in some plant structure (PO:0009011)
+TO:0006046	sulfur content	A mineral and ion content trait (TO:0000465) which is the sulfur cation (CHEBI:29832) composition in a plant structure (PO:0009011).
+TO:0006047	calcium content trait	A mineral and ion content trait (TO:0000465) which is the calcium cation (CHEBI:39123) composition in a plant structure (PO:0009011).
+TO:0006048	manganese concentration	A manganese content (TO:0020091) which is the concentration of manganese (CHEBI:25154) in some plant structure (PO:0009011)
+TO:0006049	iron concentration	An iron content (TO:0020089) which is the concentration of iron cation (CHEBI:24875) in a plant structure (PO:0009011)
+TO:0006050	cobalt concentration	A cobalt content trait (TO:0001044) which is the concentration of cobalt cation (CHEBI:23336) in a plant structure (PO:0009011).
+TO:0006051	nickel content	A mineral and ion content trait (TO:0000465) which is the nickel cation (CHEBI:25516) composition in a plant structure (PO:0009011).
+TO:0006052	copper concentration	A copper content (TO:0020092) which is the concentration of copper (CHEBI:23377) in a plant structure (PO:0009011)." [Gramene:Karthik] {comment="TO:Laurel_Cooper
+TO:0006053	zinc concentration	A zinc content (TO:0020090) which is the concentration of zinc (CHEBI:63056) in some plant structure (PO:0009011)
+TO:0006054	arsenic content trait	A mineral and ion content trait (TO:0000465) which is the arsenic cation (CHEBI:35829) composition in a plant structure (PO:0009011).
+TO:0006055	selenium content	A mineral and ion content trait (TO:0000465) which is the selenium ion (CHEBI:60250) composition in a plant structure (PO:0009011).
+TO:0006056	molybdenum content	A mineral and ion content trait (TO:0000465) which is the molybdenum cation (CHEBI:37239) composition in a plant structure (PO:0009011).
+TO:0006057	cuperous ion concentration	The total Cu2+ ion concentration measured in a given volume of a plant or a plant part or plant extract.
+TO:0006058	cuperic ion concentration	The total Cu3+ ion concentration measured in a given volume of a plant or a plant part or plant extract.
+TO:0006059	cadmium content trait	A mineral and ion content trait (TO:0000465) which is the cadmium cation (CHEBI:63063) composition in a plant structure (PO:0009011).
+TO:0006060	leaf chlorosis	A leaf color trait (TO:0006060) describing the yellowing of leaves, due to insufficient production of chlorophyll.
+TO:0006061	days to germinate	Number of days taken from the day of sowing to the first emergence of cotyledons or hypocotyl.
+TO:0006062	plant width	The average width of a plant measured across an axis such as the main stem/stalk.
+TO:0006063	leaf margin serrated	A leaf margin morphology trait (TO:0002635) which is a notched or grooved leaf margin (PO:0020128).
+TO:0006064	rolled leaf	Leaf lamina rolled into a tube like structure.
+TO:0006065	seedling hypocotyl length	A seedling hypocotyl morphology trait (TO:0000769) which is the length of a seedling hypocotyl (PO:0025291).
+TO:0006066	leaf trichome density	A leaf pubescence (TO:0002722) trait which is the density of leaf trichomes (PO:0006504).
+TO:0006067	aphid resistance	Resistance displayed by the plant to the aphid infestation.
+TO:0006068	germinability in dark	Measure of the seed's germination ability in dark.
+TO:0007000	seed volume	A seed morphology trait (TO:0000184) which is the volume of a seed (PO:0009010).
+TO:0010001	percent germination	The percentage of seeds that germinate against the total number of seeds planted.
+TO:0011001	leaf lamina color distribution	Describes the way different colors, their hue and shades are distributed on a leaf lamina and its parts such as leaf margin, leaf tip, leaf veins.
+TO:0011002	inflorescence primary branch attitude	An inflorescence primary branch morphology trait (TO:0000846) which is the attitude of a second order inflorescence axis (PO:0006321) in terms of upright and drooping characters.
+TO:0011004	inflorescence branch color	An inflorescence branch morphology trait (TO:0000784) which is the color of the inflorescence branch (PO:0009081).
+TO:0011005	penultimate leaf length	Length of the leaf penultimate to the first leaf below the inflorescence.
+TO:0011006	penultimate leaf lamina width	Lamina width of the leaf penultimate to the first leaf below the inflorescence.
+TO:0011008	stigma length	A floral organ length (TO:0002614) that is the length of the stigma (PO:0009073).
+TO:0011009	style length	A floral organ length (TO:0002614) that is the length of the style (PO:0009074).
+TO:0011010	internode color in proxomity to colored node	Color of the spatial section of the internode that is found proximal (next) to the colored node of a stem.
+TO:0012001	leaf area index	Leaf Area Index (LAI) is the ratio of total upper leaf surface of vegetation divided by the surface area of the land on which the vegetation grows.
+TO:0012002	leaf chlorophyll content	A chlorophyll content trait (TO:0000495) which is the chlorophyll content of a leaf (PO:0025034).
+TO:0012004	quantum yield	quantum yield
+TO:0012005	chlorophyll fluorescence induction kinetics	chlorophyll fluorescence induction kinetics
+TO:0012007	quantum yield determined by the light curve	quantum yield determined by the light curve
+TO:0012008	quantum yield at a given wavelength	quantum yield at a given wavelength
+TO:0012009	continuous fluorescence yield	continuous fluorescence yield
+TO:0012010	leaf area duration	Leaf Area Duration (LAD) is the ratio of total upper leaf surface of vegetation divided by the surface area of the land on which the vegetation grows. Measured over time.
+TO:0012011	leaf senescence rate	Rate of loss of normal leaf color over time.
+TO:0012012	leaf senescence duration	Time taken to lose normal leaf color.
+TO:0020003	shoot system potassium content	A potassium content trait (TO:0000609) which is the potassium cation (CHEBI:29103) composition in a shoot system (PO:0009006).
+TO:0020004	shoot system sodium content	A sodium content trait (TO:0000608) which is the sodium cation (CHEBI:29101) composition in a shoot system (PO:0009006).
+TO:0020017	seed coat spotted	A seed coat pattern trait (TO:0000904) where the seed coat (PO:0009088) has colored spots.
+TO:0020029	leaf lamina pubscence length	Length of pubescence (presence of hairs) on the leaf blade surface.
+TO:0020030	leaf lamina pubescence density	Density of pubescence (presence of hairs) on the leaf blade surface.
+TO:0020031	leaf lamina margin pubescence length	A leaf lamina margin pudescence (TO:0002723) trait which is the length of pubescence (presence of hairs) on the leaf lamina margin (PO:0025009).
+TO:0020032	leaf lamina margin pubescence density	A leaf lamina margin pubescence trait (TO:0002723) which is the density of pubescence (presence of hairs) on the leaf lamina margin (PO:0025009).
+TO:0020033	glume length	A glume morphology trait (TO:0000869) which is the length of a glume (PO:0009039) measured in mm (millimeter).
+TO:0020034	glume width	A glume morphology trait (TO:0000869) with is the measurement of width of glume (PO:0009039) in mm (millimeter).
+TO:0020035	glume pubescence density	A glume pubescence (TO:0020036) trait which is the measurement of glume hairines density on outer side of sterile glume (PO:0009039).
+TO:0020036	glume pubescence	A glume morphology trait (TO:0000869) which is the extent of pubescence  (presence of hairs)  on the glume (PO:0009039) surface.
+TO:0020037	glume pubescence length	A glume pubescence (TO:0020036) which is the measurement of length of hairs on glume (PO:0009039).
+TO:0020038	glume waxiness	A glume morphology trait (TO:0000869) which is the presence of wax on a glume (PO:0009039).
+TO:0020068	beta-glucan content	Amount of beta-glucan present in the plant part or product (e.g. malt). Beta-Glucans are polysaccharides of D-glucose linked by beta-glycosidic bonds that vary by molecular mass, solubility, viscosity and 3D configuration.
+TO:0020069	spike exsertion	An inflorescence exsertion (TO:0001002) trait measured in distance from the base of the spike (PO:0030117) to the auricle (PO:0020106) of the flag leaf (PO:0020103).
+TO:0020070	beta-glucanase activity trait	Activity of beta-glucanase ((1,3-1,4)-beta-D-glucan, 4-glucanohydrolase), (EC:3.2.1.73) in the hydrolysis of beta-glucans.
+TO:0020071	beta-glucanase thermostability	The ability of beta-glucanase to remain active under mashing (boiling grain in water) conditions during beer making.
+TO:0020072	residual beta-glucanase activity trait	Activity of beta-glucanase in the barley wort (the boiled grain and water) during the beer making process.
+TO:0020076	phenolic compound content	Amount of phenolics present in the plant part, whole plant or product.
+TO:0020078	zeaxanthin content	A xanthophyll content (TO:0000301) which is the amount of zeaxanthin (CHEBI:27547) in a plant structure (PO:0009011).
+TO:0020079	beta-cryptoxanthin content	A xanthophyll content (TO:0000301) which is the amount of beta-cryptoxanthin (CHEBI:10362) in a plant structure (PO:0009011).
+TO:0020080	stover organic matter digestibility	This trait determines the amount of organic matter from the stover that would eventually be digested by animals. Value derived from chemical and in vitro analysis with rumen microbial inoculum of dried and ground stover, usually using Near Infrared Reflectance Spectrophotometry (NIRS) after appropriate calibration.
+TO:0020081	metabolized energy of stover	The trait  takes into account energy losses occurring in the animal in faeces, urine and CH4 and estimates how much energy (in calories or joules) a given unit of ground stover is actually available for meat and milk production . Value derived from chemical and in vitro analysis of dried and ground stover.
+TO:0020082	stover nitrogen content	A trait to measure percent nitrogen concentration in the stover sample used for predicting crude protein (CP) content of stover by multiplication with a factor of 6.25 (CP = N x 6.25). This concentration is one of the criteria to assess the quality of fodder. Value derived from the analysis of stover using Near Infrared Reflectance Spectrophotometry (NIRS).
+TO:0020083	stem diameter	A stem morphology trait (TO:0000361) which is the diameter of a stem (PO:0009047).
+TO:0020084	spiral leaf	A trait to measure leaf spiralling.
+TO:0020085	stem senescence	A shoot development trait (TO:0000654) to measure the senescence of a stem (PO:0009047).
+TO:0020086	neck leaf presence	A trait to observe neck leaf presence.
+TO:0020087	root cracking	A trait measuring the extent of physical cracking of a root caused by genetic, environmental factors or by post-harvest storage and handling of the root or root part.
+TO:0020088	total water soluble content	A metabolite content trait (TO:0000281) which is the concentration of water soluble components in a plant structure (PO:0009011).
+TO:0020089	iron content trait	A mineral and ion content trait (TO:0000465) which is the iron cation (CHEBI:24875) composition in a plant structure (PO:0009011).
+TO:0020090	zinc content trait	A mineral and ion content trait (TO:0000465) which is the amount of zinc (CHEBI:63056) in a plant structure (PO:0009011).
+TO:0020091	manganese content	A mineral and ion content trait (TO:0000465) which is the amount of manganese (CHEBI:25154) in a plant structure (PO:0009011).
+TO:0020092	copper content trait	A mineral and ion content trait (TO:0000465) which is the copper cation (CHEBI:23378) composition in a plant structure (PO:0009011).
+TO:0020093	nitrogen content	A mineral and ion content trait (TO:0000465) which is the amount of nitrogen (CHEBI:51143) in a plant structure (PO:0009011).
+TO:0020094	nitrate content	A mineral and ion content trait (TO:0000465) which is the amount of nitrate (CHEBI:17632) in a plant structure (PO:0009011).
+TO:0020095	stomatal process related trait	Trait associated with any of the stomatal opening, closure, conductance, resistance process.
+TO:0020097	stomatal opening	A trait to measure the physiological parameters involved in the process of opening of stomatal pores.
+TO:0020098	nitrate sensitivity	The sensitivity to the nitrate content in the growth medium.
+TO:0020099	nitrate transport	Trait associated with directed movement of nitrate into, out of, within or between cells.
+TO:0020100	nitrate uptake	The total nitrate ion uptake measured in a plant or a plant part.
+TO:0020101	starch mobilization	Trait associated with directed movement of starch.
+TO:0020102	phosphate content	A mineral and ion content trait (TO:0000465) which is the amount of phosphate (CHEBI:26020) in a plant structure (PO:0009011).
+TO:0020103	adventitious root length	A root length (TO:0000227) trait which is the length of an adventitious root (shoot-borne root; PO:0000042).
+TO:0020104	adventitious rootless	Absence of adventitious roots in the plant.
+TO:0020105	CW-cytoplasmic male sterility	A trait to measure the CW type of ytoplasmic male sterility in plants.
+TO:0020106	Indole-3-acetic acid content	An auxin content (TO:0002672) which is the amount of indole-3-acetic acid (CHEBI:16411) in a plant structure (PO:0009011).
+TO:0020107	plant cell length	A plant cell morphology trait (TO:0002683) which is the length of  a plant cell (PO:0009002).
+TO:0020108	root cortical cell length	The length of the root cortical cell." [Gramene:pankaj_jaiswal] {comment="TO:Laurel_Cooper
+TO:0020109	vascular bundle development trait	Traits associated with observing effects on the development of vascular bundle.
+TO:0020110	gynoecium development trait	Traits associated with observing effects on the development of the gynoecium.
+TO:0020111	ovary development trait	Traits associated with observing effects on the development of the ovary.
+TO:0020112	phosphorus toxicity	Accumulation of phosphate level in a plant or a plant part at toxic level.
+TO:0020114	shoot system phosphorus content	A phosphorus content trait (TO:0001024) which is the phosphorus cation (CHEBI:33467) composition in a shoot system (PO:0009006).
+TO:0020115	chlorophyll fluorescence quenching	The process to maintain the balance between dissipation and utilization of light energy to minimize generation of oxidizing molecules.
+TO:0020116	photochemical quenching	The process to maintain the balance between dissipation and utilization of light energy to minimize generation of oxidizing molecules under light conditions.
+TO:0020117	non photochemical quenching	The process to maintain the balance between dissipation and utilization of light energy to minimize generation of oxidizing molecules under no light conditions.
+TO:0020118	neoxanthin content	A xanthophyll content (TO:0000301) which is the amount of neoxanthin (CHEBI:25501) in a plant structure (PO:0009011).
+TO:0020119	violaxanthin content	A xanthophyll content (TO:0000301) which is the amount of violaxanthin (CHEBI:27295) in a plant structure (PO:0009011).
+TO:0020120	involucral bract spine presence	An inflorescence bract morphology trait (TO:0000819) which is the presence of  spines on an involucral bract (PO:0009045).
+TO:0020121	arachnid damage response trait	An animal damage response trait (TO:0000054) which is the response to damage to a plant structure (PO:0009011) caused by an arachnid (NCBITaxon:6854).
+TO:0020122	two-spotted spider mite damage response trait	An arachnid damage response trait (TO:0020121) which is the response to damage to a plant structure (PO:0009011) caused by a two-spotted spider mite  (Tetranychus urticae Koch; NCBITaxon:32264).
+TO:0020123	ethanol yield from biomass	A trait to measure the ethanol yield from the industrial processing of feedstock (biomass).
+TO:1000000	stem internode bent	A stem internode morphology trait (TO:0000756) where the stem internode (PO:0020142) is bent.
+TO:1000002	secondary xylem volumetric density	A trait which is associated with the volumetric density of a secondary xylem.
+TO:1000003	shoot axis node color	A trait which is associated with the color of a shoot axis node.
+TO:1000004	infructescence position	An infructescence morphology trait (TO:0000920) which is the position of an infructescence (PO:0006342).
+TO:1000006	tuberous root tuber diameter	A tuberous root tuber morphology trait (TO:1000007) which is the diameter of a tuberous root tuber (PO:0025476).
+TO:1000007	tuberous root tuber morphology trait	A tuber morphology trait (TO:0000741) which is the quality of a tuberous root tuber (PO:0025476).
+TO:1000008	branch position	A branch morphology trait (TO:0000740) which is the position of a branch (PO:0025073).
+TO:1000009	branch angle	A branch morphology trait (TO:0000740) which is the angle of a branch (PO:0025073).
+TO:1000010	caruncle color	A cardinal part of a multi-tissue plant structure morphology trait (TO:0000837) which is the color of a caruncle (PO:0020060).
+TO:1000011	fruit position	A fruit morphology trait (TO:0002629) which is the position of a fruit (PO:0009001).
+TO:1000012	whole plant size	A whole plant morphology trait (TO:0000398) which is the size of a whole plant (PO:0000003).
+TO:1000013	leaf lamina lobe morphology trait	A cardinal organ part morphology trait (TO:0000754) which is a quality of a leaf lamina lobe (PO:0025517).
+TO:1000014	leaf lamina lobe length	A leaf lamina lobe morphology trait (TO:1000013) which is the length of a leaf lamina lobe (PO:0025517).
+TO:1000015	leaf lamina lobe width	A leaf lamina lobe morphology trait (TO:1000013) which is the width of a leaf lamina lobe (PO:0025517).
+TO:1000016	plant ovary color	A plant ovary morphology (TO:10000021) which is the color of a plant ovary (PO:0009072).
+TO:1000017	stem cortex color	A portion of plant tissue morphology trait (TO:0000843) which is the color of a stem cortex (PO:0025612).
+TO:1000018	stem epidermis color	A portion of plant tissue morphology trait (TO:0000843) which is the color of a stem epidermis (PO:0025178).
+TO:1000019	disk flower color	A flower color trait (TO:0000537) which is the color of a disk flower (PO:0025332).
+TO:1000020	stipule length	A cardinal organ part morphology trait (TO:0000754) which is the length of a stipule (PO:0020041).
+TO:1000021	plant ovary morphology	A plant structure morphology trait (TO:0000839) which is a quality of a plant ovary (PO:0009072).
+TO:1000022	anther morphology trait	A collective plant organ structure trait (TO:0000842) which is the quality of an anther (PO:0009066).
+TO:1000025	root system aluminum content	An aluminium content trait (TO:0000995) which is the aluminium cation (CHEBI:63062) composition in a root system (PO:0025025).
+TO:1000026	root system arsenic content	An arsenic content trait (TO:0006054) which is the arsenic cation (CHEBI:35829) composition in a root system (PO:0025025).
+TO:1000027	root system boron content	A boron content trait (TO:0006043) which is the boron cation (CHEBI:30168) composition in a root system  (PO:0025025).
+TO:1000028	root system barium content	A barium content trait (TO:0001043) which is the barium cation (CHEBI:39125) composition in a root system (PO:0025025).
+TO:1000029	root system calcium content	A calcium content trait (TO:0006047) which is the calcium cation (CHEBI:39123) composition in a root system (PO:0025025).
+TO:1000030	root system cadmium content	A cadmium content trait (TO:0006059) which is the cadmium cation (CHEBI:63063) composition in a root system (PO:0025025).
+TO:1000031	root system cobalt content	A cobalt content trait (TO:0001044) which is the cobalt cation (CHEBI:23336) composition in a root system (PO:0025025).
+TO:1000032	root system chromium content	A chromium content trait (TO:0001045) which is the chromium cation (CHEBI:33516) composition in a root system (PO:0025025).
+TO:1000033	root system copper content	A copper content trait (TO:0020092) which is the copper cation (CHEBI:23378) composition in a root system (PO:0025025).
+TO:1000034	root system iron content	An iron content trait (TO:0020089) which is the iron cation (CHEBI:24875) composition in a root system (PO:0025025).
+TO:1000035	root system iodine content	An iodine content trait (TO:0001046) which is the iodine cation (CHEBI:33116) in a root system (PO:0025025).
+TO:1000036	root system potassium content	A potassium content trait (TO:0000609) which is the potassium cation (CHEBI:29103) composition in a root system (PO:0025025).
+TO:1000037	root system lithium content	A lithium content trait (TO:0006042) which is the lithium cation (CHEBI:49713) composition in a root system (PO:0025025).
+TO:1000038	root system magnesium content	A magnesium content trait (TO:0006044) which is the magnesium cation (CHEBI:18420) composition in a root system (PO:0025025).
+TO:1000039	root system manganese content	A manganese content trait (TO:0020091) which is the manganese cation (CHEBI:29035) composition in a root system (PO:0025025).
+TO:1000040	root system molybdenum content	A molybdenum content trait (TO:0006056) which is the molybdenum cation (CHEBI:37239) composition in a root system (PO:0025025).
+TO:1000041	root system sodium content	A sodium content trait (TO:0000608) which is the sodium cation (CHEBI:29101) composition in a root system (PO:0025025).
+TO:1000042	root system nickel content	A nickel content trait (TO:0006051) which is the nickel cation (CHEBI:25516) composition in a root system (PO:0025025).
+TO:1000043	root system phosphorus content	A phosphorus content trait (TO:0001024) which is the phosphorus cation (CHEBI:33467) composition in a root system (PO:0025025).
+TO:1000044	root system lead content	A lead content trait (TO:0001047) which is the lead cation (CHEBI:30180) composition in a root system (PO:0025025).
+TO:1000045	root system rubidium content	A rubidium content trait (TO:0001049) which is the rubidium cation (CHEBI:49847) composition in a root system (PO:0025025).
+TO:1000046	root system sulfur content	A sulfur content trait (TO:0006046) which is the sulfur cation (CHEBI:29832) composition in a root system (PO:0025025).
+TO:1000047	root system selenium content	A selenium content trait (TO:0006055) which is the selenium ion (CHEBI:60250) composition in a root system (PO:0025025).
+TO:1000048	root system silicon content	A silicon content trait (TO:0001048) which is the  silicon cation (CHEBI:30584) composition in a root system (PO:0025025).
+TO:1000049	root system strontium content	A mineral and ion content trait  (TO:0000465) which is the strontium ion (CHEBI:39130) composition in a root system (PO:0025025).
+TO:1000050	root system zinc content	A zinc content trait (TO:0020090) which is the zinc (CHEBI:63056) composition in a root system (PO:0025025).
+TO:1000051	shoot system aluminum content	An aluminium content trait (TO:0000995) which is the aluminium cation (CHEBI:63062) composition in a shoot system (PO:0009006).
+TO:1000052	shoot system arsenic content	An arsenic content trait (TO:0006054) which is the arsenic cation (CHEBI:35829) composition in a shoot system (PO:0009006).
+TO:1000053	shoot system boron content	A boron  content trait (TO:0006043) which is the boron cation (CHEBI:30168) composition in a shoot system (PO:0009006).
+TO:1000054	shoot system barium content	A barium content trait (TO:0001043) which is the barium cation (CHEBI:39125) composition in a shoot system (PO:0009006).
+TO:1000055	shoot system calcium content	A calcium content trait (TO:0006047) which is the calcium cation (CHEBI:39123) composition in a shoot system (PO:0025025).
+TO:1000056	shoot system cadmium content	A cadmium content trait (TO:0006059) which is the cadmium cation (CHEBI:63063) composition in a shoot system (PO:0009006).
+TO:1000057	shoot system cobalt content	A cobalt content trait (TO:0001044) which is the cobalt cation (CHEBI:23336) composition in a shoot system (PO:0009006).
+TO:1000058	shoot system chromium content	A chromium content trait (TO:0001045) which is the chromium cation (CHEBI:33516) composition in a shoot system (PO:0009006).
+TO:1000059	shoot system copper content	A copper content trait (TO:0020092) which is the copper cation (CHEBI:23378) composition in a shoot system (PO:0009006).
+TO:1000060	shoot system iron content	An iron content trait (TO:0020089) which is the iron cation (CHEBI:24875) composition in a shoot system (PO:0009006).
+TO:1000061	shoot system iodine content	An iodine content trait (TO:0001046) which is the iodine cation (CHEBI:33116) in a shoot system (PO:0009006).
+TO:1000062	shoot system lithium content	A lithium content trait (TO:0006042) which is the lithium cation (CHEBI:49713) composition in a shoot system (PO:0009006).
+TO:1000063	shoot system magnesium content	A magnesium content trait (TO:0006044) which is the magnesium cation (CHEBI:18420) composition in a shoot system (PO:0009006).
+TO:1000064	shoot system manganese content	A manganese content trait (TO:0020091) which is the manganese cation (CHEBI:29035) composition in a shoot system (PO:0009006).
+TO:1000065	shoot system molybdenum content	A molybdenum content trait (TO:0006056) which is the (CHEBI:37239) in a shoot system (PO:0009006).
+TO:1000066	shoot system nickel content	A nickel content trait (TO:0006051) which is the nickel cation (CHEBI:25516) composition in a shoot system (PO:0009006).
+TO:1000067	shoot system lead content	A lead content trait (TO:0001047) which is the lead cation (CHEBI:30180) composition  in a shoot system (PO:0009006).
+TO:1000068	shoot system rubidium content	A rubidium content trait (TO:0001049)  which is the rubidium cation (CHEBI:49847) composition in a shoot system (PO:0009006).
+TO:1000069	shoot system sulfur content	A sulfur content trait (TO:0006046) which is the sulfur cation (CHEBI:29832) composition in a shoot system (PO:0009006).
+TO:1000070	shoot system selenium content	A selenium content trait (TO:0006055) which is the selenium ion (CHEBI:60250) composition in a shoot system (PO:0009006).
+TO:1000071	shoot system silicon content	A silicon content trait (TO:0001048) which is the  silicon cation (CHEBI:30584) composition in a shoot system (PO:0009006).
+TO:1000072	shoot system strontium content	A strontium content trait (TO:0001050) which is the strontium ion (CHEBI:39130) composition in a shoot system (PO:0009006).
+TO:1000073	shoot system zinc content	A zinc content trait (TO:0020090) which is the zinc (CHEBI:63056) composition in the shoot system (PO:0009006).
+TO:1000074	linolenic acid content	An essential fatty acid (TO:0000604) content which is the amount of a polyunsaturated, 18 carbon long fatty acid, with three double bonds.
+TO:1000075	palmitic acid content	A fatty acid content (TO:0000604) which is the amount of a straight-chain, sixteen-carbon, saturated long-chain fatty acid in a plant structure.
